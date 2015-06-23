@@ -1,0 +1,2291 @@
+{
+    "abanan.se": {
+        "force_https": 0
+    },
+    "accept.se": {
+        "force_https": 0
+    },
+    "afaforsakring.se": {
+        "force_https": 1
+    },
+    "affarsvarlden.se": {
+        "force_https": 0
+    },
+    "aftonbladet.se": {
+        "force_https": 0
+    },
+    "agria.se": {
+        "force_https": 0
+    },
+    "akademiskahus.se": {
+        "force_https": 0
+    },
+    "akelius.se": {
+        "force_https": 1
+    },
+    "aklagare.se": {
+        "force_https": 0
+    },
+    "aktsam.se": {
+        "force_https": 1
+    },
+    "alandsbanken.se": {
+        "force_https": 0
+    },
+    "ale.se": {
+        "force_https": 0
+    },
+    "alecta.se": {
+        "force_https": 1
+    },
+    "alfredberg.se": {
+        "force_https": 0
+    },
+    "alingsas.se": {
+        "force_https": 0
+    },
+    "alltele.se": {
+        "force_https": 0
+    },
+    "almhult.se": {
+        "force_https": 0
+    },
+    "almi.se": {
+        "force_https": 0
+    },
+    "alvdalen.se": {
+        "force_https": 0
+    },
+    "alvesta.se": {
+        "force_https": 0
+    },
+    "alvkarleby.se": {
+        "force_https": 0
+    },
+    "alvsbyn.se": {
+        "force_https": 0
+    },
+    "amal.se": {
+        "force_https": 0
+    },
+    "amf.se": {
+        "force_https": 1
+    },
+    "amfafinans.se": {
+        "force_https": 0
+    },
+    "amfpension.se": {
+        "force_https": 1
+    },
+    "aneby.se": {
+        "force_https": 0
+    },
+    "ange.se": {
+        "force_https": 0
+    },
+    "ap1.se": {
+        "force_https": 0
+    },
+    "ap2.se": {
+        "force_https": 0
+    },
+    "ap3.se": {
+        "force_https": 0
+    },
+    "ap4.se": {
+        "force_https": 0
+    },
+    "ap7.se": {
+        "force_https": 0
+    },
+    "apfond6.se": {
+        "force_https": 0
+    },
+    "apl.se": {
+        "force_https": 0
+    },
+    "apoteket.se": {
+        "force_https": 1
+    },
+    "apoteksgruppen.se": {
+        "force_https": 1
+    },
+    "arbetsdomstolen.se": {
+        "force_https": 0
+    },
+    "arbetsformedlingen.se": {
+        "force_https": 0
+    },
+    "arbetsgivarverket.se": {
+        "force_https": 0
+    },
+    "arboga.se": {
+        "force_https": 0
+    },
+    "are.se": {
+        "force_https": 0
+    },
+    "arjang.se": {
+        "force_https": 0
+    },
+    "arjeplog.se": {
+        "force_https": 0
+    },
+    "arn.se": {
+        "force_https": 0
+    },
+    "arvidsjaur.se": {
+        "force_https": 0
+    },
+    "arvika.se": {
+        "force_https": 0
+    },
+    "asele.se": {
+        "force_https": 0
+    },
+    "askersund.se": {
+        "force_https": 0
+    },
+    "astorp.se": {
+        "force_https": 0
+    },
+    "atvidaberg.se": {
+        "force_https": 0
+    },
+    "av.se": {
+        "force_https": 0
+    },
+    "avanza.se": {
+        "force_https": 1
+    },
+    "avesta.se": {
+        "force_https": 0
+    },
+    "bahnhof.se": {
+        "force_https": 1
+    },
+    "barnombudsmannen.se": {
+        "force_https": 0
+    },
+    "bastad.se": {
+        "force_https": 0
+    },
+    "bengtsfors.se": {
+        "force_https": 0
+    },
+    "berg.se": {
+        "force_https": 0
+    },
+    "bergslagenssparbank.se": {
+        "force_https": 0
+    },
+    "bfn.se": {
+        "force_https": 0
+    },
+    "bgc.se": {
+        "force_https": 0
+    },
+    "bilprovningen.se": {
+        "force_https": 0
+    },
+    "bjurholm.se": {
+        "force_https": 0
+    },
+    "bjuv.se": {
+        "force_https": 0
+    },
+    "blackinternet.se": {
+        "force_https": 0
+    },
+    "boden.se": {
+        "force_https": 0
+    },
+    "bolagsverket.se": {
+        "force_https": 0
+    },
+    "bollebygd.se": {
+        "force_https": 0
+    },
+    "bollnas.se": {
+        "force_https": 0
+    },
+    "boras.se": {
+        "force_https": 0
+    },
+    "borgholm.se": {
+        "force_https": 0
+    },
+    "borlange.se": {
+        "force_https": 0
+    },
+    "bostadsgaranti.se": {
+        "force_https": 0
+    },
+    "botkyrka.se": {
+        "force_https": 0
+    },
+    "botniabanan.se": {
+        "force_https": 0
+    },
+    "boverket.se": {
+        "force_https": 0
+    },
+    "boxer.se": {
+        "force_https": 1
+    },
+    "boxholm.se": {
+        "force_https": 0
+    },
+    "bra.se": {
+        "force_https": 0
+    },
+    "bracke.se": {
+        "force_https": 0
+    },
+    "bredbandsbolaget.se": {
+        "force_https": 0
+    },
+    "bromolla.se": {
+        "force_https": 0
+    },
+    "brottsoffermyndigheten.se": {
+        "force_https": 0
+    },
+    "bt.se": {
+        "force_https": 0
+    },
+    "bth.se": {
+        "force_https": 0
+    },
+    "burlov.se": {
+        "force_https": 0
+    },
+    "carnegie.se": {
+        "force_https": 0
+    },
+    "catella.se": {
+        "force_https": 0
+    },
+    "cbfonder.se": {
+        "force_https": 0
+    },
+    "chalmers.se": {
+        "force_https": 0
+    },
+    "cicerofonder.se": {
+        "force_https": 0
+    },
+    "cim.se": {
+        "force_https": 0
+    },
+    "comhem.se": {
+        "force_https": 1
+    },
+    "coop.se": {
+        "force_https": 1
+    },
+    "corren.se": {
+        "force_https": 0
+    },
+    "csn.se": {
+        "force_https": 0
+    },
+    "dalsed.se": {
+        "force_https": 0
+    },
+    "danderyd.se": {
+        "force_https": 0
+    },
+    "datainspektionen.se": {
+        "force_https": 0
+    },
+    "degerfors.se": {
+        "force_https": 0
+    },
+    "dgc.se": {
+        "force_https": 1
+    },
+    "di.se": {
+        "force_https": 0
+    },
+    "didnergerge.se": {
+        "force_https": 0
+    },
+    "dina.se": {
+        "force_https": 1
+    },
+    "dn.se": {
+        "force_https": 0
+    },
+    "dnb.se": {
+        "force_https": 0
+    },
+    "do.se": {
+        "force_https": 0
+    },
+    "doch.se": {
+        "force_https": 0
+    },
+    "dom.se": {
+        "force_https": 0
+    },
+    "domarnamnden.se": {
+        "force_https": 0
+    },
+    "domstol.se": {
+        "force_https": 0
+    },
+    "dorotea.se": {
+        "force_https": 0
+    },
+    "dramaten.se": {
+        "force_https": 0
+    },
+    "du.se": {
+        "force_https": 0
+    },
+    "eastcapital.se": {
+        "force_https": 0
+    },
+    "eda.se": {
+        "force_https": 0
+    },
+    "ehalsomyndigheten.se": {
+        "force_https": 0
+    },
+    "ekero.se": {
+        "force_https": 0
+    },
+    "ekn.se": {
+        "force_https": 0
+    },
+    "ekobrottsmyndigheten.se": {
+        "force_https": 0
+    },
+    "eksjo.se": {
+        "force_https": 0
+    },
+    "elsakerhetsverket.se": {
+        "force_https": 0
+    },
+    "emmaboda.se": {
+        "force_https": 0
+    },
+    "energimarknadsinspektionen.se": {
+        "force_https": 0
+    },
+    "energimyndigheten.se": {
+        "force_https": 0
+    },
+    "engelholm.se": {
+        "force_https": 0
+    },
+    "enkoping.se": {
+        "force_https": 0
+    },
+    "enterfonder.se": {
+        "force_https": 0
+    },
+    "epn.se": {
+        "force_https": 0
+    },
+    "erv.se": {
+        "force_https": 0
+    },
+    "esf.se": {
+        "force_https": 0
+    },
+    "eskilstuna.se": {
+        "force_https": 0
+    },
+    "eslov.se": {
+        "force_https": 0
+    },
+    "ess-scandinavia.se/": {
+        "force_https": 0
+    },
+    "essunga.se": {
+        "force_https": 0
+    },
+    "esv.se": {
+        "force_https": 0
+    },
+    "etnografiska.se": {
+        "force_https": 0
+    },
+    "europeiska.se": {
+        "force_https": 0
+    },
+    "expressen.se": {
+        "force_https": 0
+    },
+    "fagersta.se": {
+        "force_https": 0
+    },
+    "falkenberg.se": {
+        "force_https": 0
+    },
+    "falkoping.se": {
+        "force_https": 0
+    },
+    "falun.se": {
+        "force_https": 0
+    },
+    "fargelanda.se": {
+        "force_https": 0
+    },
+    "fas.se": {
+        "force_https": 0
+    },
+    "fastighetsmaklarnamnden.se": {
+        "force_https": 0
+    },
+    "fhi.se": {
+        "force_https": 0
+    },
+    "fhs.se": {
+        "force_https": 0
+    },
+    "fi.se": {
+        "force_https": 0
+    },
+    "filipstad.se": {
+        "force_https": 0
+    },
+    "finanspolitiskaradet.se": {
+        "force_https": 0
+    },
+    "finspong.se": {
+        "force_https": 0
+    },
+    "flen.se": {
+        "force_https": 0
+    },
+    "fmv.se": {
+        "force_https": 0
+    },
+    "fofspar.se": {
+        "force_https": 0
+    },
+    "foi.se": {
+        "force_https": 0
+    },
+    "folkebernadotteacademy.se": {
+        "force_https": 0
+    },
+    "folksam.se": {
+        "force_https": 0
+    },
+    "fondfinans.se": {
+        "force_https": 0
+    },
+    "forex.se": {
+        "force_https": 0
+    },
+    "formas.se": {
+        "force_https": 0
+    },
+    "forsakringskassan.se": {
+        "force_https": 0
+    },
+    "forshaga.se": {
+        "force_https": 0
+    },
+    "forskarskattenamnden.se": {
+        "force_https": 0
+    },
+    "forsvarsmakten.se": {
+        "force_https": 0
+    },
+    "fortv.se": {
+        "force_https": 0
+    },
+    "fouriertransform.se": {
+        "force_https": 0
+    },
+    "fra.se": {
+        "force_https": 0
+    },
+    "fxm.se": {
+        "force_https": 0
+    },
+    "gagnef.se": {
+        "force_https": 0
+    },
+    "gavle.se": {
+        "force_https": 0
+    },
+    "gellivare.se": {
+        "force_https": 0
+    },
+    "gemoneybank.se": {
+        "force_https": 0
+    },
+    "genteknik.se": {
+        "force_https": 0
+    },
+    "gih.se": {
+        "force_https": 0
+    },
+    "gislaved.se": {
+        "force_https": 0
+    },
+    "gjensidige.se": {
+        "force_https": 1
+    },
+    "glocalnet.se": {
+        "force_https": 0
+    },
+    "gnesta.se": {
+        "force_https": 0
+    },
+    "gnosjo.se": {
+        "force_https": 0
+    },
+    "gotakanal.se": {
+        "force_https": 0
+    },
+    "goteborg.se": {
+        "force_https": 0
+    },
+    "gotene.se": {
+        "force_https": 0
+    },
+    "gotland.se": {
+        "force_https": 0
+    },
+    "gov.se": {
+        "force_https": 0
+    },
+    "gp.se": {
+        "force_https": 0
+    },
+    "grastorp.se": {
+        "force_https": 0
+    },
+    "greencargo.com": {
+        "force_https": 0
+    },
+    "grums.se": {
+        "force_https": 0
+    },
+    "gu.se": {
+        "force_https": 0
+    },
+    "gullspang.se": {
+        "force_https": 0
+    },
+    "habo.se": {
+        "force_https": 0
+    },
+    "habokommun.se": {
+        "force_https": 0
+    },
+    "hagfors.se": {
+        "force_https": 0
+    },
+    "hallsberg.se": {
+        "force_https": 0
+    },
+    "hallstahammar.se": {
+        "force_https": 0
+    },
+    "halmstad.se": {
+        "force_https": 0
+    },
+    "hammaro.se": {
+        "force_https": 1
+    },
+    "han.se": {
+        "force_https": 0
+    },
+    "handelsbanken.se": {
+        "force_https": 0
+    },
+    "handisam.se": {
+        "force_https": 0
+    },
+    "haninge.se": {
+        "force_https": 0
+    },
+    "haparanda.se": {
+        "force_https": 0
+    },
+    "harnosand.se": {
+        "force_https": 0
+    },
+    "harryda.se": {
+        "force_https": 0
+    },
+    "hassleholm.se": {
+        "force_https": 0
+    },
+    "havkom.se": {
+        "force_https": 0
+    },
+    "havochvatten.se": {
+        "force_https": 1
+    },
+    "hb.se": {
+        "force_https": 0
+    },
+    "hd.se": {
+        "force_https": 0
+    },
+    "heby.se": {
+        "force_https": 0
+    },
+    "hedemora.se": {
+        "force_https": 0
+    },
+    "hellefors.se": {
+        "force_https": 1
+    },
+    "helsingborg.se": {
+        "force_https": 0
+    },
+    "herjedalen.se": {
+        "force_https": 0
+    },
+    "herrljunga.se": {
+        "force_https": 0
+    },
+    "hgo.se": {
+        "force_https": 0
+    },
+    "hh.se": {
+        "force_https": 0
+    },
+    "hhs.se": {
+        "force_https": 1
+    },
+    "hig.se": {
+        "force_https": 0
+    },
+    "his.se": {
+        "force_https": 0
+    },
+    "historiska.se": {
+        "force_https": 0
+    },
+    "hj.se": {
+        "force_https": 0
+    },
+    "hjo.se": {
+        "force_https": 0
+    },
+    "hkr.se": {
+        "force_https": 0
+    },
+    "hofors.se": {
+        "force_https": 0
+    },
+    "hoganas.se": {
+        "force_https": 0
+    },
+    "hogsby.se": {
+        "force_https": 0
+    },
+    "hogstadomstolen.se": {
+        "force_https": 0
+    },
+    "hoor.se": {
+        "force_https": 0
+    },
+    "horby.se": {
+        "force_https": 0
+    },
+    "hovrattenfornedrenorrland.se": {
+        "force_https": 0
+    },
+    "hsv.se": {
+        "force_https": 0
+    },
+    "huddinge.se": {
+        "force_https": 0
+    },
+    "hudiksvall.se": {
+        "force_https": 0
+    },
+    "hultsfred.se": {
+        "force_https": 0
+    },
+    "hv.se": {
+        "force_https": 0
+    },
+    "hylte.se": {
+        "force_https": 0
+    },
+    "iaf.se": {
+        "force_https": 0
+    },
+    "ica.se": {
+        "force_https": 0
+    },
+    "icabanken.se": {
+        "force_https": 1
+    },
+    "if.se": {
+        "force_https": 1
+    },
+    "ifau.se": {
+        "force_https": 0
+    },
+    "iis.se": {
+        "force_https": 1
+    },
+    "ikanobank.se": {
+        "force_https": 0
+    },
+    "ikanobanken.se": {
+        "force_https": 0
+    },
+    "imego.com": {
+        "force_https": 0
+    },
+    "infranord.se": {
+        "force_https": 0
+    },
+    "inlandsinnovation.se": {
+        "force_https": 0
+    },
+    "innovationsbron.se": {
+        "force_https": 0
+    },
+    "inspsf.se": {
+        "force_https": 0
+    },
+    "investsweden.se": {
+        "force_https": 0
+    },
+    "ip-only.se": {
+        "force_https": 0
+    },
+    "irf.se": {
+        "force_https": 0
+    },
+    "isa.se": {
+        "force_https": 0
+    },
+    "isp.se": {
+        "force_https": 0
+    },
+    "jarfalla.se": {
+        "force_https": 0
+    },
+    "jernhusen.se": {
+        "force_https": 0
+    },
+    "jk.se": {
+        "force_https": 0
+    },
+    "jll.se": {
+        "force_https": 0
+    },
+    "jo.se": {
+        "force_https": 0
+    },
+    "jokkmokk.se": {
+        "force_https": 0
+    },
+    "jonkoping.se": {
+        "force_https": 0
+    },
+    "jordbruksverket.se": {
+        "force_https": 0
+    },
+    "justitiekanslern.se": {
+        "force_https": 0
+    },
+    "kalix.se": {
+        "force_https": 0
+    },
+    "kalmar.se": {
+        "force_https": 0
+    },
+    "kammarkollegiet.se": {
+        "force_https": 0
+    },
+    "kammarratten.goteborg.se": {
+        "force_https": 0
+    },
+    "kanal5.se": {
+        "force_https": 0
+    },
+    "kanal5play.se": {
+        "force_https": 0
+    },
+    "kanal9play.se": {
+        "force_https": 0
+    },
+    "kanalnio.se": {
+        "force_https": 0
+    },
+    "karlsborg.se": {
+        "force_https": 0
+    },
+    "karlshamn.se": {
+        "force_https": 0
+    },
+    "karlskoga.se": {
+        "force_https": 0
+    },
+    "karlskrona.se": {
+        "force_https": 0
+    },
+    "karlstad.se": {
+        "force_https": 0
+    },
+    "karnavfallsfonden.se": {
+        "force_https": 0
+    },
+    "katrineholm.se": {
+        "force_https": 0
+    },
+    "kau.se": {
+        "force_https": 0
+    },
+    "kavlinge.se": {
+        "force_https": 0
+    },
+    "kb.se": {
+        "force_https": 0
+    },
+    "kemi.se": {
+        "force_https": 0
+    },
+    "ki.se": {
+        "force_https": 0
+    },
+    "kil.se": {
+        "force_https": 0
+    },
+    "kinda.se": {
+        "force_https": 0
+    },
+    "kirei.se": {
+        "force_https": 1
+    },
+    "kiruna.se": {
+        "force_https": 0
+    },
+    "kkh.se": {
+        "force_https": 0
+    },
+    "kkv.se": {
+        "force_https": 0
+    },
+    "klippan.se": {
+        "force_https": 0
+    },
+    "kmh.se": {
+        "force_https": 0
+    },
+    "knivsta.se": {
+        "force_https": 0
+    },
+    "kommers.se": {
+        "force_https": 0
+    },
+    "konj.se": {
+        "force_https": 0
+    },
+    "konkurrensverket.se": {
+        "force_https": 0
+    },
+    "konstfack.se": {
+        "force_https": 0
+    },
+    "konstnarsnamnden.se": {
+        "force_https": 0
+    },
+    "konsumentverket.se": {
+        "force_https": 0
+    },
+    "koping.se": {
+        "force_https": 0
+    },
+    "kpa.se": {
+        "force_https": 0
+    },
+    "kramfors.se": {
+        "force_https": 0
+    },
+    "kriminalvarden.se": {
+        "force_https": 0
+    },
+    "kristianstad.se": {
+        "force_https": 0
+    },
+    "kristinehamn.se": {
+        "force_https": 0
+    },
+    "krokom.se": {
+        "force_https": 0
+    },
+    "kronofogden.se": {
+        "force_https": 0
+    },
+    "kth.se": {
+        "force_https": 0
+    },
+    "kulturanalys.se": {
+        "force_https": 0
+    },
+    "kulturradet.se": {
+        "force_https": 0
+    },
+    "kumla.se": {
+        "force_https": 0
+    },
+    "kungahuset.se": {
+        "force_https": 0
+    },
+    "kungalv.se": {
+        "force_https": 0
+    },
+    "kungsbacka.se": {
+        "force_https": 0
+    },
+    "kungsor.se": {
+        "force_https": 0
+    },
+    "kustbevakningen.se": {
+        "force_https": 0
+    },
+    "kvv.se": {
+        "force_https": 0
+    },
+    "lagradet.se": {
+        "force_https": 0
+    },
+    "laholm.se": {
+        "force_https": 0
+    },
+    "lakemedelsverket.se": {
+        "force_https": 1
+    },
+    "landskrona.se": {
+        "force_https": 0
+    },
+    "lannebofonder.se": {
+        "force_https": 0
+    },
+    "lansforsakringar.se": {
+        "force_https": 0
+    },
+    "lansstyrelsen.se": {
+        "force_https": 0
+    },
+    "lantmateriet.se": {
+        "force_https": 0
+    },
+    "laxa.se": {
+        "force_https": 0
+    },
+    "lekeberg.se": {
+        "force_https": 0
+    },
+    "leksand.se": {
+        "force_https": 0
+    },
+    "lernia.se": {
+        "force_https": 0
+    },
+    "lerum.se": {
+        "force_https": 0
+    },
+    "lessebo.se": {
+        "force_https": 0
+    },
+    "levandehistoria.se": {
+        "force_https": 0
+    },
+    "lfv.se": {
+        "force_https": 0
+    },
+    "lg.se": {
+        "force_https": 0
+    },
+    "lidendata.se": {
+        "force_https": 0
+    },
+    "lidero.net": {
+        "force_https": 0
+    },
+    "lidingo.se": {
+        "force_https": 0
+    },
+    "lidkoping.se": {
+        "force_https": 1
+    },
+    "lillaedet.se": {
+        "force_https": 0
+    },
+    "lindesberg.se": {
+        "force_https": 0
+    },
+    "linkoping.se": {
+        "force_https": 0
+    },
+    "lio.se": {
+        "force_https": 0
+    },
+    "liu.se": {
+        "force_https": 0
+    },
+    "liv.se": {
+        "force_https": 0
+    },
+    "livsmedelsverket.se": {
+        "force_https": 0
+    },
+    "lj.se": {
+        "force_https": 0
+    },
+    "ljungby.se": {
+        "force_https": 0
+    },
+    "ljusdal.se": {
+        "force_https": 0
+    },
+    "ljusnarsberg.se": {
+        "force_https": 0
+    },
+    "lkab.se": {
+        "force_https": 0
+    },
+    "lm.se": {
+        "force_https": 0
+    },
+    "lnu.se": {
+        "force_https": 0
+    },
+    "lomma.se": {
+        "force_https": 0
+    },
+    "lotteriinspektionen.se": {
+        "force_https": 0
+    },
+    "lsh.se": {
+        "force_https": 0
+    },
+    "lst.se": {
+        "force_https": 0
+    },
+    "ltblekinge.se": {
+        "force_https": 0
+    },
+    "ltdalarna.se": {
+        "force_https": 0
+    },
+    "ltkalmar.se": {
+        "force_https": 0
+    },
+    "ltkronoberg.se": {
+        "force_https": 0
+    },
+    "ltu.se": {
+        "force_https": 0
+    },
+    "ltv.se": {
+        "force_https": 0
+    },
+    "lu.se": {
+        "force_https": 0
+    },
+    "ludvika.se": {
+        "force_https": 0
+    },
+    "lul.se": {
+        "force_https": 0
+    },
+    "lulea.se": {
+        "force_https": 0
+    },
+    "lund.se": {
+        "force_https": 0
+    },
+    "lvn.se": {
+        "force_https": 0
+    },
+    "lycksele.se": {
+        "force_https": 0
+    },
+    "lysekil.se": {
+        "force_https": 0
+    },
+    "mah.se": {
+        "force_https": 0
+    },
+    "mala.se": {
+        "force_https": 0
+    },
+    "malmo.se": {
+        "force_https": 0
+    },
+    "malung-salen.se": {
+        "force_https": 0
+    },
+    "marginalen.se": {
+        "force_https": 1
+    },
+    "mariestad.se": {
+        "force_https": 0
+    },
+    "marinmuseum.se": {
+        "force_https": 0
+    },
+    "maritima.se": {
+        "force_https": 0
+    },
+    "mark.se": {
+        "force_https": 0
+    },
+    "markaryd.se": {
+        "force_https": 0
+    },
+    "marknadsdomstolen.se": {
+        "force_https": 0
+    },
+    "mdh.se": {
+        "force_https": 0
+    },
+    "medelhavsmuseet.se": {
+        "force_https": 0
+    },
+    "medlingsinstitutet.se": {
+        "force_https": 0
+    },
+    "mellerud.se": {
+        "force_https": 0
+    },
+    "metria.se": {
+        "force_https": 0
+    },
+    "metro.se": {
+        "force_https": 0
+    },
+    "mi.se": {
+        "force_https": 0
+    },
+    "migrationsverket.se": {
+        "force_https": 0
+    },
+    "mil.se": {
+        "force_https": 0
+    },
+    "miun.se": {
+        "force_https": 0
+    },
+    "mixmegapol.se": {
+        "force_https": 0
+    },
+    "mjolby.se": {
+        "force_https": 0
+    },
+    "modernafonder.se": {
+        "force_https": 0
+    },
+    "modernaforsakringar.se": {
+        "force_https": 0
+    },
+    "modernamuseet.se": {
+        "force_https": 0
+    },
+    "molndal.se": {
+        "force_https": 0
+    },
+    "monsteras.se": {
+        "force_https": 0
+    },
+    "mora.se": {
+        "force_https": 0
+    },
+    "morbylanga.se": {
+        "force_https": 0
+    },
+    "motala.se": {
+        "force_https": 0
+    },
+    "movestic.se": {
+        "force_https": 0
+    },
+    "msb.se": {
+        "force_https": 1
+    },
+    "msr.se": {
+        "force_https": 0
+    },
+    "mullsjo.se": {
+        "force_https": 0
+    },
+    "munkedal.se": {
+        "force_https": 0
+    },
+    "munkfors.se": {
+        "force_https": 0
+    },
+    "myntkabinettet.se": {
+        "force_https": 0
+    },
+    "na.se": {
+        "force_https": 0
+    },
+    "nacka.se": {
+        "force_https": 0
+    },
+    "nai.uu.se": {
+        "force_https": 0
+    },
+    "nassjo.se": {
+        "force_https": 0
+    },
+    "nationalmuseum.se": {
+        "force_https": 0
+    },
+    "naturvardsverket.se": {
+        "force_https": 0
+    },
+    "netnod.se": {
+        "force_https": 0
+    },
+    "nll.se": {
+        "force_https": 0
+    },
+    "nora.se": {
+        "force_https": 0
+    },
+    "norberg.se": {
+        "force_https": 0
+    },
+    "nordanstig.se": {
+        "force_https": 0
+    },
+    "nordea.se": {
+        "force_https": 0
+    },
+    "nordmaling.se": {
+        "force_https": 0
+    },
+    "nordnet.se": {
+        "force_https": 1
+    },
+    "norrkoping.se": {
+        "force_https": 0
+    },
+    "norrlandcenter.se": {
+        "force_https": 0
+    },
+    "norrtalje.se": {
+        "force_https": 0
+    },
+    "norsjo.se": {
+        "force_https": 0
+    },
+    "nrj.se": {
+        "force_https": 0
+    },
+    "nrm.se": {
+        "force_https": 0
+    },
+    "nt.se": {
+        "force_https": 0
+    },
+    "nwt.se": {
+        "force_https": 0
+    },
+    "nybro.se": {
+        "force_https": 0
+    },
+    "nykoping.se": {
+        "force_https": 0
+    },
+    "nykvarn.se": {
+        "force_https": 0
+    },
+    "nynashamn.se": {
+        "force_https": 0
+    },
+    "ockelbo.se": {
+        "force_https": 0
+    },
+    "ockero.se": {
+        "force_https": 0
+    },
+    "odeshog.se": {
+        "force_https": 0
+    },
+    "odinfonder.se": {
+        "force_https": 0
+    },
+    "okq8.se": {
+        "force_https": 0
+    },
+    "oks.se": {
+        "force_https": 0
+    },
+    "olandsbank.se": {
+        "force_https": 0
+    },
+    "olofstrom.se": {
+        "force_https": 0
+    },
+    "onh.se": {
+        "force_https": 0
+    },
+    "operahogskolan.se": {
+        "force_https": 0
+    },
+    "operan.se": {
+        "force_https": 0
+    },
+    "orebro.se": {
+        "force_https": 0
+    },
+    "orebroll.se": {
+        "force_https": 0
+    },
+    "orkelljunga.se": {
+        "force_https": 0
+    },
+    "ornskoldsvik.se": {
+        "force_https": 0
+    },
+    "orsa.se": {
+        "force_https": 0
+    },
+    "oru.se": {
+        "force_https": 0
+    },
+    "orust.se": {
+        "force_https": 0
+    },
+    "osby.se": {
+        "force_https": 0
+    },
+    "oskarshamn.se": {
+        "force_https": 0
+    },
+    "ostasiatiska.se": {
+        "force_https": 0
+    },
+    "osteraker.se": {
+        "force_https": 0
+    },
+    "ostersund.se": {
+        "force_https": 0
+    },
+    "osthammar.se": {
+        "force_https": 0
+    },
+    "ostragoinge.se": {
+        "force_https": 0
+    },
+    "ovanaker.se": {
+        "force_https": 0
+    },
+    "overkalix.se": {
+        "force_https": 0
+    },
+    "overklagandenamnden.se": {
+        "force_https": 0
+    },
+    "overtornea.se": {
+        "force_https": 0
+    },
+    "ownit.se": {
+        "force_https": 1
+    },
+    "oxelosund.se": {
+        "force_https": 0
+    },
+    "pajala.se": {
+        "force_https": 0
+    },
+    "partille.se": {
+        "force_https": 0
+    },
+    "pbr.se": {
+        "force_https": 0
+    },
+    "penser.se": {
+        "force_https": 1
+    },
+    "penserfonder.se": {
+        "force_https": 0
+    },
+    "pensionsmyndigheten.se": {
+        "force_https": 0
+    },
+    "perspektivbredband.se": {
+        "force_https": 0
+    },
+    "perstorp.se": {
+        "force_https": 0
+    },
+    "phonera.se": {
+        "force_https": 0
+    },
+    "pitea.se": {
+        "force_https": 1
+    },
+    "pliktverket.se": {
+        "force_https": 0
+    },
+    "polar.se": {
+        "force_https": 0
+    },
+    "polisen.se": {
+        "force_https": 1
+    },
+    "posten.se": {
+        "force_https": 0
+    },
+    "postnord.se": {
+        "force_https": 0
+    },
+    "ppm.nu": {
+        "force_https": 0
+    },
+    "presstodsnamnden.se": {
+        "force_https": 0
+    },
+    "privataaffarer.se": {
+        "force_https": 0
+    },
+    "programkontoret.se": {
+        "force_https": 0
+    },
+    "prv.se": {
+        "force_https": 0
+    },
+    "pts.se": {
+        "force_https": 0
+    },
+    "ra.se": {
+        "force_https": 0
+    },
+    "raa.se": {
+        "force_https": 0
+    },
+    "radioochtv.se": {
+        "force_https": 0
+    },
+    "ragunda.se": {
+        "force_https": 0
+    },
+    "rattvik.se": {
+        "force_https": 0
+    },
+    "regeringen.se": {
+        "force_https": 0
+    },
+    "regeringskansliet.se": {
+        "force_https": 0
+    },
+    "regionhalland.se": {
+        "force_https": 0
+    },
+    "rekryteringsmyndigheten.se": {
+        "force_https": 0
+    },
+    "resurs.se": {
+        "force_https": 0
+    },
+    "revisorsnamnden.se": {
+        "force_https": 0
+    },
+    "ri.se": {
+        "force_https": 0
+    },
+    "riksarkivet.se": {
+        "force_https": 0
+    },
+    "riksbank.se": {
+        "force_https": 0
+    },
+    "riksdagen.se": {
+        "force_https": 0
+    },
+    "riksgalden.se": {
+        "force_https": 1
+    },
+    "riksrevisionen.se": {
+        "force_https": 0
+    },
+    "riksutstallningar.se": {
+        "force_https": 1
+    },
+    "rixfm.se": {
+        "force_https": 0
+    },
+    "rmv.se": {
+        "force_https": 0
+    },
+    "robertsfors.se": {
+        "force_https": 0
+    },
+    "romab.com": {
+        "force_https": 1
+    },
+    "ronneby.se": {
+        "force_https": 0
+    },
+    "royalcourt.se": {
+        "force_https": 0
+    },
+    "rymdstyrelsen.se": {
+        "force_https": 0
+    },
+    "sadev.se": {
+        "force_https": 0
+    },
+    "saffle.se": {
+        "force_https": 0
+    },
+    "sakerhetspolisen.se": {
+        "force_https": 0
+    },
+    "sakint.se": {
+        "force_https": 0
+    },
+    "sala.se": {
+        "force_https": 0
+    },
+    "salem.se": {
+        "force_https": 0
+    },
+    "salusansvar.se": {
+        "force_https": 1
+    },
+    "sameskolstyrelsen.se": {
+        "force_https": 0
+    },
+    "sametinget.se": {
+        "force_https": 0
+    },
+    "samhall.se": {
+        "force_https": 0
+    },
+    "sandviken.se": {
+        "force_https": 0
+    },
+    "sas.se": {
+        "force_https": 0
+    },
+    "sater.se": {
+        "force_https": 0
+    },
+    "savsjo.se": {
+        "force_https": 0
+    },
+    "saxoprivatbank.se": {
+        "force_https": 0
+    },
+    "sbab.se": {
+        "force_https": 1
+    },
+    "sbo.se": {
+        "force_https": 0
+    },
+    "sbu.se": {
+        "force_https": 0
+    },
+    "scb.se": {
+        "force_https": 0
+    },
+    "seb.se": {
+        "force_https": 0
+    },
+    "sek.se": {
+        "force_https": 0
+    },
+    "sfhm.se": {
+        "force_https": 0
+    },
+    "sfv.se": {
+        "force_https": 0
+    },
+    "sgu.se": {
+        "force_https": 0
+    },
+    "sh.se": {
+        "force_https": 0
+    },
+    "shmm.se": {
+        "force_https": 0
+    },
+    "si.se": {
+        "force_https": 1
+    },
+    "sida.se": {
+        "force_https": 0
+    },
+    "sieps.se": {
+        "force_https": 0
+    },
+    "sigtuna.se": {
+        "force_https": 0
+    },
+    "simplicity.se": {
+        "force_https": 0
+    },
+    "simrishamn.se": {
+        "force_https": 0
+    },
+    "siun.se": {
+        "force_https": 0
+    },
+    "sj.se": {
+        "force_https": 0
+    },
+    "sjobo.se": {
+        "force_https": 0
+    },
+    "sjofartsverket.se": {
+        "force_https": 0
+    },
+    "sjohistoriska.se": {
+        "force_https": 0
+    },
+    "sjuan.se": {
+        "force_https": 0
+    },
+    "sjv.se": {
+        "force_https": 0
+    },
+    "skandia.se": {
+        "force_https": 0
+    },
+    "skandiabanken.se": {
+        "force_https": 1
+    },
+    "skane.se": {
+        "force_https": 0
+    },
+    "skara.se": {
+        "force_https": 0
+    },
+    "skatteverket.se": {
+        "force_https": 0
+    },
+    "skelleftea.se": {
+        "force_https": 0
+    },
+    "skeppshypotek.se": {
+        "force_https": 0
+    },
+    "skinnskatteberg.se": {
+        "force_https": 0
+    },
+    "skl.polisen.se": {
+        "force_https": 0
+    },
+    "skogsstyrelsen.se": {
+        "force_https": 0
+    },
+    "skolinspektionen.se": {
+        "force_https": 0
+    },
+    "skolverket.se": {
+        "force_https": 0
+    },
+    "skovde.se": {
+        "force_https": 0
+    },
+    "skurup.se": {
+        "force_https": 0
+    },
+    "sll.se": {
+        "force_https": 0
+    },
+    "slu.se": {
+        "force_https": 0
+    },
+    "slv.se": {
+        "force_https": 0
+    },
+    "smedjebacken.se": {
+        "force_https": 0
+    },
+    "smer.se": {
+        "force_https": 0
+    },
+    "smhi.se": {
+        "force_https": 0
+    },
+    "smittskyddsinstitutet.se": {
+        "force_https": 0
+    },
+    "smvk.se": {
+        "force_https": 0
+    },
+    "snsb.se": {
+        "force_https": 0
+    },
+    "socialstyrelsen.se": {
+        "force_https": 0
+    },
+    "soderhamn.se": {
+        "force_https": 0
+    },
+    "soderkoping.se": {
+        "force_https": 0
+    },
+    "sodertalje.se": {
+        "force_https": 0
+    },
+    "sofi.se": {
+        "force_https": 0
+    },
+    "solidab.se": {
+        "force_https": 0
+    },
+    "solleftea.se": {
+        "force_https": 0
+    },
+    "sollentuna.se": {
+        "force_https": 0
+    },
+    "solna.se": {
+        "force_https": 1
+    },
+    "solvesborg.se": {
+        "force_https": 0
+    },
+    "sormland.se": {
+        "force_https": 0
+    },
+    "sorsele.se": {
+        "force_https": 0
+    },
+    "sosalarm.se": {
+        "force_https": 1
+    },
+    "sotenas.se": {
+        "force_https": 0
+    },
+    "sp.se": {
+        "force_https": 0
+    },
+    "sparbankenalingsas.se": {
+        "force_https": 0
+    },
+    "sparbankeneken.se": {
+        "force_https": 0
+    },
+    "sparbankengoinge.se": {
+        "force_https": 0
+    },
+    "sparbankenlidkoping.se": {
+        "force_https": 0
+    },
+    "sparbankenoresund.se": {
+        "force_https": 0
+    },
+    "sparbankenrekarne.se": {
+        "force_https": 0
+    },
+    "sparbankenskaraborg.se": {
+        "force_https": 0
+    },
+    "specialfastigheter.se": {
+        "force_https": 0
+    },
+    "spiltan.se": {
+        "force_https": 0
+    },
+    "spp.se": {
+        "force_https": 0
+    },
+    "spsm.se": {
+        "force_https": 0
+    },
+    "spv.se": {
+        "force_https": 0
+    },
+    "sr.se": {
+        "force_https": 0
+    },
+    "ssc.se": {
+        "force_https": 0
+    },
+    "sst.a.se": {
+        "force_https": 0
+    },
+    "stadshypotekbank.se": {
+        "force_https": 0
+    },
+    "staffanstorp.se": {
+        "force_https": 0
+    },
+    "stat-inst.se": {
+        "force_https": 0
+    },
+    "statensansvarsnamnd.se": {
+        "force_https": 0
+    },
+    "statensbiografbyra.se": {
+        "force_https": 0
+    },
+    "statenskonstrad.se": {
+        "force_https": 0
+    },
+    "statensmedierad.se": {
+        "force_https": 0
+    },
+    "statensmusikverk.se": {
+        "force_https": 0
+    },
+    "statenssc.se": {
+        "force_https": 0
+    },
+    "statskontoret.se": {
+        "force_https": 0
+    },
+    "stdh.se": {
+        "force_https": 0
+    },
+    "stenungsund.se": {
+        "force_https": 0
+    },
+    "stockholm.se": {
+        "force_https": 0
+    },
+    "storfors.se": {
+        "force_https": 0
+    },
+    "storuman.se": {
+        "force_https": 0
+    },
+    "stralsakerhetsmyndigheten.se": {
+        "force_https": 0
+    },
+    "strangnas.se": {
+        "force_https": 0
+    },
+    "stromstad.se": {
+        "force_https": 0
+    },
+    "stromsund.se": {
+        "force_https": 0
+    },
+    "su.se": {
+        "force_https": 0
+    },
+    "sundbyberg.se": {
+        "force_https": 0
+    },
+    "sundsvall.se": {
+        "force_https": 0
+    },
+    "sunet.se": {
+        "force_https": 0
+    },
+    "sunne.se": {
+        "force_https": 0
+    },
+    "surahammar.se": {
+        "force_https": 0
+    },
+    "sva.se": {
+        "force_https": 0
+    },
+    "svalov.se": {
+        "force_https": 0
+    },
+    "svanen.se": {
+        "force_https": 0
+    },
+    "svd.se": {
+        "force_https": 0
+    },
+    "svea.se": {
+        "force_https": 0
+    },
+    "sveaskog.se": {
+        "force_https": 0
+    },
+    "svedab.se": {
+        "force_https": 0
+    },
+    "svedala.se": {
+        "force_https": 0
+    },
+    "svenljunga.se": {
+        "force_https": 0
+    },
+    "svenskaspel.se": {
+        "force_https": 1
+    },
+    "sverigesradio.se": {
+        "force_https": 0
+    },
+    "svevia.se": {
+        "force_https": 0
+    },
+    "svk.se": {
+        "force_https": 0
+    },
+    "svo.se": {
+        "force_https": 0
+    },
+    "svt.se": {
+        "force_https": 0
+    },
+    "svtplay.se": {
+        "force_https": 0
+    },
+    "swedac.se": {
+        "force_https": 0
+    },
+    "swedavia.se": {
+        "force_https": 0
+    },
+    "swedbank.se": {
+        "force_https": 1
+    },
+    "swedbankrobur.se": {
+        "force_https": 0
+    },
+    "swedbanksjuharad.se": {
+        "force_https": 0
+    },
+    "swedesurvey.se": {
+        "force_https": 0
+    },
+    "swedfund.se": {
+        "force_https": 0
+    },
+    "swedgeo.se": {
+        "force_https": 0
+    },
+    "swerea.se": {
+        "force_https": 0
+    },
+    "sweroad.se": {
+        "force_https": 0
+    },
+    "sydsvenskan.se": {
+        "force_https": 0
+    },
+    "systembolaget.se": {
+        "force_https": 0
+    },
+    "t3.se": {
+        "force_https": 0
+    },
+    "taby.se": {
+        "force_https": 0
+    },
+    "tanum.se": {
+        "force_https": 0
+    },
+    "tdc.se": {
+        "force_https": 0
+    },
+    "teaterhogskolan.se": {
+        "force_https": 0
+    },
+    "tele2.se": {
+        "force_https": 0
+    },
+    "telenor.se": {
+        "force_https": 0
+    },
+    "telia.se": {
+        "force_https": 0
+    },
+    "teliasonera.com": {
+        "force_https": 0
+    },
+    "teracom.se": {
+        "force_https": 1
+    },
+    "tibro.se": {
+        "force_https": 0
+    },
+    "tidaholm.se": {
+        "force_https": 0
+    },
+    "tierp.se": {
+        "force_https": 0
+    },
+    "tillvaxtanalys.se": {
+        "force_https": 0
+    },
+    "tillvaxtverket.se": {
+        "force_https": 0
+    },
+    "timra.se": {
+        "force_https": 0
+    },
+    "tingsryd.se": {
+        "force_https": 1
+    },
+    "tjorn.se": {
+        "force_https": 0
+    },
+    "tjustbanken.se": {
+        "force_https": 0
+    },
+    "tlv.se": {
+        "force_https": 0
+    },
+    "tomelilla.se": {
+        "force_https": 0
+    },
+    "toreboda.se": {
+        "force_https": 0
+    },
+    "torsas.se": {
+        "force_https": 0
+    },
+    "torsby.se": {
+        "force_https": 0
+    },
+    "trafa.se": {
+        "force_https": 0
+    },
+    "trafikverket.se": {
+        "force_https": 0
+    },
+    "tranas.se": {
+        "force_https": 0
+    },
+    "tranemo.se": {
+        "force_https": 0
+    },
+    "transportstyrelsen.se": {
+        "force_https": 0
+    },
+    "tre.se": {
+        "force_https": 1
+    },
+    "trelleborg.se": {
+        "force_https": 0
+    },
+    "trollhattan.se": {
+        "force_https": 0
+    },
+    "trosa.se": {
+        "force_https": 0
+    },
+    "trygghansa.se": {
+        "force_https": 0
+    },
+    "tt.se": {
+        "force_https": 0
+    },
+    "tullverket.se": {
+        "force_https": 0
+    },
+    "tv3.se": {
+        "force_https": 0
+    },
+    "tv4.se": {
+        "force_https": 0
+    },
+    "tv4play.se": {
+        "force_https": 0
+    },
+    "tv6.se": {
+        "force_https": 0
+    },
+    "tv8.se": {
+        "force_https": 0
+    },
+    "tyreso.se": {
+        "force_https": 0
+    },
+    "uddevalla.se": {
+        "force_https": 0
+    },
+    "uhr.se": {
+        "force_https": 0
+    },
+    "ulricehamn.se": {
+        "force_https": 1
+    },
+    "umea.se": {
+        "force_https": 0
+    },
+    "umu.se": {
+        "force_https": 0
+    },
+    "undom.se": {
+        "force_https": 0
+    },
+    "ungdomsstyrelsen.se": {
+        "force_https": 0
+    },
+    "unt.se": {
+        "force_https": 0
+    },
+    "upplands-bro.se": {
+        "force_https": 0
+    },
+    "upplandsvasby.se": {
+        "force_https": 0
+    },
+    "uppsala.se": {
+        "force_https": 1
+    },
+    "uppvidinge.se": {
+        "force_https": 0
+    },
+    "uu.se": {
+        "force_https": 0
+    },
+    "uvtc.com": {
+        "force_https": 0
+    },
+    "va-namnden.se": {
+        "force_https": 0
+    },
+    "vadstena.se": {
+        "force_https": 0
+    },
+    "vaggeryd.se": {
+        "force_https": 0
+    },
+    "val.se": {
+        "force_https": 0
+    },
+    "valdemarsvik.se": {
+        "force_https": 0
+    },
+    "vallentuna.se": {
+        "force_https": 0
+    },
+    "vanersborg.se": {
+        "force_https": 0
+    },
+    "vannas.se": {
+        "force_https": 0
+    },
+    "vansbro.se": {
+        "force_https": 0
+    },
+    "vara.se": {
+        "force_https": 0
+    },
+    "varberg.se": {
+        "force_https": 0
+    },
+    "varbergssparbank.se": {
+        "force_https": 0
+    },
+    "vardanalys.se": {
+        "force_https": 0
+    },
+    "vargarda.se": {
+        "force_https": 0
+    },
+    "varmdo.se": {
+        "force_https": 0
+    },
+    "varnamo.se": {
+        "force_https": 0
+    },
+    "vasakronan.se": {
+        "force_https": 0
+    },
+    "vasallen.se": {
+        "force_https": 0
+    },
+    "vasamuseet.se": {
+        "force_https": 0
+    },
+    "vasteras.se": {
+        "force_https": 0
+    },
+    "vastervik.se": {
+        "force_https": 0
+    },
+    "vattenfall.se": {
+        "force_https": 0
+    },
+    "vaxholm.se": {
+        "force_https": 0
+    },
+    "vaxjo.se": {
+        "force_https": 0
+    },
+    "vectura.se": {
+        "force_https": 0
+    },
+    "vellinge.se": {
+        "force_https": 0
+    },
+    "venantius.se": {
+        "force_https": 0
+    },
+    "vetansvar.se": {
+        "force_https": 0
+    },
+    "vetlanda.se": {
+        "force_https": 0
+    },
+    "vgregion.se": {
+        "force_https": 0
+    },
+    "viasat.se": {
+        "force_https": 1
+    },
+    "vilhelmina.se": {
+        "force_https": 0
+    },
+    "vimmerby.se": {
+        "force_https": 0
+    },
+    "vimmerbysparbank.se": {
+        "force_https": 0
+    },
+    "vindeln.se": {
+        "force_https": 0
+    },
+    "vingaker.se": {
+        "force_https": 0
+    },
+    "vinnova.se": {
+        "force_https": 0
+    },
+    "visitsweden.com": {
+        "force_https": 0
+    },
+    "vll.se": {
+        "force_https": 0
+    },
+    "volvofinans.se": {
+        "force_https": 1
+    },
+    "vr.se": {
+        "force_https": 0
+    },
+    "vti.se": {
+        "force_https": 0
+    },
+    "vxu.se": {
+        "force_https": 0
+    },
+    "waldemarsudde.se": {
+        "force_https": 0
+    },
+    "xact.se": {
+        "force_https": 0
+    },
+    "ydre.se": {
+        "force_https": 0
+    },
+    "yhmyndigheten.se": {
+        "force_https": 1
+    },
+    "ystad.se": {
+        "force_https": 0
+    },
+    "zorn.se": {
+        "force_https": 0
+    }
+}

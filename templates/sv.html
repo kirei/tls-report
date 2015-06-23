@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no' ?>
+
+<!DOCTYPE html>
+<html>
+
+ <head>
+  <title>TLS-rapporten</title>
+  <meta charset=utf-8 />
+
+  <link rel="stylesheet" href="normalize.css">
+
+  <!-- https://datatables.net/ -->
+  <script type='text/javascript' src='https://code.jquery.com/jquery-1.11.1.min.js'></script>
+  <script type='text/javascript' src='https://cdn.datatables.net/1.10.7/js/jquery.dataTables.min.js'></script>
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.10.7/css/jquery.dataTables.css" type="text/css">
+
+  <link rel="stylesheet" href="report.css" type="text/css">
+  <script type='text/javascript' src='report.sv.js'></script>
+
+</head>
+
+<body>
+
+<div class="header">
+</div>
+
+<div class="logo">
+<a href="https://www.kirei.se"><img alt="Kirei AB" src="kirei.png"/></a>
+</div>
+
+<h1>TLS i Sverige</h1>
+
+<p>På den här sidan presenteras statistik för ett antal större och/eller
+viktiga svenska webbplatsers användning av TLS. För mer information om hur man
+konfigurerar SSL/TLS på ett korrekt sätt rekommenderas <a
+href="https://www.ssllabs.com/projects/best-practices/">SSL/TLS Deployment Best
+Practices</a> av Ivan Ristić samt <a
+href="https://www.eff.org/https-everywhere">EFF HTTPS Everywhere</a>.</p>
+
+<div class="language"><a href="report.en.html">English</a></div>
+
+<table id="report" class="display compact" cellspacing="0" width="100%">
+  <thead>
+    <tr>
+      <th>Domännamn</th>
+      <th>Innehavare</th>
+      <th>Typ</th>
+      <th>Använder HTTPS?</th>
+      <th>Kräver HTTPS?</th>
+      <th>SSL Labs Betyg</th>
+    </tr>
+  </thead>
+
+  <tbody>
+  <!-- REPORT_PLACEHOLDER -->
+  </tbody>  
+</table>
+
+<div class="footer">
+<!-- DATE_PLACEHOLDER -->
+</div>
+
+</body>
+</html>

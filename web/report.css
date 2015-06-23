@@ -1,0 +1,48 @@
+body {
+	color: black;
+	background-color: white;
+
+	margin-top:   1cm;
+	margin-left:  1cm;
+	margin-left:  1cm;
+	margin-right: 1cm;
+
+	font-family: 'Helvetica Neue', Helvetica;
+}
+
+h1 { font-size: 20pt; font-weight: bold; }
+h2 { font-size: 20pt; }
+h3 { font-size: 18pt; }
+h4 { font-size: 16pt; }
+h5 { font-size: 14pt; }
+h6 { font-size: 12pt; }
+
+div.grade-a { text-align: center; background-color: #aaffaa; }
+div.grade-b { text-align: center; background-color: #ffffaa; }
+div.grade-c { text-align: center; background-color: #aaaaff; }
+div.grade-f { text-align: center; background-color: #ff0000; }
+div.grade-t { text-align: center; background-color: #ffaaaa; }
+div.grade-x { text-align: center; visibility: hidden; }
+
+p {
+	text-indent: 0px;
+	margin-left:  0cm;
+	margin-right: 0cm;
+}
+
+div.language {
+	text-align: right;
+	padding: 10px;
+}
+
+div.logo {
+	text-align: right;
+}
+
+div.header {
+}
+
+div.footer {
+	text-align: center;
+	font-size: 10pt;
+}
