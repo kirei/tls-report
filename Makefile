@@ -23,9 +23,6 @@ I18N=		templates/i18n.json
 HTML_EN=	web/report.en.html
 HTML_SV=	web/report.sv.html
 
-JQUERY=		1.11.1
-DATATABLES=	1.10.7
-
 
 all:
 
@@ -43,13 +40,6 @@ web: $(HTML_SV) $(HTML_EN)
 save:
 	git add $(DOMAINS) $(REPORT) $(LOGFILE) $(REDIRECT)
 	git commit -m "update results" $(DOMAINS) $(REPORT) $(LOGFILE) $(REDIRECT)
-
-webdeps:
-	-mkdir web/jquery
-	curl -o web/jquery/jquery.min.js https://code.jquery.com/jquery-$(JQUERY).min.js
-	curl -o web/jquery/jquery.dataTables.min.js https://cdn.datatables.net/$(DATATABLES)/js/jquery.dataTables.min.js
-	curl -o web/jquery/jquery.dataTables.css https://cdn.datatables.net/$(DATATABLES)/css/jquery.dataTables.css
-	curl -o web/jquery/Swedish.json https://cdn.datatables.net/plug-ins/$(DATATABLES)/i18n/Swedish.json
 
 webdist:
 	 rsync -av --delete --exclude .DS_Store \
