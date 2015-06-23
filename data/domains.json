@@ -9,6 +9,11 @@
         "org": "Accept F\u00f6rs\u00e4kringsaktiebolag",
         "type": "Finans"
     },
+    "advenica.com": {
+        "domain": "advenica.com",
+        "org": "Advenica AB",
+        "type": "IT"
+    },
     "afaforsakring.se": {
         "domain": "afaforsakring.se",
         "org": "AFA F\u00f6rs\u00e4kring",
@@ -479,6 +484,11 @@
         "org": "MedMera Bank Aktiebolag",
         "type": "Finans"
     },
+    "coresec.se": {
+        "domain": "coresec.se",
+        "org": "Coresec Systems AB",
+        "type": "IT"
+    },
     "corren.se": {
         "domain": "corren.se",
         "org": "\u00d6stg\u00f6tacorrespondenten",
@@ -508,6 +518,11 @@
         "domain": "degerfors.se",
         "org": "Degerfors kommun",
         "type": "Kommun"
+    },
+    "detectify.com": {
+        "domain": "detectify.com",
+        "org": "Detectify AB",
+        "type": "IT"
     },
     "dgc.se": {
         "domain": "dgc.se",
@@ -1479,6 +1494,11 @@
         "org": "Knivsta kommun",
         "type": "Kommun"
     },
+    "knowit.se": {
+        "domain": "knowit.se",
+        "org": "KnowIT AB",
+        "type": "IT"
+    },
     "kommers.se": {
         "domain": "kommers.se",
         "org": "Kommerskollegium",
@@ -2229,10 +2249,20 @@
         "org": "Olofstr\u00f6ms kommun",
         "type": "Kommun"
     },
+    "omegapoint.se": {
+        "domain": "omegapoint.se",
+        "org": "Omegapoint AB",
+        "type": "IT"
+    },
     "onh.se": {
         "domain": "onh.se",
         "org": "\u00d6verklaganden\u00e4mnden f\u00f6r h\u00f6gskolan (\u00d6NH)",
         "type": "Myndighet"
+    },
+    "op5.com": {
+        "domain": "op5.com",
+        "org": "op5 AB",
+        "type": "IT"
     },
     "operahogskolan.se": {
         "domain": "operahogskolan.se",
@@ -2678,6 +2708,11 @@
         "domain": "sek.se",
         "org": "AB Svensk Exportkredit (SEK)",
         "type": "Statligt bolag"
+    },
+    "sentor.se": {
+        "domain": "sentor.se",
+        "org": "Sentor Managed Security Services AB",
+        "type": "IT"
     },
     "sfhm.se": {
         "domain": "sfhm.se",
@@ -3459,6 +3494,11 @@
         "org": "Trosa kommun",
         "type": "Kommun"
     },
+    "truesec.se": {
+        "domain": "truesec.se",
+        "org": "Truesec AB",
+        "type": "IT"
+    },
     "trygghansa.se": {
         "domain": "trygghansa.se",
         "org": "Trygghansa",
@@ -3473,6 +3513,11 @@
         "domain": "tullverket.se",
         "org": "Tullverket",
         "type": "Myndighet"
+    },
+    "tutus.se": {
+        "domain": "tutus.se",
+        "org": "Tutus Data AB",
+        "type": "IT"
     },
     "tv3.se": {
         "domain": "tv3.se",
@@ -3798,6 +3843,11 @@
         "domain": "xact.se",
         "org": "XACT Fonder",
         "type": "Finans"
+    },
+    "xpd.se": {
+        "domain": "xpd.se",
+        "org": "XPD",
+        "type": "XPD AB"
     },
     "ydre.se": {
         "domain": "ydre.se",
