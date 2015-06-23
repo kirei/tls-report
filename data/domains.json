@@ -9,6 +9,16 @@
         "org": "Accept F\u00f6rs\u00e4kringsaktiebolag",
         "type": "Finans"
     },
+    "afconsult.se": {
+        "domain": "afconsult.se",
+        "org": "\u00c5F-Consult AB",
+        "type": "IT"
+    },
+    "addpro.se": {
+        "domain": "addpro.se",
+        "org": "Addpro AB",
+        "type": "IT"
+    },
     "advenica.com": {
         "domain": "advenica.com",
         "org": "Advenica AB",
@@ -324,6 +334,11 @@
         "org": "AB Svensk Bilprovning",
         "type": "Statligt bolag"
     },
+    "bitsec.se": {
+        "domain": "bitsec.se",
+        "org": "Bitsec AB",
+        "type": "IT"
+    },
     "bjurholm.se": {
         "domain": "bjurholm.se",
         "org": "Bjurholms kommun",
@@ -459,6 +474,11 @@
         "org": "CB Fonder",
         "type": "Finans"
     },
+    "cert.se": {
+        "domain": "cert.se",
+        "org": "Sveriges nationella CSIRT",
+        "type": "Myndighet"
+    },
     "chalmers.se": {
         "domain": "chalmers.se",
         "org": "Chalmers Tekniska H\u00f6gskola",
@@ -499,6 +519,11 @@
         "org": "Centrala studiest\u00f6dsn\u00e4mnden (CSN)",
         "type": "Myndighet"
     },
+    "cybercom.se": {
+        "domain": "cybercom.se",
+        "org": "Cybercom AB",
+        "type": "IT"
+    },
     "dalsed.se": {
         "domain": "dalsed.se",
         "org": "Dals-Eds kommun",
@@ -523,6 +548,11 @@
         "domain": "detectify.com",
         "org": "Detectify AB",
         "type": "IT"
+    },
+    "dfri.se": {
+        "domain": "dfri.se",
+        "org": "F\u00f6reningen f\u00f6r Digitala Fri- och R\u00e4ttigheter",
+        "type": "F\u00f6rening"
     },
     "dgc.se": {
         "domain": "dgc.se",
@@ -668,6 +698,11 @@
         "domain": "epn.se",
         "org": "Regionala etikpr\u00f6vningsn\u00e4mnden i Uppsala",
         "type": "Myndighet"
+    },
+    "ericsson.com": {
+        "domain": "ericsson.com",
+        "org": "Ericsson AB",
+        "type": "Telekom"
     },
     "erv.se": {
         "domain": "erv.se",
@@ -1003,6 +1038,11 @@
         "domain": "hallstahammar.se",
         "org": "Hallstahammars kommun",
         "type": "Kommun"
+    },
+    "halon.se": {
+        "domain": "halon.se",
+        "org": "Halon AB",
+        "type": "IT"
     },
     "halmstad.se": {
         "domain": "halmstad.se",
@@ -2109,6 +2149,11 @@
         "org": "Netnod AB",
         "type": "ISP"
     },
+    "netresec.com": {
+        "domain": "netresec.com",
+        "org": "Netresec AB",
+        "type": "IT"
+    },
     "nfc.polisen.se": {
         "domain": "nfc.polisen.se",
         "org": "Nationellt forensiskt centrum (NFC)",
@@ -2118,6 +2163,11 @@
         "domain": "nll.se",
         "org": "Norrbottens l\u00e4ns landsting",
         "type": "Landsting"
+    },
+    "nohau.se": {
+        "domain": "nohau.se",
+        "org": "Nohau AB",
+        "type": "IT"
     },
     "nora.se": {
         "domain": "nora.se",
@@ -2704,6 +2754,16 @@
         "org": "SEB kort AB",
         "type": "Finans"
     },
+    "secode.se": {
+        "domain": "secode.se",
+        "org": "Secode AB",
+        "type": "IT"
+    },
+    "sectra.com": {
+        "domain": "sectra.com",
+        "org": "Sectra AB",
+        "type": "IT"
+    },
     "sek.se": {
         "domain": "sek.se",
         "org": "AB Svensk Exportkredit (SEK)",
@@ -2713,6 +2773,11 @@
         "domain": "sentor.se",
         "org": "Sentor Managed Security Services AB",
         "type": "IT"
+    },
+    "sesec.se": {
+        "domain": "sesec.se",
+        "org": "Sesec AB",
+        "type": "Fysisk s\u00e4kerhet"
     },
     "sfhm.se": {
         "domain": "sfhm.se",
@@ -3128,6 +3193,11 @@
         "domain": "stockholm.se",
         "org": "Stockholms stad",
         "type": "Kommun"
+    },
+    "storedsafe.com": {
+        "domain": "storedsafe.com",
+        "org": "AB StoredSafe",
+        "type": "IT"
     },
     "storfors.se": {
         "domain": "storfors.se",
@@ -3846,8 +3916,8 @@
     },
     "xpd.se": {
         "domain": "xpd.se",
-        "org": "XPD",
-        "type": "XPD AB"
+        "org": "XPD AB",
+        "type": "IT"
     },
     "ydre.se": {
         "domain": "ydre.se",
