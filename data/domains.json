@@ -9,11 +9,6 @@
         "org": "Accept F\u00f6rs\u00e4kringsaktiebolag",
         "type": "Finans"
     },
-    "afconsult.se": {
-        "domain": "afconsult.se",
-        "org": "\u00c5F-Consult AB",
-        "type": "IT"
-    },
     "addpro.se": {
         "domain": "addpro.se",
         "org": "Addpro AB",
@@ -28,6 +23,11 @@
         "domain": "afaforsakring.se",
         "org": "AFA F\u00f6rs\u00e4kring",
         "type": "Finans"
+    },
+    "afconsult.se": {
+        "domain": "afconsult.se",
+        "org": "\u00c5F-Consult AB",
+        "type": "IT"
     },
     "affarsvarlden.se": {
         "domain": "affarsvarlden.se",
@@ -1039,15 +1039,15 @@
         "org": "Hallstahammars kommun",
         "type": "Kommun"
     },
-    "halon.se": {
-        "domain": "halon.se",
-        "org": "Halon AB",
-        "type": "IT"
-    },
     "halmstad.se": {
         "domain": "halmstad.se",
         "org": "Halmstads kommun",
         "type": "Kommun"
+    },
+    "halon.se": {
+        "domain": "halon.se",
+        "org": "Halon AB",
+        "type": "IT"
     },
     "hammaro.se": {
         "domain": "hammaro.se",
