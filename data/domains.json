@@ -244,6 +244,11 @@
         "org": "Askersunds kommun",
         "type": "Kommun"
     },
+    "assured.se": {
+        "domain": "assured.se",
+        "org": "Assured AB",
+        "type": "IT"
+    },
     "astorp.se": {
         "domain": "astorp.se",
         "org": "\u00c5storps kommun",
