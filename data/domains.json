@@ -659,6 +659,11 @@
         "org": "Eksj\u00f6 kommun",
         "type": "Kommun"
     },
+    "elegnamnden.se": {
+        "domain": "elegnamnden.se",
+        "org": "E-legitimationsn\u00e4mnden",
+        "type": "Myndighet"
+    },
     "elsakerhetsverket.se": {
         "domain": "elsakerhetsverket.se",
         "org": "Els\u00e4kerhetsverket",
