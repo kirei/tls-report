@@ -34,6 +34,15 @@ sub output_table {
             $grade       = "X";
         }
 
+        my $general_class = "unknown";
+        if ($entry->{https} == 1 and $entry->{force} == 1) {
+            $general_class = "green";
+        } elsif ($entry->{https} == 1 and $entry->{force} == 0) {
+            $general_class = "yellow";
+        } elsif ($entry->{https} == 0 and $entry->{force} == 0) {
+            $general_class = "red";
+        }
+
         printf("<tr>\n");
         printf("<td>%s</td>\n", $entry->{domain});
         printf("<td>%s</td>\n", $entry->{org});
@@ -44,8 +53,10 @@ sub output_table {
         }
         printf("<td>%s</td>\n", $type);
 
-        printf("<td>%s</td>\n", yes_or_no($language, $entry->{https}));
-        printf("<td>%s</td>\n", yes_or_no($language, $entry->{force}));
+        printf("<td><div class=\"%s\">%s</div></td>\n",
+            $general_class, yes_or_no($language, $entry->{https}));
+        printf("<td><div class=\"%s\">%s</div></td>\n",
+            $general_class, yes_or_no($language, $entry->{force}));
 
         printf("<td><div class=\"%s\"><a href=\"%s\">%s</a></div></td>\n",
             $grade_class, ssllabs_link($entry->{fqdn}), $grade);
