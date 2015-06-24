@@ -45,6 +45,9 @@ webdist:
 	 rsync -av --delete --exclude .DS_Store \
 	 	web/ webusaito.kirei.se:/d/www/www.kirei.se/tls/
 
+$(REDIRECT): $(LIST)
+	perl scripts/check-redirect.pl $(LIST) > $@
+
 $(REPORT): $(LIST)
 	ssllabs-scan \
 		--usecache=true --maxage=24 \
@@ -60,9 +63,6 @@ $(SUMMARY): $(DOMAINS) $(REDIRECT) $(REPORT) $(SCRIPT_SUMMARY)
 
 $(DOMAINS):
 	cp $(SOURCE) $@
-
-$(REDIRECT): $(LIST)
-	perl scripts/check-redirect.pl $(LIST) > $@
 
 $(HTML_SV): $(SUMMARY) $(TEMPLATE_SV) $(SCRIPT_WEB) $(I18N)
 	perl scripts/create-web.pl \
