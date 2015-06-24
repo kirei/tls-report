@@ -269,6 +269,11 @@
         "org": "\u00c5storps kommun",
         "type": "Kommun"
     },
+    "atlascopco.com": {
+        "domain": "atlascopco.com",
+        "org": "Atlas Copco AB",
+        "type": "Industri"
+    },
     "atvidaberg.se": {
         "domain": "atvidaberg.se",
         "org": "\u00c5tvidabergs kommun",
@@ -1204,6 +1209,11 @@
         "org": "H\u00f6gskolan Kristianstad",
         "type": "Utbildning"
     },
+    "hm.com": {
+        "domain": "hm.com",
+        "org": "Hennes & Mauritz",
+        "type": "Detaljhandel"
+    },
     "hofors.se": {
         "domain": "hofors.se",
         "org": "Hofors kommun",
@@ -1333,6 +1343,11 @@
         "domain": "inspsf.se",
         "org": "Inspektionen f\u00f6r socialf\u00f6rs\u00e4kringen",
         "type": "Myndighet"
+    },
+    "investorab.com": {
+        "domain": "investorab.com",
+        "org": "Investor AB",
+        "type": "Finans"
     },
     "investsweden.se": {
         "domain": "investsweden.se",
@@ -2739,6 +2754,11 @@
         "org": "Samhall AB",
         "type": "Statligt bolag"
     },
+    "sandvik.com": {
+        "domain": "sandvik.com",
+        "org": "Sandvik AB",
+        "type": "Industri"
+    },
     "sandviken.se": {
         "domain": "sandviken.se",
         "org": "Sandvikens kommun",
@@ -3928,6 +3948,11 @@
         "domain": "volvofinans.se",
         "org": "Volvofinans Bank AB",
         "type": "Finans"
+    },
+    "volvogroup.com": {
+        "domain": "volvogroup.com",
+        "org": "Volvo Group AB",
+        "type": "Industri"
     },
     "vr.se": {
         "domain": "vr.se",
