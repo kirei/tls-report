@@ -16,8 +16,9 @@ sub output_table {
     binmode(STDOUT, ":utf8");
 
     foreach my $entry (@{$summary}) {
-        my $grade       = $entry->{grade};
-        my $grade_class = undef;
+        my $grade         = $entry->{grade};
+        my $grade_class   = undef;
+        my $general_class = undef;
 
         if ($grade =~ /^A/) {
             $grade_class = "grade-a";
@@ -34,13 +35,14 @@ sub output_table {
             $grade       = "X";
         }
 
-        my $general_class = "unknown";
         if ($entry->{https} == 1 and $entry->{force} == 1) {
             $general_class = "green";
         } elsif ($entry->{https} == 1 and $entry->{force} == 0) {
             $general_class = "yellow";
         } elsif ($entry->{https} == 0 and $entry->{force} == 0) {
             $general_class = "red";
+        } else {
+            $general_class = "unknown";
         }
 
         printf("<tr>\n");

@@ -24,6 +24,13 @@ div.grade-f { text-align: center; background-color: #ff0000; }
 div.grade-t { text-align: center; background-color: #ffaaaa; }
 div.grade-x { text-align: center; visibility: hidden; }
 
+/*
+div.green   { text-align: center; background-color: #aaffaa; }
+div.yellow  { text-align: center; background-color: #ffffaa; }
+div.red     { text-align: center; background-color: #ff0000; }
+div.unknown { text-align: center; }
+*/
+
 p {
 	text-indent: 0px;
 	margin-left:  0cm;
