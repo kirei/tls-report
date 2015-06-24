@@ -20,16 +20,20 @@ sub output_table {
         my $grade_class   = undef;
         my $general_class = undef;
 
-        if ($grade =~ /^A/) {
-            $grade_class = "grade-a";
-        } elsif ($grade =~ /^B/) {
-            $grade_class = "grade-b";
-        } elsif ($grade =~ /^C/) {
-            $grade_class = "grade-c";
-        } elsif ($grade =~ /^F/) {
-            $grade_class = "grade-f";
-        } elsif ($grade =~ /^T/) {
-            $grade_class = "grade-t";
+        if ($grade) {
+            if ($grade =~ /^A/) {
+                $grade_class = "grade-a";
+            } elsif ($grade =~ /^B/) {
+                $grade_class = "grade-b";
+            } elsif ($grade =~ /^C/) {
+                $grade_class = "grade-c";
+            } elsif ($grade =~ /^F/) {
+                $grade_class = "grade-f";
+            } elsif ($grade =~ /^T/) {
+                $grade_class = "grade-t";
+            } else {
+                die "Unknown grade ($grade)";
+            }
         } else {
             $grade_class = "grade-x";
             $grade       = "X";
