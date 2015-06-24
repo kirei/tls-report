@@ -294,6 +294,11 @@
         "org": "Bahnhof Internet AB",
         "type": "ISP"
     },
+    "bankid.com": {
+        "domain": "bankid.com",
+        "org": "Finansiell ID-Teknik BID AB",
+        "type": "IT"
+    },
     "barnombudsmannen.se": {
         "domain": "barnombudsmannen.se",
         "org": "Barnombudsmannen",
@@ -503,6 +508,11 @@
         "domain": "coop.se",
         "org": "MedMera Bank Aktiebolag",
         "type": "Finans"
+    },
+    "corechange.se": {
+        "domain": "corechange.se",
+        "org": "Corechange AB",
+        "type": "IT"
     },
     "coresec.se": {
         "domain": "coresec.se",
@@ -1709,6 +1719,11 @@
         "org": "Lax\u00e5 kommun",
         "type": "Kommun"
     },
+    "leissner.se": {
+        "domain": "leissner.se",
+        "org": "Leissner Data AB",
+        "type": "IT"
+    },
     "lekeberg.se": {
         "domain": "lekeberg.se",
         "org": "Lekebergs kommun",
@@ -2104,6 +2119,11 @@
         "org": "Mullsj\u00f6 kommun",
         "type": "Kommun"
     },
+    "mullvad.net": {
+        "domain": "mullvad.net",
+        "org": "Amagicom AB (Mullvad)",
+        "type": "IT"
+    },
     "munkedal.se": {
         "domain": "munkedal.se",
         "org": "Munkedals kommun",
@@ -2148,6 +2168,11 @@
         "domain": "naturvardsverket.se",
         "org": "Naturv\u00e5rdsverket",
         "type": "Myndighet"
+    },
+    "netclean.se": {
+        "domain": "netclean.se",
+        "org": "Netclean Technologies AB",
+        "type": "IT"
     },
     "netnod.se": {
         "domain": "netnod.se",
@@ -2559,6 +2584,11 @@
         "org": "R\u00e4ttviks kommun",
         "type": "Kommun"
     },
+    "recordedfuture.com": {
+        "domain": "recordedfuture.com",
+        "org": "Recorded Future AB",
+        "type": "IT"
+    },
     "regeringen.se": {
         "domain": "regeringen.se",
         "org": "Regeringskansliet",
@@ -2838,6 +2868,11 @@
         "domain": "simrishamn.se",
         "org": "Simrishamns kommun",
         "type": "Kommun"
+    },
+    "sis.se": {
+        "domain": "sis.se",
+        "org": "SIS, Swedish Standards Institute",
+        "type": "F\u00f6rening"
     },
     "siun.se": {
         "domain": "siun.se",
