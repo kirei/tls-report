@@ -1,6 +1,6 @@
 {
    "varberg.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.varberg.se" : {
             "code" : "200",
@@ -25,7 +25,7 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "greencargo.com" : {
       "status" : "fail/none",
@@ -39,10 +39,10 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "bgc.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "bgc.se" : {
@@ -56,7 +56,7 @@
       }
    },
    "myntkabinettet.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.myntkabinettet.se" : {
             "code" : "200",
@@ -81,10 +81,10 @@
          }
       },
       "status" : "none/http",
-      "https" : 0
+      "force_https" : 0
    },
    "orebro.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "www.orebro.se" : {
@@ -98,7 +98,7 @@
       }
    },
    "agria.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.agria.se" : {
             "location" : null,
@@ -112,7 +112,7 @@
       "status" : "self/none"
    },
    "teliasonera.com" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "teliasonera.com" : {
@@ -126,7 +126,7 @@
       }
    },
    "malmo.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.malmo.se" : {
             "location" : "http://malmo.se/",
@@ -151,7 +151,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "mdh.se" : {
       "hosts" : {
@@ -165,7 +165,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "onh.se" : {
       "status" : "none/none",
@@ -179,7 +179,7 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "bilprovningen.se" : {
       "hosts" : {
@@ -193,7 +193,7 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "stenungsund.se" : {
       "status" : "none/none",
@@ -207,10 +207,10 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "afaforsakring.se" : {
-      "https" : 1,
+      "force_https" : 1,
       "status" : "https/https",
       "hosts" : {
          "afaforsakring.se" : {
@@ -224,7 +224,7 @@
       }
    },
    "accept.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/self",
       "hosts" : {
          "www.accept.se" : {
@@ -238,7 +238,7 @@
       }
    },
    "statskontoret.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.statskontoret.se" : {
             "location" : null,
@@ -263,7 +263,7 @@
             "code" : "301"
          }
       },
-      "https" : 1
+      "force_https" : 1
    },
    "torsby.se" : {
       "hosts" : {
@@ -277,7 +277,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "spv.se" : {
       "status" : "self/self",
@@ -291,10 +291,10 @@
             "code" : "302"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "solna.se" : {
-      "https" : 1,
+      "force_https" : 1,
       "status" : "https/https",
       "hosts" : {
          "www.solna.se" : {
@@ -308,7 +308,7 @@
       }
    },
    "spp.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "spp.se" : {
             "location" : "http://www.spp.se",
@@ -322,7 +322,7 @@
       "status" : "self/none"
    },
    "op5.com" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "op5.com" : {
             "code" : "301",
@@ -347,10 +347,10 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "odinfonder.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/self",
       "hosts" : {
          "www.odinfonder.se" : {
@@ -364,7 +364,7 @@
       }
    },
    "sydsvenskan.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.sydsvenskan.se" : {
             "location" : null,
@@ -389,10 +389,10 @@
          }
       },
       "status" : "http/http",
-      "https" : 0
+      "force_https" : 0
    },
    "lg.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "lg.se" : {
             "code" : "302",
@@ -417,10 +417,10 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "dina.se" : {
-      "https" : 1,
+      "force_https" : 1,
       "hosts" : {
          "www.dina.se" : {
             "code" : "301",
@@ -445,7 +445,7 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "falun.se" : {
       "status" : "self/none",
@@ -459,7 +459,7 @@
             "location" : "http://www.falun.se/"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "malung-salen.se" : {
       "hosts" : {
@@ -473,7 +473,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "ekobrottsmyndigheten.se" : {
       "status" : "fail/none",
@@ -487,10 +487,10 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "svt.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.svt.se" : {
             "code" : "200",
@@ -504,7 +504,7 @@
       "status" : "self/none"
    },
    "soderhamn.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "soderhamn.se" : {
             "code" : "200",
@@ -529,10 +529,10 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "modernaforsakringar.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "www.modernaforsakringar.se" : {
@@ -546,7 +546,7 @@
       }
    },
    "romab.com" : {
-      "https" : 1,
+      "force_https" : 1,
       "status" : "https/https",
       "hosts" : {
          "www.romab.com" : {
@@ -560,7 +560,7 @@
       }
    },
    "kriminalvarden.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "www.kriminalvarden.se" : {
@@ -574,7 +574,7 @@
       }
    },
    "valdemarsvik.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.valdemarsvik.se" : {
             "location" : null,
@@ -588,7 +588,7 @@
       "status" : "self/none"
    },
    "barnombudsmannen.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "www.barnombudsmannen.se" : {
@@ -602,7 +602,7 @@
       }
    },
    "bollnas.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.bollnas.se" : {
             "code" : "200",
@@ -627,10 +627,10 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "xpd.se" : {
-      "https" : 1,
+      "force_https" : 1,
       "hosts" : {
          "www.xpd.se" : {
             "code" : "302",
@@ -644,7 +644,7 @@
       "status" : "https/https"
    },
    "klippan.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "www.klippan.se" : {
@@ -658,7 +658,7 @@
       }
    },
    "stadshypotekbank.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "fail/none",
       "hosts" : {
          "www.stadshypotekbank.se" : {
@@ -672,7 +672,7 @@
       }
    },
    "mullsjo.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.mullsjo.se" : {
             "code" : "200",
@@ -697,10 +697,10 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "kristianstad.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/unknown",
       "hosts" : {
          "kristianstad.se" : {
@@ -714,7 +714,7 @@
       }
    },
    "ljungby.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "ljungby.se" : {
@@ -739,7 +739,7 @@
             "location" : "http://www.sj.se/"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "trygghansa.se" : {
       "status" : "self/unknown",
@@ -753,7 +753,7 @@
             "location" : "/privat/pages/default.aspx"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "salusansvar.se" : {
       "hosts" : {
@@ -767,10 +767,10 @@
          }
       },
       "status" : "self/https",
-      "https" : 1
+      "force_https" : 1
    },
    "lindesberg.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "www.lindesberg.se" : {
@@ -784,7 +784,7 @@
       }
    },
    "blackinternet.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "blackinternet.se" : {
@@ -809,7 +809,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "chalmers.se" : {
       "hosts" : {
@@ -823,10 +823,10 @@
          }
       },
       "status" : "self/self",
-      "https" : 0
+      "force_https" : 0
    },
    "ekn.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "www.ekn.se" : {
@@ -851,7 +851,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "irf.se" : {
       "status" : "none/none",
@@ -865,7 +865,7 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "formas.se" : {
       "hosts" : {
@@ -879,10 +879,10 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "ltdalarna.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "www.ltdalarna.se" : {
@@ -896,7 +896,7 @@
       }
    },
    "levandehistoria.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "www.levandehistoria.se" : {
@@ -921,7 +921,7 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "linkoping.se" : {
       "hosts" : {
@@ -935,10 +935,10 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "bengtsfors.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "bengtsfors.se" : {
@@ -952,7 +952,7 @@
       }
    },
    "ostasiatiska.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.ostasiatiska.se" : {
             "code" : "301",
@@ -977,10 +977,10 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "lessebo.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "www.lessebo.se" : {
@@ -994,7 +994,7 @@
       }
    },
    "katrineholm.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "katrineholm.se" : {
@@ -1019,10 +1019,10 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "lerum.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "lerum.se" : {
             "location" : null,
@@ -1036,7 +1036,7 @@
       "status" : "none/none"
    },
    "tele2.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "www.tele2.se" : {
@@ -1061,10 +1061,10 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "stromsund.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "www.stromsund.se" : {
@@ -1089,10 +1089,10 @@
          }
       },
       "status" : "unknown/unknown",
-      "https" : 0
+      "force_https" : 0
    },
    "rmv.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "www.rmv.se" : {
@@ -1106,7 +1106,7 @@
       }
    },
    "regeringen.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "regeringen.se" : {
             "location" : "http://www.regeringen.se/",
@@ -1120,7 +1120,7 @@
       "status" : "self/none"
    },
    "ljusnarsberg.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "www.ljusnarsberg.se" : {
@@ -1145,10 +1145,10 @@
          }
       },
       "status" : "fail/none",
-      "https" : 0
+      "force_https" : 0
    },
    "hammaro.se" : {
-      "https" : 1,
+      "force_https" : 1,
       "hosts" : {
          "hammaro.se" : {
             "location" : "https://www.hammaro.se/",
@@ -1173,7 +1173,7 @@
          }
       },
       "status" : "self/unknown",
-      "https" : 0
+      "force_https" : 0
    },
    "arbetsdomstolen.se" : {
       "hosts" : {
@@ -1187,7 +1187,7 @@
          }
       },
       "status" : "fail/unknown",
-      "https" : 0
+      "force_https" : 0
    },
    "fra.se" : {
       "status" : "none/none",
@@ -1201,7 +1201,7 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "stromstad.se" : {
       "hosts" : {
@@ -1215,10 +1215,10 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "ockero.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "ockero.se" : {
             "location" : null,
@@ -1243,7 +1243,7 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "filipstad.se" : {
       "hosts" : {
@@ -1257,10 +1257,10 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "savsjo.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "fail/none",
       "hosts" : {
          "www.savsjo.se" : {
@@ -1274,7 +1274,7 @@
       }
    },
    "nordanstig.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "nordanstig.se" : {
             "code" : "200",
@@ -1299,7 +1299,7 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "boverket.se" : {
       "hosts" : {
@@ -1313,7 +1313,7 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "upplandsvasby.se" : {
       "hosts" : {
@@ -1327,7 +1327,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "svedab.se" : {
       "hosts" : {
@@ -1341,7 +1341,7 @@
          }
       },
       "status" : "none/self",
-      "https" : 0
+      "force_https" : 0
    },
    "lvn.se" : {
       "hosts" : {
@@ -1355,7 +1355,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "sparbankenrekarne.se" : {
       "hosts" : {
@@ -1369,10 +1369,10 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "swedbankrobur.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "swedbankrobur.se" : {
             "code" : "301",
@@ -1386,7 +1386,7 @@
       "status" : "self/none"
    },
    "sfhm.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "fail/none",
       "hosts" : {
          "sfhm.se" : {
@@ -1411,10 +1411,10 @@
          }
       },
       "status" : "self/https",
-      "https" : 1
+      "force_https" : 1
    },
    "scb.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "scb.se" : {
@@ -1428,7 +1428,7 @@
       }
    },
    "tv3.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.tv3.se" : {
             "code" : "200",
@@ -1442,7 +1442,7 @@
       "status" : "self/none"
    },
    "amf.se" : {
-      "https" : 1,
+      "force_https" : 1,
       "status" : "https/https",
       "hosts" : {
          "amf.se" : {
@@ -1467,10 +1467,10 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "ikanobank.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "ikanobank.se" : {
@@ -1495,7 +1495,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "sweroad.se" : {
       "status" : "fail/none",
@@ -1509,10 +1509,10 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "oxelosund.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "oxelosund.se" : {
             "location" : null,
@@ -1537,7 +1537,7 @@
             "location" : "http://www.telenor.se/index.html"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "trosa.se" : {
       "status" : "none/none",
@@ -1551,10 +1551,10 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "fargelanda.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.fargelanda.se" : {
             "location" : null,
@@ -1568,7 +1568,7 @@
       "status" : "self/none"
    },
    "solvesborg.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "www.solvesborg.se" : {
@@ -1593,10 +1593,10 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "sbo.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "www.sbo.se" : {
@@ -1610,7 +1610,7 @@
       }
    },
    "knivsta.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.knivsta.se" : {
             "code" : "200",
@@ -1635,7 +1635,7 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "undom.se" : {
       "hosts" : {
@@ -1649,7 +1649,7 @@
          }
       },
       "status" : "fail/none",
-      "https" : 0
+      "force_https" : 0
    },
    "lio.se" : {
       "status" : "http/http",
@@ -1663,7 +1663,7 @@
             "location" : "http://www.regionostergotland.se/"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "skelleftea.se" : {
       "status" : "self/http",
@@ -1677,10 +1677,10 @@
             "code" : "302"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "arvidsjaur.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "arvidsjaur.se" : {
             "code" : "200",
@@ -1694,7 +1694,7 @@
       "status" : "none/none"
    },
    "overklagandenamnden.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "unknown/none",
       "hosts" : {
          "overklagandenamnden.se" : {
@@ -1719,7 +1719,7 @@
             "location" : "https://detectify.com"
          }
       },
-      "https" : 1
+      "force_https" : 1
    },
    "botkyrka.se" : {
       "status" : "none/none",
@@ -1733,10 +1733,10 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "olandsbank.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/self",
       "hosts" : {
          "www.olandsbank.se" : {
@@ -1750,7 +1750,7 @@
       }
    },
    "folkebernadotteacademy.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "folkebernadotteacademy.se" : {
             "code" : "302",
@@ -1764,7 +1764,7 @@
       "status" : "http/http"
    },
    "catella.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.catella.se" : {
             "code" : "301",
@@ -1789,7 +1789,7 @@
             "code" : "301"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "berg.se" : {
       "hosts" : {
@@ -1803,10 +1803,10 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "msb.se" : {
-      "https" : 1,
+      "force_https" : 1,
       "status" : "https/https",
       "hosts" : {
          "www.msb.se" : {
@@ -1831,7 +1831,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "svk.se" : {
       "hosts" : {
@@ -1845,7 +1845,7 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "horby.se" : {
       "status" : "http/self",
@@ -1859,7 +1859,7 @@
             "location" : "http://www.xn--hrby-5qa.se/"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "norrlandcenter.se" : {
       "hosts" : {
@@ -1873,7 +1873,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "monsteras.se" : {
       "hosts" : {
@@ -1887,10 +1887,10 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "sll.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "www.sll.se" : {
@@ -1904,7 +1904,7 @@
       }
    },
    "ikanobanken.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "ikanobanken.se" : {
             "code" : "200",
@@ -1929,10 +1929,10 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "snsb.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.snsb.se" : {
             "code" : "200",
@@ -1946,7 +1946,7 @@
       "status" : "none/none"
    },
    "goteborg.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "goteborg.se" : {
             "code" : "302",
@@ -1960,7 +1960,7 @@
       "status" : "self/self"
    },
    "swedfund.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "swedfund.se" : {
@@ -1974,7 +1974,7 @@
       }
    },
    "gotakanal.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/unknown",
       "hosts" : {
          "www.gotakanal.se" : {
@@ -1999,10 +1999,10 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "cim.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.cim.se" : {
             "code" : "302",
@@ -2016,7 +2016,7 @@
       "status" : "unknown/unknown"
    },
    "dnb.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "unknown/unknown",
       "hosts" : {
          "www.dnb.se" : {
@@ -2030,7 +2030,7 @@
       }
    },
    "krokom.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "krokom.se" : {
             "location" : null,
@@ -2044,7 +2044,7 @@
       "status" : "none/none"
    },
    "boden.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.boden.se" : {
             "location" : null,
@@ -2058,7 +2058,7 @@
       "status" : "none/none"
    },
    "gagnef.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "www.gagnef.se" : {
@@ -2072,7 +2072,7 @@
       }
    },
    "riksrevisionen.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.riksrevisionen.se" : {
             "location" : null,
@@ -2097,7 +2097,7 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "simrishamn.se" : {
       "hosts" : {
@@ -2111,10 +2111,10 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "kanalnio.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "kanalnio.se" : {
             "code" : 500,
@@ -2128,7 +2128,7 @@
       "status" : "fail/http"
    },
    "kil.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "kil.se" : {
@@ -2153,7 +2153,7 @@
          }
       },
       "status" : "fail/unknown",
-      "https" : 0
+      "force_https" : 0
    },
    "overtornea.se" : {
       "hosts" : {
@@ -2167,10 +2167,10 @@
          }
       },
       "status" : "fail/none",
-      "https" : 0
+      "force_https" : 0
    },
    "doch.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "www.doch.se" : {
@@ -2195,7 +2195,7 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "lagradet.se" : {
       "hosts" : {
@@ -2209,7 +2209,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "etnografiska.se" : {
       "status" : "fail/http",
@@ -2223,10 +2223,10 @@
             "code" : 500
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "epn.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "fail/unknown",
       "hosts" : {
          "www.epn.se" : {
@@ -2251,10 +2251,10 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "hagfors.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "hagfors.se" : {
             "code" : "200",
@@ -2279,7 +2279,7 @@
             "location" : "http://www.hv.se/"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "nwt.se" : {
       "hosts" : {
@@ -2293,7 +2293,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "fastighetsmaklarnamnden.se" : {
       "status" : "none/none",
@@ -2307,7 +2307,7 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "jordbruksverket.se" : {
       "status" : "self/none",
@@ -2321,10 +2321,10 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "lernia.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "lernia.se" : {
             "location" : "http://www.lernia.se/",
@@ -2338,7 +2338,7 @@
       "status" : "self/none"
    },
    "skinnskatteberg.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "skinnskatteberg.se" : {
             "location" : null,
@@ -2352,7 +2352,7 @@
       "status" : "none/self"
    },
    "jll.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "jll.se" : {
             "code" : "200",
@@ -2377,7 +2377,7 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "rixfm.se" : {
       "status" : "none/none",
@@ -2391,7 +2391,7 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "av.se" : {
       "status" : "unknown/unknown",
@@ -2405,10 +2405,10 @@
             "location" : "/?AspxAutoDetectCookieSupport=1"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "pitea.se" : {
-      "https" : 1,
+      "force_https" : 1,
       "status" : "self/https",
       "hosts" : {
          "www.pitea.se" : {
@@ -2422,7 +2422,7 @@
       }
    },
    "hoor.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.hoor.se" : {
             "location" : null,
@@ -2447,7 +2447,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "simplicity.se" : {
       "status" : "unknown/unknown",
@@ -2461,10 +2461,10 @@
             "location" : "/startsida.aspx"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "bfn.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.bfn.se" : {
             "location" : null,
@@ -2478,7 +2478,7 @@
       "status" : "fail/none"
    },
    "smvk.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "smvk.se" : {
             "location" : null,
@@ -2503,10 +2503,10 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "transportstyrelsen.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "transportstyrelsen.se" : {
             "location" : null,
@@ -2531,7 +2531,7 @@
             "location" : "http://lnu.se"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "amfafinans.se" : {
       "hosts" : {
@@ -2545,7 +2545,7 @@
          }
       },
       "status" : "http/http",
-      "https" : 0
+      "force_https" : 0
    },
    "ystad.se" : {
       "status" : "none/none",
@@ -2559,10 +2559,10 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "arn.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.arn.se" : {
             "location" : null,
@@ -2587,7 +2587,7 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "stdh.se" : {
       "status" : "self/none",
@@ -2601,10 +2601,10 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "kristinehamn.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "kristinehamn.se" : {
             "code" : "200",
@@ -2629,10 +2629,10 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "vardanalys.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.vardanalys.se" : {
             "code" : "200",
@@ -2646,7 +2646,7 @@
       "status" : "none/none"
    },
    "norsjo.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "www.norsjo.se" : {
@@ -2660,7 +2660,7 @@
       }
    },
    "alltele.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "alltele.se" : {
             "code" : "200",
@@ -2674,7 +2674,7 @@
       "status" : "none/none"
    },
    "kanal9play.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "kanal9play.se" : {
             "location" : "http://www.kanal9play.se/",
@@ -2688,7 +2688,7 @@
       "status" : "self/none"
    },
    "vasallen.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "fail/none",
       "hosts" : {
          "www.vasallen.se" : {
@@ -2702,7 +2702,7 @@
       }
    },
    "viasat.se" : {
-      "https" : 1,
+      "force_https" : 1,
       "hosts" : {
          "viasat.se" : {
             "code" : "301",
@@ -2716,7 +2716,7 @@
       "status" : "https/https"
    },
    "lfv.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "lfv.se" : {
@@ -2730,7 +2730,7 @@
       }
    },
    "harryda.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "www.harryda.se" : {
@@ -2744,7 +2744,7 @@
       }
    },
    "lidingo.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "www.lidingo.se" : {
@@ -2769,7 +2769,7 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "du.se" : {
       "hosts" : {
@@ -2783,7 +2783,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "vallentuna.se" : {
       "status" : "none/none",
@@ -2797,7 +2797,7 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "arboga.se" : {
       "status" : "none/none",
@@ -2811,7 +2811,7 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "aftonbladet.se" : {
       "status" : "self/none",
@@ -2825,10 +2825,10 @@
             "location" : "http://www.aftonbladet.se/"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "akademiskahus.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "akademiskahus.se" : {
             "location" : "http://www.akademiskahus.se/",
@@ -2842,7 +2842,7 @@
       "status" : "self/none"
    },
    "bt.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "bt.se" : {
             "location" : "http://www.bt.se",
@@ -2867,7 +2867,7 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "ppm.nu" : {
       "status" : "http/http",
@@ -2881,7 +2881,7 @@
             "code" : "302"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "vara.se" : {
       "hosts" : {
@@ -2895,7 +2895,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "slu.se" : {
       "status" : "self/none",
@@ -2909,10 +2909,10 @@
             "location" : "http://www.slu.se"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "atvidaberg.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "www.atvidaberg.se" : {
@@ -2926,7 +2926,7 @@
       }
    },
    "robertsfors.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "fail/none",
       "hosts" : {
          "robertsfors.se" : {
@@ -2940,7 +2940,7 @@
       }
    },
    "kth.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "kth.se" : {
@@ -2965,7 +2965,7 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "hallstahammar.se" : {
       "hosts" : {
@@ -2979,10 +2979,10 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "borgholm.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.borgholm.se" : {
             "location" : null,
@@ -3007,10 +3007,10 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "rattvik.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "rattvik.se" : {
@@ -3024,7 +3024,7 @@
       }
    },
    "grums.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "grums.se" : {
             "location" : null,
@@ -3038,7 +3038,7 @@
       "status" : "fail/none"
    },
    "sosalarm.se" : {
-      "https" : 1,
+      "force_https" : 1,
       "hosts" : {
          "sosalarm.se" : {
             "location" : "https://sosalarm.se/",
@@ -3052,7 +3052,7 @@
       "status" : "https/https"
    },
    "uddevalla.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "uddevalla.se" : {
@@ -3066,7 +3066,7 @@
       }
    },
    "ap7.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.ap7.se" : {
             "code" : "302",
@@ -3080,7 +3080,7 @@
       "status" : "self/self"
    },
    "alingsas.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "www.alingsas.se" : {
@@ -3094,7 +3094,7 @@
       }
    },
    "ljusdal.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "ljusdal.se" : {
@@ -3108,7 +3108,7 @@
       }
    },
    "tre.se" : {
-      "https" : 1,
+      "force_https" : 1,
       "hosts" : {
          "tre.se" : {
             "location" : "https://tre.se/",
@@ -3122,7 +3122,7 @@
       "status" : "https/https"
    },
    "sameskolstyrelsen.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "www.sameskolstyrelsen.se" : {
@@ -3147,10 +3147,10 @@
             "code" : "301"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "riksdagen.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "www.riksdagen.se" : {
@@ -3175,7 +3175,7 @@
             "location" : "http://sverigesradio.se/"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "vasamuseet.se" : {
       "hosts" : {
@@ -3189,10 +3189,10 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "brottsoffermyndigheten.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "brottsoffermyndigheten.se" : {
             "location" : null,
@@ -3206,7 +3206,7 @@
       "status" : "fail/none"
    },
    "skatteverket.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/self",
       "hosts" : {
          "skatteverket.se" : {
@@ -3231,10 +3231,10 @@
          }
       },
       "status" : "fail/none",
-      "https" : 0
+      "force_https" : 0
    },
    "lsh.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/self",
       "hosts" : {
          "lsh.se" : {
@@ -3259,7 +3259,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "alandsbanken.se" : {
       "status" : "self/none",
@@ -3273,10 +3273,10 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "pensionsmyndigheten.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "www.pensionsmyndigheten.se" : {
@@ -3290,7 +3290,7 @@
       }
    },
    "sp.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/self",
       "hosts" : {
          "sp.se" : {
@@ -3315,7 +3315,7 @@
             "location" : "http://www.svanen.se/"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "skolverket.se" : {
       "hosts" : {
@@ -3329,7 +3329,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "karlskrona.se" : {
       "status" : "none/none",
@@ -3343,7 +3343,7 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "modernafonder.se" : {
       "hosts" : {
@@ -3357,10 +3357,10 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "cicerofonder.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.cicerofonder.se" : {
             "code" : "200",
@@ -3385,10 +3385,10 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "sparbankenoresund.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "sparbankenoresund.se" : {
             "location" : null,
@@ -3413,7 +3413,7 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "riksutstallningar.se" : {
       "status" : "https/https",
@@ -3427,7 +3427,7 @@
             "location" : "https://riksutstallningar.se/"
          }
       },
-      "https" : 1
+      "force_https" : 1
    },
    "sverigesradio.se" : {
       "status" : "none/self",
@@ -3441,7 +3441,7 @@
             "code" : "301"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "lansforsakringar.se" : {
       "hosts" : {
@@ -3455,7 +3455,7 @@
          }
       },
       "status" : "self/unknown",
-      "https" : 0
+      "force_https" : 0
    },
    "karlsborg.se" : {
       "status" : "none/none",
@@ -3469,10 +3469,10 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "sofi.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.sofi.se" : {
             "code" : "301",
@@ -3486,7 +3486,7 @@
       "status" : "http/http"
    },
    "avanza.se" : {
-      "https" : 1,
+      "force_https" : 1,
       "status" : "https/https",
       "hosts" : {
          "avanza.se" : {
@@ -3511,10 +3511,10 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "nohau.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "nohau.se" : {
@@ -3528,7 +3528,7 @@
       }
    },
    "hellefors.se" : {
-      "https" : 1,
+      "force_https" : 1,
       "hosts" : {
          "hellefors.se" : {
             "code" : "302",
@@ -3553,7 +3553,7 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "hb.se" : {
       "status" : "self/none",
@@ -3567,7 +3567,7 @@
             "code" : "301"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "alfredberg.se" : {
       "status" : "fail/none",
@@ -3581,7 +3581,7 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "mora.se" : {
       "hosts" : {
@@ -3595,10 +3595,10 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "varbergssparbank.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "www.varbergssparbank.se" : {
@@ -3623,10 +3623,10 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "statenssc.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/self",
       "hosts" : {
          "www.statenssc.se" : {
@@ -3640,7 +3640,7 @@
       }
    },
    "movestic.se" : {
-      "https" : 1,
+      "force_https" : 1,
       "status" : "https/https",
       "hosts" : {
          "www.movestic.se" : {
@@ -3665,10 +3665,10 @@
             "code" : 500
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "uvtc.com" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/self",
       "hosts" : {
          "www.uvtc.com" : {
@@ -3682,7 +3682,7 @@
       }
    },
    "sesec.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "sesec.se" : {
@@ -3696,7 +3696,7 @@
       }
    },
    "almhult.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "www.almhult.se" : {
@@ -3721,10 +3721,10 @@
             "location" : "http://staffanstorp.se/"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "historiska.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "historiska.se" : {
             "location" : null,
@@ -3749,10 +3749,10 @@
             "location" : "http://www.skogsstyrelsen.se/"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "sormland.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.sormland.se" : {
             "location" : "http://www.svetur.se/sv/visitsormland/",
@@ -3766,7 +3766,7 @@
       "status" : "fail/http"
    },
    "tierp.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "tierp.se" : {
@@ -3780,7 +3780,7 @@
       }
    },
    "dramaten.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "dramaten.se" : {
@@ -3805,7 +3805,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "iis.se" : {
       "hosts" : {
@@ -3819,7 +3819,7 @@
          }
       },
       "status" : "https/https",
-      "https" : 1
+      "force_https" : 1
    },
    "ltv.se" : {
       "hosts" : {
@@ -3833,7 +3833,7 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "vadstena.se" : {
       "hosts" : {
@@ -3847,10 +3847,10 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "amal.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "amal.se" : {
             "location" : null,
@@ -3875,10 +3875,10 @@
             "code" : "301"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "kommers.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.kommers.se" : {
             "location" : null,
@@ -3892,7 +3892,7 @@
       "status" : "none/none"
    },
    "isp.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "isp.se" : {
             "location" : "/sa/site.asp?site=367",
@@ -3917,7 +3917,7 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "siun.se" : {
       "status" : "fail/none",
@@ -3931,7 +3931,7 @@
             "code" : 500
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "val.se" : {
       "hosts" : {
@@ -3945,10 +3945,10 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "munkfors.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.munkfors.se" : {
             "location" : "showpage.asp",
@@ -3973,7 +3973,7 @@
             "location" : "http://www.umu.se/"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "lekeberg.se" : {
       "status" : "none/none",
@@ -3987,7 +3987,7 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "msr.se" : {
       "status" : "self/http",
@@ -4001,10 +4001,10 @@
             "location" : "http://www.msr.se"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "dom.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.dom.se" : {
             "code" : "302",
@@ -4018,7 +4018,7 @@
       "status" : "http/http"
    },
    "tv4.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.tv4.se" : {
             "code" : "200",
@@ -4032,7 +4032,7 @@
       "status" : "self/none"
    },
    "aneby.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.aneby.se" : {
             "location" : null,
@@ -4046,7 +4046,7 @@
       "status" : "self/none"
    },
    "grastorp.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "grastorp.se" : {
@@ -4071,10 +4071,10 @@
             "location" : "http://www.lidendata.se/lidero"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "eskilstuna.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "eskilstuna.se" : {
@@ -4088,7 +4088,7 @@
       }
    },
    "eksjo.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "eksjo.se" : {
             "location" : null,
@@ -4102,7 +4102,7 @@
       "status" : "fail/none"
    },
    "sparbankenskaraborg.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "www.sparbankenskaraborg.se" : {
@@ -4127,10 +4127,10 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "boxholm.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "boxholm.se" : {
             "location" : "http://www.boxholm.se/",
@@ -4144,7 +4144,7 @@
       "status" : "self/none"
    },
    "sala.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "www.sala.se" : {
@@ -4169,10 +4169,10 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "soderkoping.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "soderkoping.se" : {
@@ -4197,7 +4197,7 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "gih.se" : {
       "status" : "none/none",
@@ -4211,7 +4211,7 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "smer.se" : {
       "hosts" : {
@@ -4225,7 +4225,7 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "pliktverket.se" : {
       "status" : "fail/none",
@@ -4239,10 +4239,10 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "sundbyberg.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "sundbyberg.se" : {
@@ -4267,7 +4267,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "if.se" : {
       "status" : "https/https",
@@ -4281,10 +4281,10 @@
             "code" : "301"
          }
       },
-      "https" : 1
+      "force_https" : 1
    },
    "tranemo.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "tranemo.se" : {
             "location" : null,
@@ -4309,7 +4309,7 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "vaxjo.se" : {
       "hosts" : {
@@ -4323,7 +4323,7 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "sunet.se" : {
       "hosts" : {
@@ -4337,7 +4337,7 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "almi.se" : {
       "status" : "self/none",
@@ -4351,7 +4351,7 @@
             "location" : "http://www.almi.se/"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "vaxholm.se" : {
       "status" : "none/none",
@@ -4365,7 +4365,7 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "datainspektionen.se" : {
       "status" : "self/none",
@@ -4379,7 +4379,7 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "storfors.se" : {
       "hosts" : {
@@ -4393,7 +4393,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "royalcourt.se" : {
       "status" : "http/http",
@@ -4407,10 +4407,10 @@
             "code" : "301"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "arjang.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "www.arjang.se" : {
@@ -4435,7 +4435,7 @@
          }
       },
       "status" : "none/self",
-      "https" : 0
+      "force_https" : 0
    },
    "tutus.se" : {
       "status" : "none/none",
@@ -4449,10 +4449,10 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "sollentuna.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "www.sollentuna.se" : {
@@ -4466,7 +4466,7 @@
       }
    },
    "norrkoping.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "norrkoping.se" : {
             "location" : "http://www.norrkoping.se/",
@@ -4480,7 +4480,7 @@
       "status" : "self/none"
    },
    "perspektivbredband.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "unknown/unknown",
       "hosts" : {
          "perspektivbredband.se" : {
@@ -4505,10 +4505,10 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "volvofinans.se" : {
-      "https" : 1,
+      "force_https" : 1,
       "status" : "https/https",
       "hosts" : {
          "volvofinans.se" : {
@@ -4522,7 +4522,7 @@
       }
    },
    "kammarkollegiet.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "kammarkollegiet.se" : {
@@ -4547,7 +4547,7 @@
             "location" : "http://www.jonkoping.se/"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "ludvika.se" : {
       "status" : "none/none",
@@ -4561,10 +4561,10 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "operahogskolan.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "operahogskolan.se" : {
             "code" : "301",
@@ -4578,7 +4578,7 @@
       "status" : "self/none"
    },
    "fxm.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/self",
       "hosts" : {
          "fxm.se" : {
@@ -4592,7 +4592,7 @@
       }
    },
    "forsakringskassan.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/self",
       "hosts" : {
          "forsakringskassan.se" : {
@@ -4606,7 +4606,7 @@
       }
    },
    "falkenberg.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "www.falkenberg.se" : {
@@ -4631,10 +4631,10 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "vasteras.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "www.vasteras.se" : {
@@ -4659,10 +4659,10 @@
             "code" : "302"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "sametinget.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "www.sametinget.se" : {
@@ -4687,10 +4687,10 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "hassleholm.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "hassleholm.se" : {
             "location" : null,
@@ -4704,7 +4704,7 @@
       "status" : "none/none"
    },
    "lotteriinspektionen.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "lotteriinspektionen.se" : {
@@ -4718,7 +4718,7 @@
       }
    },
    "vanersborg.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "vanersborg.se" : {
             "location" : null,
@@ -4743,10 +4743,10 @@
             "location" : "http://www.radioplay.se/mixmegapol"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "kemi.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.kemi.se" : {
             "location" : null,
@@ -4771,7 +4771,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "harnosand.se" : {
       "hosts" : {
@@ -4785,10 +4785,10 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "bastad.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "www.bastad.se" : {
@@ -4802,7 +4802,7 @@
       }
    },
    "afconsult.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "http/http",
       "hosts" : {
          "www.afconsult.se" : {
@@ -4827,7 +4827,7 @@
          }
       },
       "status" : "fail/none",
-      "https" : 0
+      "force_https" : 0
    },
    "svtplay.se" : {
       "status" : "self/none",
@@ -4841,10 +4841,10 @@
             "location" : "http://www.svtplay.se/"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "hsv.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "hsv.se" : {
@@ -4858,7 +4858,7 @@
       }
    },
    "shmm.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "shmm.se" : {
@@ -4883,10 +4883,10 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "lidkoping.se" : {
-      "https" : 1,
+      "force_https" : 1,
       "status" : "https/https",
       "hosts" : {
          "www.lidkoping.se" : {
@@ -4911,10 +4911,10 @@
             "location" : "http://www.skandia.se/"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "saffle.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "saffle.se" : {
             "location" : null,
@@ -4939,7 +4939,7 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "amfpension.se" : {
       "status" : "https/https",
@@ -4953,7 +4953,7 @@
             "location" : "https://www.amf.se/"
          }
       },
-      "https" : 1
+      "force_https" : 1
    },
    "coop.se" : {
       "status" : "https/https",
@@ -4967,7 +4967,7 @@
             "location" : "https://www.coop.se/"
          }
       },
-      "https" : 1
+      "force_https" : 1
    },
    "alvdalen.se" : {
       "status" : "none/none",
@@ -4981,7 +4981,7 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "samhall.se" : {
       "hosts" : {
@@ -4995,7 +4995,7 @@
          }
       },
       "status" : "none/self",
-      "https" : 0
+      "force_https" : 0
    },
    "haparanda.se" : {
       "status" : "self/none",
@@ -5009,10 +5009,10 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "kirei.se" : {
-      "https" : 1,
+      "force_https" : 1,
       "status" : "https/https",
       "hosts" : {
          "kirei.se" : {
@@ -5026,7 +5026,7 @@
       }
    },
    "energimarknadsinspektionen.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "energimarknadsinspektionen.se" : {
@@ -5051,10 +5051,10 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "finanspolitiskaradet.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "finanspolitiskaradet.se" : {
@@ -5079,7 +5079,7 @@
             "location" : "http://www.nordea.se/"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "markaryd.se" : {
       "hosts" : {
@@ -5093,10 +5093,10 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "dalsed.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "dalsed.se" : {
@@ -5121,7 +5121,7 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "emmaboda.se" : {
       "hosts" : {
@@ -5135,10 +5135,10 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "polar.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.polar.se" : {
             "code" : "301",
@@ -5163,7 +5163,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "apfond6.se" : {
       "status" : "none/none",
@@ -5177,10 +5177,10 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "sgu.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.sgu.se" : {
             "code" : "200",
@@ -5194,7 +5194,7 @@
       "status" : "none/none"
    },
    "karlskoga.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "karlskoga.se" : {
             "code" : "200",
@@ -5208,7 +5208,7 @@
       "status" : "none/none"
    },
    "secode.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "fail/none",
       "hosts" : {
          "secode.se" : {
@@ -5222,7 +5222,7 @@
       }
    },
    "sfv.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "sfv.se" : {
             "code" : "200",
@@ -5247,7 +5247,7 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "sakint.se" : {
       "status" : "fail/none",
@@ -5261,10 +5261,10 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "revisorsnamnden.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "fail/self",
       "hosts" : {
          "www.revisorsnamnden.se" : {
@@ -5289,10 +5289,10 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "privataaffarer.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "privataaffarer.se" : {
             "code" : "301",
@@ -5306,7 +5306,7 @@
       "status" : "self/none"
    },
    "jernhusen.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "www.jernhusen.se" : {
@@ -5331,10 +5331,10 @@
          }
       },
       "status" : "none/self",
-      "https" : 0
+      "force_https" : 0
    },
    "gp.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "gp.se" : {
@@ -5359,7 +5359,7 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "aklagare.se" : {
       "hosts" : {
@@ -5373,7 +5373,7 @@
          }
       },
       "status" : "unknown/none",
-      "https" : 0
+      "force_https" : 0
    },
    "lidendata.se" : {
       "hosts" : {
@@ -5387,10 +5387,10 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "kinda.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "www.kinda.se" : {
@@ -5415,10 +5415,10 @@
          }
       },
       "status" : "self/self",
-      "https" : 0
+      "force_https" : 0
    },
    "sigtuna.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "sigtuna.se" : {
@@ -5443,7 +5443,7 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "alvkarleby.se" : {
       "status" : "self/none",
@@ -5457,10 +5457,10 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "saxoprivatbank.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.saxoprivatbank.se" : {
             "location" : null,
@@ -5474,7 +5474,7 @@
       "status" : "self/fail"
    },
    "presstodsnamnden.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "presstodsnamnden.se" : {
             "code" : "301",
@@ -5488,7 +5488,7 @@
       "status" : "self/none"
    },
    "sparbankenlidkoping.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "www.sparbankenlidkoping.se" : {
@@ -5502,7 +5502,7 @@
       }
    },
    "kalmar.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.kalmar.se" : {
             "location" : null,
@@ -5527,7 +5527,7 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "sadev.se" : {
       "hosts" : {
@@ -5541,7 +5541,7 @@
          }
       },
       "status" : "http/http",
-      "https" : 0
+      "force_https" : 0
    },
    "vilhelmina.se" : {
       "hosts" : {
@@ -5555,7 +5555,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "sundsvall.se" : {
       "hosts" : {
@@ -5569,10 +5569,10 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "kungsbacka.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.kungsbacka.se" : {
             "code" : "200",
@@ -5586,7 +5586,7 @@
       "status" : "none/none"
    },
    "hoganas.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "www.hoganas.se" : {
@@ -5611,10 +5611,10 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "domarnamnden.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "http/http",
       "hosts" : {
          "www.domarnamnden.se" : {
@@ -5628,7 +5628,7 @@
       }
    },
    "innovationsbron.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "innovationsbron.se" : {
@@ -5642,7 +5642,7 @@
       }
    },
    "sjv.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "http/http",
       "hosts" : {
          "sjv.se" : {
@@ -5667,10 +5667,10 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "lul.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.lul.se" : {
             "location" : null,
@@ -5684,7 +5684,7 @@
       "status" : "self/none"
    },
    "vimmerby.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "www.vimmerby.se" : {
@@ -5709,7 +5709,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "osby.se" : {
       "hosts" : {
@@ -5723,7 +5723,7 @@
          }
       },
       "status" : "fail/none",
-      "https" : 0
+      "force_https" : 0
    },
    "swedavia.se" : {
       "status" : "self/none",
@@ -5737,10 +5737,10 @@
             "code" : "301"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "apl.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.apl.se" : {
             "code" : "302",
@@ -5754,7 +5754,7 @@
       "status" : "self/self"
    },
    "csn.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.csn.se" : {
             "location" : null,
@@ -5768,7 +5768,7 @@
       "status" : "self/none"
    },
    "venantius.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "www.venantius.se" : {
@@ -5782,7 +5782,7 @@
       }
    },
    "lst.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "lst.se" : {
             "code" : "301",
@@ -5796,7 +5796,7 @@
       "status" : "http/http"
    },
    "radioochtv.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.radioochtv.se" : {
             "location" : null,
@@ -5810,7 +5810,7 @@
       "status" : "none/none"
    },
    "nll.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.nll.se" : {
             "code" : "200",
@@ -5824,7 +5824,7 @@
       "status" : "none/none"
    },
    "smedjebacken.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.smedjebacken.se" : {
             "code" : "200",
@@ -5838,7 +5838,7 @@
       "status" : "fail/none"
    },
    "pajala.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "pajala.se" : {
@@ -5852,7 +5852,7 @@
       }
    },
    "mala.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "mala.se" : {
@@ -5877,7 +5877,7 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "alvsbyn.se" : {
       "hosts" : {
@@ -5891,10 +5891,10 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "dgc.se" : {
-      "https" : 1,
+      "force_https" : 1,
       "hosts" : {
          "dgc.se" : {
             "code" : "301",
@@ -5908,7 +5908,7 @@
       "status" : "https/https"
    },
    "svevia.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "svevia.se" : {
             "location" : "http://www.svevia.se/",
@@ -5922,7 +5922,7 @@
       "status" : "self/none"
    },
    "sakerhetspolisen.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.sakerhetspolisen.se" : {
             "location" : null,
@@ -5947,7 +5947,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "kalix.se" : {
       "hosts" : {
@@ -5961,10 +5961,10 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "teracom.se" : {
-      "https" : 1,
+      "force_https" : 1,
       "hosts" : {
          "www.teracom.se" : {
             "code" : "302",
@@ -5989,10 +5989,10 @@
             "code" : "301"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "sieps.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/self",
       "hosts" : {
          "www.sieps.se" : {
@@ -6017,10 +6017,10 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "esf.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.esf.se" : {
             "code" : "200",
@@ -6045,10 +6045,10 @@
          }
       },
       "status" : "fail/none",
-      "https" : 0
+      "force_https" : 0
    },
    "metro.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.metro.se" : {
             "code" : "200",
@@ -6073,10 +6073,10 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "visitsweden.com" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/self",
       "hosts" : {
          "visitsweden.com" : {
@@ -6101,10 +6101,10 @@
             "code" : "301"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "tomelilla.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "www.tomelilla.se" : {
@@ -6118,7 +6118,7 @@
       }
    },
    "advenica.com" : {
-      "https" : 1,
+      "force_https" : 1,
       "status" : "https/https",
       "hosts" : {
          "www.advenica.com" : {
@@ -6143,10 +6143,10 @@
          }
       },
       "status" : "http/http",
-      "https" : 0
+      "force_https" : 0
    },
    "bredbandsbolaget.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "www.bredbandsbolaget.se" : {
@@ -6160,7 +6160,7 @@
       }
    },
    "nykoping.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/self",
       "hosts" : {
          "www.nykoping.se" : {
@@ -6185,7 +6185,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "gemoneybank.se" : {
       "hosts" : {
@@ -6199,7 +6199,7 @@
          }
       },
       "status" : "http/http",
-      "https" : 0
+      "force_https" : 0
    },
    "polisen.se" : {
       "status" : "https/https",
@@ -6213,10 +6213,10 @@
             "code" : "302"
          }
       },
-      "https" : 1
+      "force_https" : 1
    },
    "nassjo.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "nassjo.se" : {
@@ -6241,10 +6241,10 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "havkom.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "havkom.se" : {
             "location" : null,
@@ -6258,7 +6258,7 @@
       "status" : "none/none"
    },
    "aktsam.se" : {
-      "https" : 1,
+      "force_https" : 1,
       "hosts" : {
          "aktsam.se" : {
             "code" : "301",
@@ -6283,10 +6283,10 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "resurs.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "http/http",
       "hosts" : {
          "resurs.se" : {
@@ -6300,7 +6300,7 @@
       }
    },
    "posten.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "http/http",
       "hosts" : {
          "posten.se" : {
@@ -6314,7 +6314,7 @@
       }
    },
    "jk.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.jk.se" : {
             "location" : null,
@@ -6328,7 +6328,7 @@
       "status" : "none/none"
    },
    "sva.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "www.sva.se" : {
@@ -6342,7 +6342,7 @@
       }
    },
    "lomma.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "www.lomma.se" : {
@@ -6367,7 +6367,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "are.se" : {
       "hosts" : {
@@ -6381,7 +6381,7 @@
          }
       },
       "status" : "none/self",
-      "https" : 0
+      "force_https" : 0
    },
    "pts.se" : {
       "hosts" : {
@@ -6395,7 +6395,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "kustbevakningen.se" : {
       "status" : "none/none",
@@ -6409,7 +6409,7 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "lakemedelsverket.se" : {
       "status" : "https/https",
@@ -6423,7 +6423,7 @@
             "location" : "https://lakemedelsverket.se/"
          }
       },
-      "https" : 1
+      "force_https" : 1
    },
    "motala.se" : {
       "hosts" : {
@@ -6437,7 +6437,7 @@
          }
       },
       "status" : "http/http",
-      "https" : 0
+      "force_https" : 0
    },
    "ifau.se" : {
       "hosts" : {
@@ -6451,7 +6451,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "haninge.se" : {
       "status" : "none/none",
@@ -6465,7 +6465,7 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "domstol.se" : {
       "hosts" : {
@@ -6479,10 +6479,10 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "investsweden.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "http/http",
       "hosts" : {
          "investsweden.se" : {
@@ -6507,7 +6507,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "tv8.se" : {
       "status" : "self/none",
@@ -6521,7 +6521,7 @@
             "code" : "301"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "vannas.se" : {
       "hosts" : {
@@ -6535,7 +6535,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "tlv.se" : {
       "status" : "self/none",
@@ -6549,10 +6549,10 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "vgregion.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "vgregion.se" : {
             "code" : "301",
@@ -6577,7 +6577,7 @@
             "code" : "302"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "sida.se" : {
       "hosts" : {
@@ -6591,7 +6591,7 @@
          }
       },
       "status" : "self/unknown",
-      "https" : 0
+      "force_https" : 0
    },
    "ostersund.se" : {
       "status" : "none/none",
@@ -6605,10 +6605,10 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "sbab.se" : {
-      "https" : 1,
+      "force_https" : 1,
       "hosts" : {
          "www.sbab.se" : {
             "location" : "https://www.sbab.se/",
@@ -6633,10 +6633,10 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "akelius.se" : {
-      "https" : 1,
+      "force_https" : 1,
       "status" : "https/https",
       "hosts" : {
          "akelius.se" : {
@@ -6650,7 +6650,7 @@
       }
    },
    "huddinge.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.huddinge.se" : {
             "location" : null,
@@ -6664,7 +6664,7 @@
       "status" : "none/none"
    },
    "rymdstyrelsen.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "www.rymdstyrelsen.se" : {
@@ -6689,7 +6689,7 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "borlange.se" : {
       "hosts" : {
@@ -6703,10 +6703,10 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "alvesta.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "alvesta.se" : {
             "location" : "http://www.alvesta.se/",
@@ -6731,10 +6731,10 @@
          }
       },
       "status" : "none/self",
-      "https" : 0
+      "force_https" : 0
    },
    "nationalmuseum.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "www.nationalmuseum.se" : {
@@ -6748,7 +6748,7 @@
       }
    },
    "bjurholm.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "bjurholm.se" : {
@@ -6773,7 +6773,7 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "ap4.se" : {
       "status" : "none/none",
@@ -6787,7 +6787,7 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "hallsberg.se" : {
       "hosts" : {
@@ -6801,7 +6801,7 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "operan.se" : {
       "status" : "self/none",
@@ -6815,7 +6815,7 @@
             "location" : "http://www.operan.se/"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "han.se" : {
       "hosts" : {
@@ -6829,7 +6829,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "mark.se" : {
       "status" : "none/none",
@@ -6843,7 +6843,7 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "lannebofonder.se" : {
       "hosts" : {
@@ -6857,10 +6857,10 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "osthammar.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "osthammar.se" : {
             "code" : "200",
@@ -6885,7 +6885,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "regeringskansliet.se" : {
       "status" : "fail/none",
@@ -6899,10 +6899,10 @@
             "code" : 500
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "osteraker.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.osteraker.se" : {
             "location" : null,
@@ -6927,7 +6927,7 @@
             "code" : "301"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "inlandsinnovation.se" : {
       "hosts" : {
@@ -6941,7 +6941,7 @@
          }
       },
       "status" : "none/self",
-      "https" : 0
+      "force_https" : 0
    },
    "skovde.se" : {
       "status" : "none/none",
@@ -6955,7 +6955,7 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "arvika.se" : {
       "hosts" : {
@@ -6969,7 +6969,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "koping.se" : {
       "status" : "none/none",
@@ -6983,7 +6983,7 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "abanan.se" : {
       "status" : "http/http",
@@ -6997,10 +6997,10 @@
             "code" : "302"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "jo.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "www.jo.se" : {
@@ -7025,10 +7025,10 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "vargarda.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "fail/none",
       "hosts" : {
          "www.vargarda.se" : {
@@ -7053,10 +7053,10 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "tt.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "tt.se" : {
             "code" : "200",
@@ -7070,7 +7070,7 @@
       "status" : "none/self"
    },
    "vti.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "www.vti.se" : {
@@ -7084,7 +7084,7 @@
       }
    },
    "migrationsverket.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/self",
       "hosts" : {
          "migrationsverket.se" : {
@@ -7098,7 +7098,7 @@
       }
    },
    "socialstyrelsen.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.socialstyrelsen.se" : {
             "code" : "200",
@@ -7112,7 +7112,7 @@
       "status" : "self/none"
    },
    "ki.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/self",
       "hosts" : {
          "www.ki.se" : {
@@ -7126,7 +7126,7 @@
       }
    },
    "isa.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "http/http",
       "hosts" : {
          "isa.se" : {
@@ -7151,10 +7151,10 @@
             "location" : "http://www.lantmateriet.se/"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "jokkmokk.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.jokkmokk.se" : {
             "location" : null,
@@ -7168,7 +7168,7 @@
       "status" : "none/none"
    },
    "gjensidige.se" : {
-      "https" : 1,
+      "force_https" : 1,
       "status" : "https/https",
       "hosts" : {
          "www.gjensidige.se" : {
@@ -7182,7 +7182,7 @@
       }
    },
    "orebroll.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "http/http",
       "hosts" : {
          "orebroll.se" : {
@@ -7196,7 +7196,7 @@
       }
    },
    "landskrona.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.landskrona.se" : {
             "code" : "200",
@@ -7210,7 +7210,7 @@
       "status" : "self/none"
    },
    "nacka.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/self",
       "hosts" : {
          "nacka.se" : {
@@ -7235,10 +7235,10 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "okq8.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "okq8.se" : {
@@ -7263,7 +7263,7 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "sentor.se" : {
       "status" : "self/none",
@@ -7277,7 +7277,7 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "gotene.se" : {
       "hosts" : {
@@ -7291,7 +7291,7 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "kmh.se" : {
       "status" : "self/none",
@@ -7305,10 +7305,10 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "munkedal.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "munkedal.se" : {
             "code" : "200",
@@ -7322,7 +7322,7 @@
       "status" : "none/none"
    },
    "dorotea.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "dorotea.se" : {
             "code" : "200",
@@ -7347,7 +7347,7 @@
             "location" : "http://www.skogsstyrelsen.se/"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "imego.com" : {
       "status" : "none/none",
@@ -7361,7 +7361,7 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "hogsby.se" : {
       "hosts" : {
@@ -7375,10 +7375,10 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "sparbankengoinge.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "sparbankengoinge.se" : {
@@ -7403,10 +7403,10 @@
          }
       },
       "status" : "none/self",
-      "https" : 0
+      "force_https" : 0
    },
    "degerfors.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.degerfors.se" : {
             "location" : null,
@@ -7420,7 +7420,7 @@
       "status" : "none/none"
    },
    "cybercom.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "http/http",
       "hosts" : {
          "www.cybercom.se" : {
@@ -7445,7 +7445,7 @@
             "location" : "http://www.erv.se/"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "raa.se" : {
       "status" : "self/none",
@@ -7459,10 +7459,10 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "swedbanksjuharad.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "www.swedbanksjuharad.se" : {
@@ -7476,7 +7476,7 @@
       }
    },
    "statensansvarsnamnd.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "www.statensansvarsnamnd.se" : {
@@ -7501,7 +7501,7 @@
             "code" : "301"
          }
       },
-      "https" : 1
+      "force_https" : 1
    },
    "fouriertransform.se" : {
       "hosts" : {
@@ -7515,7 +7515,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "svenskaspel.se" : {
       "hosts" : {
@@ -7529,10 +7529,10 @@
          }
       },
       "status" : "https/https",
-      "https" : 1
+      "force_https" : 1
    },
    "kb.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "www.kb.se" : {
@@ -7546,7 +7546,7 @@
       }
    },
    "umea.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "umea.se" : {
@@ -7560,7 +7560,7 @@
       }
    },
    "livsmedelsverket.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "www.livsmedelsverket.se" : {
@@ -7585,7 +7585,7 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "handisam.se" : {
       "status" : "http/http",
@@ -7599,10 +7599,10 @@
             "code" : "301"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "bromolla.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "www.bromolla.se" : {
@@ -7627,10 +7627,10 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "teaterhogskolan.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.teaterhogskolan.se" : {
             "code" : "200",
@@ -7655,10 +7655,10 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "mjolby.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "mjolby.se" : {
             "code" : "200",
@@ -7683,10 +7683,10 @@
          }
       },
       "status" : "self/self",
-      "https" : 0
+      "force_https" : 0
    },
    "foi.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.foi.se" : {
             "location" : null,
@@ -7711,10 +7711,10 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "bolagsverket.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.bolagsverket.se" : {
             "code" : "200",
@@ -7739,10 +7739,10 @@
             "location" : "http://www.sparbankenskane.se/"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "orkelljunga.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "orkelljunga.se" : {
@@ -7767,10 +7767,10 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "medlingsinstitutet.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "http/http",
       "hosts" : {
          "medlingsinstitutet.se" : {
@@ -7784,7 +7784,7 @@
       }
    },
    "ica.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "ica.se" : {
@@ -7809,7 +7809,7 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "apoteket.se" : {
       "hosts" : {
@@ -7823,10 +7823,10 @@
          }
       },
       "status" : "https/https",
-      "https" : 1
+      "force_https" : 1
    },
    "botniabanan.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.botniabanan.se" : {
             "location" : "http://www.trafikverket.se/",
@@ -7851,7 +7851,7 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "hkr.se" : {
       "status" : "self/none",
@@ -7865,7 +7865,7 @@
             "location" : "http://www.hkr.se/sv/"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "eslov.se" : {
       "status" : "fail/none",
@@ -7879,10 +7879,10 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "hedemora.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "hedemora.se" : {
@@ -7896,7 +7896,7 @@
       }
    },
    "sbu.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.sbu.se" : {
             "location" : "/sv/",
@@ -7910,7 +7910,7 @@
       "status" : "unknown/unknown"
    },
    "konj.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "konj.se" : {
             "location" : null,
@@ -7924,7 +7924,7 @@
       "status" : "none/none"
    },
    "timra.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.timra.se" : {
             "code" : "200",
@@ -7949,7 +7949,7 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "vectura.se" : {
       "status" : "http/http",
@@ -7963,7 +7963,7 @@
             "code" : "301"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "habokommun.se" : {
       "hosts" : {
@@ -7977,10 +7977,10 @@
          }
       },
       "status" : "fail/unknown",
-      "https" : 0
+      "force_https" : 0
    },
    "tibro.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.tibro.se" : {
             "code" : "200",
@@ -7994,7 +7994,7 @@
       "status" : "none/none"
    },
    "comhem.se" : {
-      "https" : 1,
+      "force_https" : 1,
       "status" : "https/https",
       "hosts" : {
          "comhem.se" : {
@@ -8008,7 +8008,7 @@
       }
    },
    "fi.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "www.fi.se" : {
@@ -8033,7 +8033,7 @@
             "code" : "301"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "nora.se" : {
       "hosts" : {
@@ -8047,10 +8047,10 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "slv.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "slv.se" : {
             "code" : "301",
@@ -8064,7 +8064,7 @@
       "status" : "http/http"
    },
    "kanal5.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.kanal5.se" : {
             "code" : "307",
@@ -8089,10 +8089,10 @@
             "location" : "https://www.ownit.se/"
          }
       },
-      "https" : 1
+      "force_https" : 1
    },
    "miun.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "www.miun.se" : {
@@ -8106,7 +8106,7 @@
       }
    },
    "ri.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "ri.se" : {
             "code" : "301",
@@ -8131,10 +8131,10 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "bjuv.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "http/http",
       "hosts" : {
          "bjuv.se" : {
@@ -8148,7 +8148,7 @@
       }
    },
    "karlshamn.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "karlshamn.se" : {
@@ -8173,7 +8173,7 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "ltkronoberg.se" : {
       "hosts" : {
@@ -8187,10 +8187,10 @@
          }
       },
       "status" : "none/http",
-      "https" : 0
+      "force_https" : 0
    },
    "sparbankeneken.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "sparbankeneken.se" : {
             "code" : "301",
@@ -8215,7 +8215,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "swedesurvey.se" : {
       "status" : "self/none",
@@ -8229,7 +8229,7 @@
             "code" : "301"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "konstnarsnamnden.se" : {
       "status" : "fail/none",
@@ -8243,7 +8243,7 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "hig.se" : {
       "status" : "none/none",
@@ -8257,10 +8257,10 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "penserfonder.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.penserfonder.se" : {
             "location" : "http://penserfonder.se/",
@@ -8285,7 +8285,7 @@
          }
       },
       "status" : "fail/unknown",
-      "https" : 0
+      "force_https" : 0
    },
    "ap1.se" : {
       "hosts" : {
@@ -8299,10 +8299,10 @@
          }
       },
       "status" : "unknown/unknown",
-      "https" : 0
+      "force_https" : 0
    },
    "konsumentverket.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "konsumentverket.se" : {
@@ -8327,7 +8327,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "marinmuseum.se" : {
       "status" : "self/none",
@@ -8341,7 +8341,7 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "sjofartsverket.se" : {
       "hosts" : {
@@ -8355,10 +8355,10 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "swedac.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "www.swedac.se" : {
@@ -8372,7 +8372,7 @@
       }
    },
    "varmdo.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.varmdo.se" : {
             "location" : null,
@@ -8397,10 +8397,10 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "sotenas.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "sotenas.se" : {
@@ -8425,10 +8425,10 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "boras.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "boras.se" : {
@@ -8442,7 +8442,7 @@
       }
    },
    "leksand.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.leksand.se" : {
             "location" : null,
@@ -8467,10 +8467,10 @@
             "code" : 500
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "energimyndigheten.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "energimyndigheten.se" : {
@@ -8495,7 +8495,7 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "kulturanalys.se" : {
       "hosts" : {
@@ -8509,10 +8509,10 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "fas.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/http",
       "hosts" : {
          "fas.se" : {
@@ -8537,7 +8537,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "vr.se" : {
       "hosts" : {
@@ -8551,7 +8551,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "trafikverket.se" : {
       "hosts" : {
@@ -8565,7 +8565,7 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "bra.se" : {
       "status" : "none/none",
@@ -8579,10 +8579,10 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "astorp.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "astorp.se" : {
@@ -8596,7 +8596,7 @@
       }
    },
    "hofors.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "hofors.se" : {
             "code" : "200",
@@ -8621,10 +8621,10 @@
          }
       },
       "status" : "http/http",
-      "https" : 0
+      "force_https" : 0
    },
    "hd.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "hd.se" : {
@@ -8638,7 +8638,7 @@
       }
    },
    "forskarskattenamnden.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/self",
       "hosts" : {
          "forskarskattenamnden.se" : {
@@ -8652,7 +8652,7 @@
       }
    },
    "expressen.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "expressen.se" : {
@@ -8677,7 +8677,7 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "kanal5play.se" : {
       "status" : "self/none",
@@ -8691,10 +8691,10 @@
             "code" : "301"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "corren.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.corren.se" : {
             "location" : "/nyheter/",
@@ -8719,7 +8719,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "norberg.se" : {
       "hosts" : {
@@ -8733,7 +8733,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "varnamo.se" : {
       "status" : "none/none",
@@ -8747,7 +8747,7 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "ltkalmar.se" : {
       "status" : "none/none",
@@ -8761,7 +8761,7 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "sectra.com" : {
       "hosts" : {
@@ -8775,10 +8775,10 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "yhmyndigheten.se" : {
-      "https" : 1,
+      "force_https" : 1,
       "status" : "https/fail",
       "hosts" : {
          "yhmyndigheten.se" : {
@@ -8792,7 +8792,7 @@
       }
    },
    "essunga.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "fail/none",
       "hosts" : {
          "essunga.se" : {
@@ -8806,7 +8806,7 @@
       }
    },
    "ockelbo.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "ockelbo.se" : {
             "code" : "200",
@@ -8820,7 +8820,7 @@
       "status" : "none/none"
    },
    "odeshog.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "odeshog.se" : {
@@ -8845,7 +8845,7 @@
             "code" : "302"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "ange.se" : {
       "status" : "self/none",
@@ -8859,10 +8859,10 @@
             "code" : "301"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "svd.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "svd.se" : {
@@ -8876,7 +8876,7 @@
       }
    },
    "handelsbanken.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "handelsbanken.se" : {
@@ -8890,7 +8890,7 @@
       }
    },
    "statensmedierad.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "statensmedierad.se" : {
             "location" : "http://www.statensmedierad.se/",
@@ -8904,7 +8904,7 @@
       "status" : "self/none"
    },
    "dfri.se" : {
-      "https" : 1,
+      "force_https" : 1,
       "status" : "https/https",
       "hosts" : {
          "dfri.se" : {
@@ -8929,7 +8929,7 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "mi.se" : {
       "status" : "self/none",
@@ -8943,7 +8943,7 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "kvv.se" : {
       "hosts" : {
@@ -8957,7 +8957,7 @@
          }
       },
       "status" : "http/http",
-      "https" : 0
+      "force_https" : 0
    },
    "sjohistoriska.se" : {
       "hosts" : {
@@ -8971,7 +8971,7 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "finspong.se" : {
       "hosts" : {
@@ -8985,7 +8985,7 @@
          }
       },
       "status" : "self/http",
-      "https" : 0
+      "force_https" : 0
    },
    "t3.se" : {
       "status" : "self/unknown",
@@ -8999,7 +8999,7 @@
             "code" : "301"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "bollebygd.se" : {
       "status" : "none/none",
@@ -9013,10 +9013,10 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "alecta.se" : {
-      "https" : 1,
+      "force_https" : 1,
       "hosts" : {
          "www.alecta.se" : {
             "location" : "https://www.alecta.se/",
@@ -9041,7 +9041,7 @@
          }
       },
       "status" : "unknown/unknown",
-      "https" : 0
+      "force_https" : 0
    },
    "uppsala.se" : {
       "hosts" : {
@@ -9055,10 +9055,10 @@
          }
       },
       "status" : "https/https",
-      "https" : 1
+      "force_https" : 1
    },
    "statenskonstrad.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "statenskonstrad.se" : {
@@ -9072,7 +9072,7 @@
       }
    },
    "statensbiografbyra.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "http/http",
       "hosts" : {
          "statensbiografbyra.se" : {
@@ -9086,7 +9086,7 @@
       }
    },
    "enterfonder.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/self",
       "hosts" : {
          "www.enterfonder.se" : {
@@ -9111,10 +9111,10 @@
          }
       },
       "status" : "https/https",
-      "https" : 1
+      "force_https" : 1
    },
    "ale.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "ale.se" : {
             "location" : null,
@@ -9139,7 +9139,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "hovrattenfornedrenorrland.se" : {
       "status" : "fail/none",
@@ -9153,10 +9153,10 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "skandiabanken.se" : {
-      "https" : 1,
+      "force_https" : 1,
       "hosts" : {
          "skandiabanken.se" : {
             "location" : "https://www.skandiabanken.se/",
@@ -9170,7 +9170,7 @@
       "status" : "https/https"
    },
    "sst.a.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "fail/none",
       "hosts" : {
          "sst.a.se" : {
@@ -9195,7 +9195,7 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "gnesta.se" : {
       "status" : "self/none",
@@ -9209,10 +9209,10 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "sorsele.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "www.sorsele.se" : {
@@ -9226,7 +9226,7 @@
       }
    },
    "programkontoret.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "programkontoret.se" : {
             "location" : null,
@@ -9240,7 +9240,7 @@
       "status" : "none/none"
    },
    "vaggeryd.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "www.vaggeryd.se" : {
@@ -9254,7 +9254,7 @@
       }
    },
    "sh.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "sh.se" : {
             "location" : "http://www.sh.se/",
@@ -9279,10 +9279,10 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "forshaga.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "www.forshaga.se" : {
@@ -9296,7 +9296,7 @@
       }
    },
    "swedbank.se" : {
-      "https" : 1,
+      "force_https" : 1,
       "status" : "https/https",
       "hosts" : {
          "www.swedbank.se" : {
@@ -9321,7 +9321,7 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "storedsafe.com" : {
       "hosts" : {
@@ -9335,10 +9335,10 @@
          }
       },
       "status" : "https/https",
-      "https" : 1
+      "force_https" : 1
    },
    "storuman.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "storuman.se" : {
             "location" : null,
@@ -9352,7 +9352,7 @@
       "status" : "fail/none"
    },
    "vinnova.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.vinnova.se" : {
             "location" : "/sv/",
@@ -9377,10 +9377,10 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "kramfors.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "kramfors.se" : {
@@ -9394,7 +9394,7 @@
       }
    },
    "swerea.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "www.swerea.se" : {
@@ -9419,10 +9419,10 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "kronofogden.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "kronofogden.se" : {
@@ -9436,7 +9436,7 @@
       }
    },
    "marginalen.se" : {
-      "https" : 1,
+      "force_https" : 1,
       "hosts" : {
          "marginalen.se" : {
             "code" : "301",
@@ -9450,7 +9450,7 @@
       "status" : "self/https"
    },
    "lycksele.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "fail/none",
       "hosts" : {
          "lycksele.se" : {
@@ -9475,10 +9475,10 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "sjuan.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "sjuan.se" : {
             "location" : "http://www.sjuan.se/",
@@ -9492,7 +9492,7 @@
       "status" : "self/none"
    },
    "kavlinge.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "kavlinge.se" : {
@@ -9506,7 +9506,7 @@
       }
    },
    "sandviken.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/self",
       "hosts" : {
          "www.sandviken.se" : {
@@ -9520,7 +9520,7 @@
       }
    },
    "bracke.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "www.bracke.se" : {
@@ -9534,7 +9534,7 @@
       }
    },
    "su.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "www.su.se" : {
@@ -9548,7 +9548,7 @@
       }
    },
    "tdc.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.tdc.se" : {
             "location" : "http://tdc.se/",
@@ -9573,7 +9573,7 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "skeppshypotek.se" : {
       "hosts" : {
@@ -9587,7 +9587,7 @@
          }
       },
       "status" : "fail/http",
-      "https" : 0
+      "force_https" : 0
    },
    "stralsakerhetsmyndigheten.se" : {
       "status" : "self/unknown",
@@ -9601,10 +9601,10 @@
             "location" : "http://www.stralsakerhetsmyndigheten.se"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "sek.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "sek.se" : {
             "location" : "http://www.sek.se/",
@@ -9629,10 +9629,10 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "stockholm.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "stockholm.se" : {
             "location" : "http://www.stockholm.se/",
@@ -9657,7 +9657,7 @@
          }
       },
       "status" : "https/https",
-      "https" : 1
+      "force_https" : 1
    },
    "skane.se" : {
       "hosts" : {
@@ -9671,7 +9671,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "kumla.se" : {
       "status" : "none/none",
@@ -9685,10 +9685,10 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "mil.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "http/http",
       "hosts" : {
          "mil.se" : {
@@ -9702,7 +9702,7 @@
       }
    },
    "lm.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "lm.se" : {
             "code" : "302",
@@ -9727,10 +9727,10 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "kulturradet.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.kulturradet.se" : {
             "location" : null,
@@ -9744,7 +9744,7 @@
       "status" : "none/none"
    },
    "skurup.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "skurup.se" : {
             "code" : "200",
@@ -9758,7 +9758,7 @@
       "status" : "none/none"
    },
    "mariestad.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "mariestad.se" : {
             "location" : null,
@@ -9783,7 +9783,7 @@
             "location" : "http://www.netnod.se/"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "regionhalland.se" : {
       "status" : "none/none",
@@ -9797,7 +9797,7 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "svedala.se" : {
       "status" : "none/none",
@@ -9811,10 +9811,10 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "jarfalla.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "jarfalla.se" : {
             "code" : "301",
@@ -9828,7 +9828,7 @@
       "status" : "self/none"
    },
    "vetlanda.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "vetlanda.se" : {
             "code" : "200",
@@ -9842,7 +9842,7 @@
       "status" : "none/self"
    },
    "cert.se" : {
-      "https" : 1,
+      "force_https" : 1,
       "status" : "https/https",
       "hosts" : {
          "cert.se" : {
@@ -9856,7 +9856,7 @@
       }
    },
    "vindeln.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.vindeln.se" : {
             "code" : "200",
@@ -9870,7 +9870,7 @@
       "status" : "none/none"
    },
    "sunne.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/self",
       "hosts" : {
          "sunne.se" : {
@@ -9895,10 +9895,10 @@
             "code" : "301"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "nynashamn.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "nynashamn.se" : {
@@ -9923,7 +9923,7 @@
          }
       },
       "status" : "http/http",
-      "https" : 0
+      "force_https" : 0
    },
    "kpa.se" : {
       "status" : "unknown/unknown",
@@ -9937,10 +9937,10 @@
             "code" : "302"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "liu.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.liu.se" : {
             "code" : "302",
@@ -9954,7 +9954,7 @@
       "status" : "self/self"
    },
    "fhs.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "www.fhs.se" : {
@@ -9968,7 +9968,7 @@
       }
    },
    "ragunda.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "ragunda.se" : {
             "code" : "301",
@@ -9993,10 +9993,10 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "herjedalen.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "www.herjedalen.se" : {
@@ -10010,7 +10010,7 @@
       }
    },
    "telia.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "telia.se" : {
             "code" : "302",
@@ -10024,7 +10024,7 @@
       "status" : "self/self"
    },
    "cbfonder.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "cbfonder.se" : {
             "code" : "301",
@@ -10038,7 +10038,7 @@
       "status" : "self/none"
    },
    "dn.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "dn.se" : {
             "code" : "301",
@@ -10063,7 +10063,7 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "apoteksgruppen.se" : {
       "hosts" : {
@@ -10077,7 +10077,7 @@
          }
       },
       "status" : "https/https",
-      "https" : 1
+      "force_https" : 1
    },
    "gu.se" : {
       "status" : "self/none",
@@ -10091,7 +10091,7 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "statensmusikverk.se" : {
       "hosts" : {
@@ -10105,10 +10105,10 @@
          }
       },
       "status" : "http/http",
-      "https" : 0
+      "force_https" : 0
    },
    "eastcapital.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "eastcapital.se" : {
             "code" : "200",
@@ -10122,7 +10122,7 @@
       "status" : "none/http"
    },
    "vimmerbysparbank.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "vimmerbysparbank.se" : {
@@ -10147,7 +10147,7 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "uu.se" : {
       "status" : "none/none",
@@ -10161,10 +10161,10 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "ap3.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.ap3.se" : {
             "location" : "http://www.ap3.se/Sidor/Default.aspx",
@@ -10189,7 +10189,7 @@
          }
       },
       "status" : "self/https",
-      "https" : 1
+      "force_https" : 1
    },
    "svea.se" : {
       "hosts" : {
@@ -10203,7 +10203,7 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "his.se" : {
       "status" : "none/none",
@@ -10217,7 +10217,7 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "hj.se" : {
       "hosts" : {
@@ -10231,7 +10231,7 @@
          }
       },
       "status" : "none/self",
-      "https" : 0
+      "force_https" : 0
    },
    "truesec.se" : {
       "hosts" : {
@@ -10245,10 +10245,10 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "gnosjo.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.gnosjo.se" : {
             "location" : null,
@@ -10273,7 +10273,7 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "medelhavsmuseet.se" : {
       "hosts" : {
@@ -10287,7 +10287,7 @@
          }
       },
       "status" : "fail/http",
-      "https" : 0
+      "force_https" : 0
    },
    "knowit.se" : {
       "hosts" : {
@@ -10301,7 +10301,7 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "ssc.se" : {
       "status" : "http/http",
@@ -10315,7 +10315,7 @@
             "location" : "http://www.sscspace.com"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "ekero.se" : {
       "hosts" : {
@@ -10329,10 +10329,10 @@
          }
       },
       "status" : "none/none",
-      "https" : 0
+      "force_https" : 0
    },
    "spiltan.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "spiltan.se" : {
             "code" : "200",
@@ -10346,7 +10346,7 @@
       "status" : "none/none"
    },
    "do.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "do.se" : {
             "code" : "301",
@@ -10371,10 +10371,10 @@
          }
       },
       "status" : "http/http",
-      "https" : 0
+      "force_https" : 0
    },
    "phonera.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "phonera.se" : {
@@ -10399,7 +10399,7 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "boxer.se" : {
       "hosts" : {
@@ -10413,7 +10413,7 @@
          }
       },
       "status" : "https/https",
-      "https" : 1
+      "force_https" : 1
    },
    "karnavfallsfonden.se" : {
       "hosts" : {
@@ -10427,7 +10427,7 @@
          }
       },
       "status" : "fail/none",
-      "https" : 0
+      "force_https" : 0
    },
    "folksam.se" : {
       "status" : "self/none",
@@ -10441,10 +10441,10 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "ltu.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "www.ltu.se" : {
@@ -10458,7 +10458,7 @@
       }
    },
    "asele.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "www.asele.se" : {
@@ -10483,10 +10483,10 @@
             "code" : "301"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "ungdomsstyrelsen.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "http/http",
       "hosts" : {
          "ungdomsstyrelsen.se" : {
@@ -10500,7 +10500,7 @@
       }
    },
    "fortv.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.fortv.se" : {
             "location" : null,
@@ -10514,7 +10514,7 @@
       "status" : "none/none"
    },
    "overkalix.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.overkalix.se" : {
             "location" : null,
@@ -10528,7 +10528,7 @@
       "status" : "self/none"
    },
    "mellerud.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "mellerud.se" : {
             "code" : "200",
@@ -10542,7 +10542,7 @@
       "status" : "none/none"
    },
    "sveaskog.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "www.sveaskog.se" : {
@@ -10556,7 +10556,7 @@
       }
    },
    "tjorn.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "tjorn.se" : {
             "code" : "200",
@@ -10570,7 +10570,7 @@
       "status" : "none/none"
    },
    "gellivare.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "www.gellivare.se" : {
@@ -10584,7 +10584,7 @@
       }
    },
    "lulea.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "lulea.se" : {
@@ -10598,7 +10598,7 @@
       }
    },
    "maritima.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "maritima.se" : {
             "location" : "http://www.maritima.se/",
@@ -10623,10 +10623,10 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "torsas.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "torsas.se" : {
@@ -10651,7 +10651,7 @@
          }
       },
       "status" : "https/https",
-      "https" : 1
+      "force_https" : 1
    },
    "bahnhof.se" : {
       "hosts" : {
@@ -10665,7 +10665,7 @@
          }
       },
       "status" : "self/https",
-      "https" : 1
+      "force_https" : 1
    },
    "askersund.se" : {
       "hosts" : {
@@ -10679,7 +10679,7 @@
          }
       },
       "status" : "fail/none",
-      "https" : 0
+      "force_https" : 0
    },
    "iaf.se" : {
       "status" : "none/none",
@@ -10693,7 +10693,7 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "unt.se" : {
       "hosts" : {
@@ -10707,7 +10707,7 @@
          }
       },
       "status" : "unknown/unknown",
-      "https" : 0
+      "force_https" : 0
    },
    "halmstad.se" : {
       "hosts" : {
@@ -10721,7 +10721,7 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "morbylanga.se" : {
       "status" : "self/none",
@@ -10735,10 +10735,10 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "carnegie.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "www.carnegie.se" : {
@@ -10752,7 +10752,7 @@
       }
    },
    "tanum.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "tanum.se" : {
             "code" : "200",
@@ -10766,7 +10766,7 @@
       "status" : "none/none"
    },
    "xact.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "self/none",
       "hosts" : {
          "www.xact.se" : {
@@ -10791,10 +10791,10 @@
          }
       },
       "status" : "none/self",
-      "https" : 0
+      "force_https" : 0
    },
    "kiruna.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.kiruna.se" : {
             "code" : "200",
@@ -10808,7 +10808,7 @@
       "status" : "none/none"
    },
    "lnu.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/self",
       "hosts" : {
          "www.lnu.se" : {
@@ -10833,7 +10833,7 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "tjustbanken.se" : {
       "hosts" : {
@@ -10847,7 +10847,7 @@
          }
       },
       "status" : "self/self",
-      "https" : 0
+      "force_https" : 0
    },
    "infranord.se" : {
       "status" : "self/none",
@@ -10861,10 +10861,10 @@
             "code" : "200"
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "ra.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "fail/none",
       "hosts" : {
          "ra.se" : {
@@ -10889,7 +10889,7 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "flen.se" : {
       "hosts" : {
@@ -10903,7 +10903,7 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "bostadsgaranti.se" : {
       "status" : "self/none",
@@ -10917,10 +10917,10 @@
             "location" : null
          }
       },
-      "https" : 0
+      "force_https" : 0
    },
    "penser.se" : {
-      "https" : 1,
+      "force_https" : 1,
       "status" : "fail/https",
       "hosts" : {
          "www.penser.se" : {
@@ -10934,7 +10934,7 @@
       }
    },
    "nrm.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "nrm.se" : {
             "location" : null,
@@ -10959,7 +10959,7 @@
          }
       },
       "status" : "self/self",
-      "https" : 0
+      "force_https" : 0
    },
    "riksbank.se" : {
       "hosts" : {
@@ -10973,7 +10973,7 @@
          }
       },
       "status" : "self/none",
-      "https" : 0
+      "force_https" : 0
    },
    "nfc.polisen.se" : {
       "hosts" : {
@@ -10987,10 +10987,10 @@
          }
       },
       "status" : "none/self",
-      "https" : 0
+      "force_https" : 0
    },
    "hylte.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "hosts" : {
          "www.hylte.se" : {
             "code" : "200",
@@ -11004,7 +11004,7 @@
       "status" : "none/none"
    },
    "hhs.se" : {
-      "https" : 1,
+      "force_https" : 1,
       "status" : "https/https",
       "hosts" : {
          "www.hhs.se" : {
@@ -11018,7 +11018,7 @@
       }
    },
    "esv.se" : {
-      "https" : 0,
+      "force_https" : 0,
       "status" : "none/none",
       "hosts" : {
          "esv.se" : {

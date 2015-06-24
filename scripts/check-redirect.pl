@@ -82,7 +82,7 @@ sub check_domain {
     my $status = "$state1/$state2";
 
     my $result = {
-        'https' => $https,
+        'force_https' => $https,
         'hosts' => {
             $d1 => { code => $ret1, location => $loc1 },
             $d2 => { code => $ret2, location => $loc2 }
