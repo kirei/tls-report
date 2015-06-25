@@ -1,6 +1,9 @@
 {
     "en": {
+        "Detaljhandel": "Retail",
         "Finans": "Finance",
+        "Fysisk s\u00e4kerhet": "Security Industry",
+        "F\u00f6rening": "Association",
         "ISP": "ISP",
         "IT": "IT",
         "Industri": "Industry",
@@ -9,6 +12,7 @@
         "Media": "Media",
         "Myndighet": "Government Agency",
         "Statligt bolag": "Public Company",
-        "Utbildning": "Education"
+        "Utbildning": "Education",
+        "Telekom": "Telecom"
     }
 }
