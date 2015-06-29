@@ -36,6 +36,7 @@ sub summarize_report {
     my $report   = shift;
     my $domains  = shift;
     my $redirect = shift;
+    my $dns      = shift;
 
     my @summary = ();
 
@@ -85,6 +86,10 @@ sub summarize_report {
             }
         }
 
+        if (defined $dns->{$domain}) {
+            $entry->{dns} = $dns->{$domain};
+        }
+
         push @summary, $entry;
     }
 
@@ -109,10 +114,12 @@ sub get_coherent {
 my $report_filename   = undef;
 my $domains_filename  = undef;
 my $redirect_filename = undef;
+my $dns_filename      = undef;
 
 GetOptions(
     "report=s"   => \$report_filename,
     "redirect=s" => \$redirect_filename,
+    "dns=s"      => \$dns_filename,
     "domains=s"  => \$domains_filename,
 ) or die "Error in command line arguments";
 
@@ -134,6 +141,14 @@ while (<REDIRECT>) {
 close(REDIRECT);
 my $redirect = decode_json($json);
 
+open(DNS, "<", $dns_filename) or die "Failed to open dns";
+$json = "";
+while (<DNS>) {
+    $json .= $_;
+}
+close(DNS);
+my $dns = decode_json($json);
+
 open(REPORT, "<", $report_filename) or die "Failed to open report";
 $json = "";
 while (<REPORT>) {
@@ -145,7 +160,7 @@ my $report = decode_json($json);
 my $date = $report_filename;
 $date =~ s/(.+\/)?(\d{4})(\d{2})(\d{2})-.+/$2-$3-$4/;
 
-my $summary = summarize_report($report, $domains, $redirect);
+my $summary = summarize_report($report, $domains, $redirect, $dns);
 
 print to_json({ date => $date, reports => $summary },
     { pretty => 1, utf8 => 1 });

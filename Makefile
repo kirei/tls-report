@@ -10,6 +10,7 @@ DOMAINS=	results/$(VERSION)-domains.json
 REPORT=		results/$(VERSION)-ssllabs.json
 LOGFILE=	results/$(VERSION)-ssllabs.log
 REDIRECT=	results/$(VERSION)-redirect.json
+DNS=		results/$(VERSION)-dns.json
 
 SCRIPT_SUMMARY=	scripts/summarize-ssllabs.pl
 SCRIPT_WEB=	scripts/create-web.pl
@@ -33,6 +34,8 @@ scan: $(REPORT)
 
 redirect: $(REDIRECT)
 
+dns: $(DNS)
+
 summary: $(SUMMARY)
 
 web: $(HTML_SV) $(HTML_EN)
@@ -48,6 +51,9 @@ webdist:
 $(REDIRECT): $(LIST)
 	perl scripts/check-redirect.pl $(LIST) > $@
 
+$(DNS): $(LIST)
+	perl scripts/check-dns.pl $(LIST) > $@
+
 $(REPORT): $(LIST)
 	ssllabs-scan \
 		--usecache=true --maxage=24 \
@@ -55,11 +61,12 @@ $(REPORT): $(LIST)
 		--verbosity=debug \
 		>$@ 2>$(LOGFILE)
 
-$(SUMMARY): $(DOMAINS) $(REDIRECT) $(REPORT) $(SCRIPT_SUMMARY)
+$(SUMMARY): $(DOMAINS) $(REDIRECT) $(DNS) $(REPORT) $(SCRIPT_SUMMARY)
 	perl scripts/summarize-ssllabs.pl \
 		--domains $(DOMAINS) \
 		--report $(REPORT) \
-		--redirect $(REDIRECT) > $@
+		--redirect $(REDIRECT) \
+		--dns $(DNS) > $@
 
 $(DOMAINS):
 	cp $(SOURCE) $@
