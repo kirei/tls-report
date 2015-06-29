@@ -2,6 +2,7 @@ VERSION=	$(shell cat $(VERSION_FILE))
 VERSION_FILE=	version.txt
 
 SOURCE=		data/domains.json
+DESTINATION=	webusaito.kirei.se:/d/www/www.kirei.se/tls
 
 LIST=		domains.txt
 SUMMARY=	summary.json
@@ -45,8 +46,7 @@ save:
 	git commit -m "update results" $(DOMAINS) $(REPORT) $(LOGFILE) $(REDIRECT) $(VERSION_FILE)
 
 webdist:
-	 rsync -av --delete --exclude .DS_Store \
-	 	web/ webusaito.kirei.se:/d/www/www.kirei.se/tls/
+	 rsync -av --delete --exclude .DS_Store web/ $(DESTINATION)/
 
 $(REDIRECT): $(LIST)
 	perl scripts/check-redirect.pl $(LIST) > $@
