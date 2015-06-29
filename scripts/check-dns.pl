@@ -39,8 +39,6 @@ $resolver->adflag(1);
 $resolver->usevc(1);
 $resolver->persistent_tcp(1);
 
-my $count = undef;
-
 sub check_dns {
     my $qname = shift;
 
@@ -90,8 +88,6 @@ while (<>) {
 
 foreach my $domain (@domains) {
     $dns->{$domain} = check_domain($domain);
-    $count--;
-    last if ($count == 0);
 }
 
 print to_json($dns, { pretty => 1 });

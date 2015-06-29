@@ -36,7 +36,6 @@ use Data::Dumper;
 use threads;
 use Thread::Queue;
 
-my $count        = undef;
 my $thread_limit = 1;
 my $user_agent   = "Chrome 41.0.2228.0";
 
@@ -108,7 +107,7 @@ sub check_domain {
 
     my $result = {
         'force_https' => $https,
-        'hosts' => {
+        'hosts'       => {
             $d1 => { code => $ret1, location => $loc1 },
             $d2 => { code => $ret2, location => $loc2 }
         },
@@ -132,8 +131,6 @@ if ($thread_limit == 1) {
 
     foreach my $domain (@domains) {
         $redirects->{$domain} = check_domain($domain);
-        $count--;
-        last if ($count == 0);
     }
 
 } else {
@@ -153,8 +150,6 @@ if ($thread_limit == 1) {
 
     foreach my $domain (@domains) {
         $queue->enqueue($domain);
-        $count--;
-        last if ($count == 0);
     }
 
     $queue->enqueue(undef) for 1 .. $thread_limit;
