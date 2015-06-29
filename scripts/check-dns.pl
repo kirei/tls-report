@@ -36,16 +36,17 @@ use Data::Dumper;
 my $resolver = new Net::DNS::Resolver;
 $resolver->dnssec(1);
 $resolver->adflag(1);
-$resolver->usevc(1);
+$resolver->usevc(0);
 $resolver->persistent_tcp(1);
+$resolver->persistent_udp(1);
 
 sub check_dns {
     my $qname = shift;
 
-    my $ipv4 = $resolver->query($qname, 'A');
-    my $ipv6 = $resolver->query($qname, 'AAAA');
+    my $ipv4 = query_qtype($qname, 'A');
+    my $ipv6 = query_qtype($qname, 'AAAA');
 
-    my $tlsa = $resolver->query("_443._tcp.$qname", 'TLSA');
+    my $tlsa = query_qtype("_443._tcp.$qname", 'TLSA');
 
     my $dnssec = ($ipv4 and $ipv4->header->ad) or ($ipv6 and $ipv6->header->ad);
 
@@ -55,6 +56,21 @@ sub check_dns {
         tlsa   => ($tlsa   ? 1 : 0),
         dnssec => ($dnssec ? 1 : 0),
     };
+}
+
+sub query_qtype {
+    my $qname = shift;
+    my $qtype = shift;
+
+    my $packet = $resolver->query($qname, $qtype);
+
+    if ($packet && $packet->answer) {
+        foreach my $rr ($packet->answer) {
+            return $packet if ($rr->type eq $qtype);
+        }
+    }
+
+    return undef;
 }
 
 sub check_domain {
