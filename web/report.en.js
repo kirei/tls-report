@@ -17,7 +17,23 @@ $.fn.dataTable.ext.type.order['grade-pre'] = function ( d ) {
 };
 
 $(document).ready(function() {
-	$('#report').DataTable({	
+	$('#report thead tr th#https_provided').each( function() {
+	    this.setAttribute( 'title', "Does the website provide HTTPS?");
+	});
+	$('#report thead tr th#https_required').each( function() {
+	    this.setAttribute( 'title', "Does the website require HTTPS?");
+	});
+	$('#report thead tr th#grade').each( function() {
+	    this.setAttribute( 'title', "Grade from Qualys SSL Labs");
+	});
+	$('#report thead tr th#dnssec').each( function() {
+	    this.setAttribute( 'title', "Does the domain use DNSSEC?");
+	});
+	$('#report thead tr th#tlsa').each( function() {
+	    this.setAttribute( 'title', "Are TLSA resource records (DANE) published for the website?");
+	});
+
+	var tlsTable = $('#report').DataTable({	
 		"pageLength": 25,
 		"columns": [
 			null,
@@ -29,5 +45,11 @@ $(document).ready(function() {
 			null,
 			null
 		]
+	});
+
+	reportTable.$('td').tooltip({
+		"delay": 0,
+		"track": true,
+		"fade": 100
 	});
 });

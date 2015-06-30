@@ -17,7 +17,23 @@ $.fn.dataTable.ext.type.order['grade-pre'] = function ( d ) {
 };
 
 $(document).ready(function() {
-	$('#report').DataTable({	
+	$('#report thead tr th#https_provided').each( function() {
+	    this.setAttribute( 'title', "Erbjuder webbplatsen HTTPS?");
+	});
+	$('#report thead tr th#https_required').each( function() {
+	    this.setAttribute( 'title', "Kräver webbplatsen HTTPS?");
+	});
+	$('#report thead tr th#grade').each( function() {
+	    this.setAttribute( 'title', "Betyg från Qualys SSL Labs");
+	});
+	$('#report thead tr th#dnssec').each( function() {
+	    this.setAttribute( 'title', "Använder domänen DNSSEC?");
+	});
+	$('#report thead tr th#tlsa').each( function() {
+	    this.setAttribute( 'title', "Finns TLSA-poster (DANE) publicerade för webbplatsen?");
+	});
+
+	var reportTable = $('#report').DataTable({	
 		"pageLength": 25,
 		"language": {
 			"url": "https://cdn.datatables.net/plug-ins/1.10.7/i18n/Swedish.json"
@@ -32,5 +48,11 @@ $(document).ready(function() {
 			null,
 			null
 		]
+	});
+
+	reportTable.$('td').tooltip({
+		"delay": 0,
+		"track": true,
+		"fade": 100
 	});
 });
