@@ -38,7 +38,7 @@ sub output_table {
 
     $language = "en" unless ($language);
 
-    binmode(STDOUT, ":utf8");
+    binmode(STDOUT, ":encoding(UTF-8)");
 
     foreach my $entry (@{$summary}) {
         my $grade         = $entry->{grade};
