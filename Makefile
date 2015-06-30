@@ -66,7 +66,8 @@ $(SUMMARY): $(DOMAINS) $(REDIRECT) $(DNS) $(REPORT) $(SCRIPT_SUMMARY)
 		--domains $(DOMAINS) \
 		--report $(REPORT) \
 		--redirect $(REDIRECT) \
-		--dns $(DNS) > $@
+		--dns $(DNS) \
+		> $@
 
 $(DOMAINS):
 	cp $(SOURCE) $@
@@ -76,14 +77,16 @@ $(HTML_SV): $(SUMMARY) $(TEMPLATE_SV) $(SCRIPT_WEB) $(I18N)
 		--language sv \
 		--i18n $(I18N) \
 		--template $(TEMPLATE_SV) \
-		--summary $(SUMMARY) > $@
+		--summary $(SUMMARY) \
+		> $@
 
 $(HTML_EN): $(SUMMARY) $(TEMPLATE_EN) $(SCRIPT_WEB) $(I18N)
 	perl scripts/create-web.pl \
 		--language en \
 		--i18n $(I18N) \
 		--template $(TEMPLATE_EN) \
-		--summary $(SUMMARY) > $@
+		--summary $(SUMMARY) \
+		> $@
 
 $(LIST): $(DOMAINS)
 	perl scripts/export-domains-list.pl $(DOMAINS) > $@
