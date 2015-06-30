@@ -42,8 +42,8 @@ summary: $(SUMMARY)
 web: $(HTML_SV) $(HTML_EN)
 
 save:
-	git add $(DOMAINS) $(REPORT) $(LOGFILE) $(REDIRECT)
-	git commit -m "update results" $(DOMAINS) $(REPORT) $(LOGFILE) $(REDIRECT) $(VERSION_FILE)
+	git add $(DOMAINS) $(REPORT) $(LOGFILE) $(REDIRECT) $(DNS)
+	git commit -m "update results" $(DOMAINS) $(REPORT) $(LOGFILE) $(REDIRECT) $(DNS) $(VERSION_FILE)
 
 webdist:
 	 rsync -av --delete --exclude .DS_Store web/ $(DESTINATION)/
