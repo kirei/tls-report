@@ -92,6 +92,9 @@ sub output_table {
         printf("<td><div class=\"%s\"><a href=\"%s\">%s</a></div></td>\n",
             $grade_class, ssllabs_link($entry->{fqdn}), $grade);
 
+        printf("<td>%s</td>\n", yes_or_no($language, $entry->{dns}->{dnssec}));
+        printf("<td>%s</td>\n", yes_or_no($language, $entry->{dns}->{tlsa}));
+
         printf("</tr>\n");
     }
 }

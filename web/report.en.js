@@ -25,7 +25,9 @@ $(document).ready(function() {
 			null,
 			null,
 			null,
-			{ "type": "grade" }
+			{ "type": "grade" },
+			null,
+			null
 		]
 	});
 });
