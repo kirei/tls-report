@@ -25,6 +25,8 @@ I18N=		templates/i18n.json
 HTML_EN=	web/report.en.html
 HTML_SV=	web/report.sv.html
 
+API=		https://api.ssllabs.com/api/v2/
+
 
 all:
 
@@ -56,6 +58,7 @@ $(DNS): $(LIST)
 
 $(REPORT): $(LIST)
 	ssllabs-scan \
+		--api="$(API)" \
 		--usecache=true --maxage=24 \
 		--hostfile=$(LIST) \
 		--verbosity=debug \
