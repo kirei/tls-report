@@ -304,6 +304,11 @@
         "org": "Finansiell ID-Teknik BID AB",
         "type": "IT"
     },
+    "bankomat.se": {
+        "domain": "bankomat.se",
+        "org": "Bankomat AB",
+        "type": "Finans"
+    },
     "barnombudsmannen.se": {
         "domain": "barnombudsmannen.se",
         "org": "Barnombudsmannen",
