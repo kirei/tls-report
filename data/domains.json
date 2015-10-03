@@ -3624,6 +3624,11 @@
         "org": "Trelleborgs kommun",
         "type": "Kommun"
     },
+    "triop.se": {
+        "domain": "triop.se",
+        "org": "Triop AB",
+        "type": "IT"
+    },
     "trollhattan.se": {
         "domain": "trollhattan.se",
         "org": "Trollh\u00e4ttans stad",
