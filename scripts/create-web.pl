@@ -31,6 +31,9 @@ use JSON -support_by_pp;
 use Getopt::Long;
 use Data::Dumper;
 
+my $star  = "&#x2B50;";
+my $check = "&#x2714;";
+
 sub output_table {
     my $summary      = shift;
     my $language     = shift;
@@ -44,6 +47,7 @@ sub output_table {
         my $grade         = $entry->{grade};
         my $grade_class   = undef;
         my $general_class = undef;
+        my $rating        = "";
 
         if ($grade) {
             if ($grade =~ /^A/) {
@@ -74,7 +78,22 @@ sub output_table {
             $general_class = "unknown";
         }
 
+        if (    $grade =~ /^A/
+            and $entry->{https} == 1
+            and $entry->{force} == 1
+            and $entry->{dns}->{dnssec} == 1
+            and $entry->{dns}->{tlsa} == 1)
+        {
+            $rating = $star;
+        } elsif ($grade =~ /^A/
+            and $entry->{https} == 1
+            and $entry->{force} == 1)
+        {
+            $rating = $check;
+        }
+
         printf("<tr>\n");
+        printf("<td><div class=\"rating\">%s</div></d>\n",  $rating);
         printf("<td>%s</td>\n", $entry->{domain});
         printf("<td>%s</td>\n", $entry->{org});
 

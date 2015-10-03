@@ -41,6 +41,7 @@ $(document).ready(function() {
 			null,
 			null,
 			null,
+			null,
 			{ "type": "grade" },
 			null,
 			null
