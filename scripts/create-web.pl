@@ -93,7 +93,7 @@ sub output_table {
         }
 
         printf("<tr>\n");
-        printf("<td><div class=\"rating\">%s</div></d>\n",  $rating);
+        printf("<td><div class=\"rating\">%s</div></td>\n",  $rating);
         printf("<td>%s</td>\n", $entry->{domain});
         printf("<td>%s</td>\n", $entry->{org});
 
