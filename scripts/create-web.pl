@@ -95,10 +95,13 @@ sub output_table {
             $rating = $check;
         }
 
+        my $scheme = ($entry->{https} == 1) ? "https" : "http";
+        my $link = sprintf("%s://%s/", $scheme, $entry->{domain});
+
         printf("<tr>\n");
         printf("<td><div class=\"rating\">%s</div></td>\n", $rating);
-        printf("<td>%s</td>\n",                             $entry->{domain});
-        printf("<td>%s</td>\n",                             $entry->{org});
+        printf("<td><a href=\"%s\">%s</a></td>\n", $link, $entry->{domain});
+        printf("<td>%s</td>\n",                    $entry->{org});
 
         my $type = $entry->{type};
         if ($translations and $translations->{$language}->{$type}) {
