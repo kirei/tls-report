@@ -31,8 +31,9 @@ use JSON -support_by_pp;
 use Getopt::Long;
 use Data::Dumper;
 
-my $star  = "&#x2B50;";
-my $check = "&#x2714;";
+my $star    = "&#x2B50;";
+my $check   = "&#x2714;";
+my $warning = "&#x26A0;";
 
 sub output_table {
     my $summary      = shift;
@@ -78,7 +79,9 @@ sub output_table {
             $general_class = "unknown";
         }
 
-        if (    $grade =~ /^A/
+        if ($entry->{ipv6_warning}) {
+            $rating = $warning;
+        } elsif ($grade =~ /^A/
             and $entry->{https} == 1
             and $entry->{force} == 1
             and $entry->{dns}->{dnssec} == 1
@@ -93,9 +96,9 @@ sub output_table {
         }
 
         printf("<tr>\n");
-        printf("<td><div class=\"rating\">%s</div></td>\n",  $rating);
-        printf("<td>%s</td>\n", $entry->{domain});
-        printf("<td>%s</td>\n", $entry->{org});
+        printf("<td><div class=\"rating\">%s</div></td>\n", $rating);
+        printf("<td>%s</td>\n",                             $entry->{domain});
+        printf("<td>%s</td>\n",                             $entry->{org});
 
         my $type = $entry->{type};
         if ($translations and $translations->{$language}->{$type}) {
