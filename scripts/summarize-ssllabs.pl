@@ -31,6 +31,7 @@ use JSON -support_by_pp;
 use Data::Dumper;
 use List::MoreUtils qw(uniq);
 use Getopt::Long;
+use Net::IP qw(:PROC);
 
 sub summarize_report {
     my $report   = shift;
@@ -50,11 +51,22 @@ sub summarize_report {
         $entry->{type}   = $domains->{$domain}->{type};
         $entry->{org}    = $domains->{$domain}->{org};
 
+        $entry->{ipv6_warning} = 0;
+
         my @all_https  = ();
         my @all_grades = ();
         my @all_sts    = ();
 
         foreach my $endpoint (@{ $r->{endpoints} }) {
+
+            # skip unreachable IPv6 targets
+            if ($endpoint->{progress} == -1) {
+                if (ip_is_ipv6($endpoint->{ipAddress})) {
+                    $entry->{ipv6_warning} = 1;
+                    next;
+                }
+            }
+
             if ($endpoint->{progress} == 100) {
                 push @all_https, 1;
             } else {
@@ -77,6 +89,14 @@ sub summarize_report {
         $entry->{https} = get_coherent(1, \@all_https) ? 1 : 0;
         $entry->{grade} = get_coherent(1, \@all_grades);
         $entry->{sts}   = get_coherent(0, \@all_sts) ? 1 : 0;
+
+        if ($entry->{https} == 0 && $entry->{ipv6_warning} == 1) {
+            $entry->{ipv6_warning} = 0;
+        }
+
+        if ($entry->{ipv6_warning}) {
+            print STDERR "$domain IPv6 warning\n";
+        }
 
         if (defined $redirect->{$domain}->{'force_https'}) {
             if ($redirect->{$domain}->{'force_https'} == 1) {
