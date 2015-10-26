@@ -1,0 +1,4022 @@
+{
+    "abanan.se": {
+        "domain": "abanan.se",
+        "org": "Arlandabanan Infrastructure AB",
+        "type": "Statligt bolag"
+    },
+    "accept.se": {
+        "domain": "accept.se",
+        "org": "Accept F\u00f6rs\u00e4kringsaktiebolag",
+        "type": "Finans"
+    },
+    "addpro.se": {
+        "domain": "addpro.se",
+        "org": "Addpro AB",
+        "type": "IT"
+    },
+    "advenica.com": {
+        "domain": "advenica.com",
+        "org": "Advenica AB",
+        "type": "IT"
+    },
+    "afaforsakring.se": {
+        "domain": "afaforsakring.se",
+        "org": "AFA F\u00f6rs\u00e4kring",
+        "type": "Finans"
+    },
+    "afconsult.se": {
+        "domain": "afconsult.se",
+        "org": "\u00c5F-Consult AB",
+        "type": "IT"
+    },
+    "affarsvarlden.se": {
+        "domain": "affarsvarlden.se",
+        "org": "Aff\u00e4rsv\u00e4rlden",
+        "type": "Media"
+    },
+    "aftonbladet.se": {
+        "domain": "aftonbladet.se",
+        "org": "Aftonbladet",
+        "type": "Media"
+    },
+    "agria.se": {
+        "domain": "agria.se",
+        "org": "Agria",
+        "type": "Finans"
+    },
+    "akademiskahus.se": {
+        "domain": "akademiskahus.se",
+        "org": "Akademiska Hus AB",
+        "type": "Statligt bolag"
+    },
+    "akelius.se": {
+        "domain": "akelius.se",
+        "org": "Akelius",
+        "type": "Finans"
+    },
+    "aklagare.se": {
+        "domain": "aklagare.se",
+        "org": "\u00c5klagarmyndigheten",
+        "type": "Myndighet"
+    },
+    "aktsam.se": {
+        "domain": "aktsam.se",
+        "org": "Aktsam F\u00f6rs\u00e4kringar",
+        "type": "Finans"
+    },
+    "alandsbanken.se": {
+        "domain": "alandsbanken.se",
+        "org": "\u00c5landsbanken i Sverige",
+        "type": "Finans"
+    },
+    "ale.se": {
+        "domain": "ale.se",
+        "org": "Ale kommun",
+        "type": "Kommun"
+    },
+    "alecta.se": {
+        "domain": "alecta.se",
+        "org": "Alecta",
+        "type": "Finans"
+    },
+    "alfredberg.se": {
+        "domain": "alfredberg.se",
+        "org": "Alfred Berg",
+        "type": "Finans"
+    },
+    "alingsas.se": {
+        "domain": "alingsas.se",
+        "org": "Alings\u00e5s kommun",
+        "type": "Kommun"
+    },
+    "alltele.se": {
+        "domain": "alltele.se",
+        "org": "Alltele",
+        "type": "ISP"
+    },
+    "almhult.se": {
+        "domain": "almhult.se",
+        "org": "\u00c4lmhults kommun",
+        "type": "Kommun"
+    },
+    "almi.se": {
+        "domain": "almi.se",
+        "org": "ALMI F\u00f6retagspartner AB ",
+        "type": "Statligt bolag"
+    },
+    "alvdalen.se": {
+        "domain": "alvdalen.se",
+        "org": "\u00c4lvdalens kommun",
+        "type": "Kommun"
+    },
+    "alvesta.se": {
+        "domain": "alvesta.se",
+        "org": "Alvesta kommun",
+        "type": "Kommun"
+    },
+    "alvkarleby.se": {
+        "domain": "alvkarleby.se",
+        "org": "\u00c4lvkarleby kommun",
+        "type": "Kommun"
+    },
+    "alvsbyn.se": {
+        "domain": "alvsbyn.se",
+        "org": "\u00c4lvsbyns kommun",
+        "type": "Kommun"
+    },
+    "amal.se": {
+        "domain": "amal.se",
+        "org": "\u00c5m\u00e5ls kommun",
+        "type": "Kommun"
+    },
+    "amf.se": {
+        "domain": "amf.se",
+        "org": "AMF",
+        "type": "Finans"
+    },
+    "amfafinans.se": {
+        "domain": "amfafinans.se",
+        "org": "Amfa finans AB",
+        "type": "Finans"
+    },
+    "amfpension.se": {
+        "domain": "amfpension.se",
+        "org": "AMF Pension",
+        "type": "Finans"
+    },
+    "aneby.se": {
+        "domain": "aneby.se",
+        "org": "Aneby kommun",
+        "type": "Kommun"
+    },
+    "ange.se": {
+        "domain": "ange.se",
+        "org": "\u00c5nge kommun",
+        "type": "Kommun"
+    },
+    "ap1.se": {
+        "domain": "ap1.se",
+        "org": "F\u00f6rsta AP-fonden",
+        "type": "Myndighet"
+    },
+    "ap2.se": {
+        "domain": "ap2.se",
+        "org": "Andra AP-fonden",
+        "type": "Myndighet"
+    },
+    "ap3.se": {
+        "domain": "ap3.se",
+        "org": "Tredje AP-fonden",
+        "type": "Myndighet"
+    },
+    "ap4.se": {
+        "domain": "ap4.se",
+        "org": "Fj\u00e4rde AP-fonden",
+        "type": "Myndighet"
+    },
+    "ap7.se": {
+        "domain": "ap7.se",
+        "org": "Sjunde AP-fonden",
+        "type": "Myndighet"
+    },
+    "apfond6.se": {
+        "domain": "apfond6.se",
+        "org": "Sj\u00e4tte AP-fonden",
+        "type": "Myndighet"
+    },
+    "apl.se": {
+        "domain": "apl.se",
+        "org": "Apotek Produktion & Laboratorier AB",
+        "type": "Statligt bolag"
+    },
+    "apoteket.se": {
+        "domain": "apoteket.se",
+        "org": "Apoteket",
+        "type": "Statligt bolag"
+    },
+    "apoteksgruppen.se": {
+        "domain": "apoteksgruppen.se",
+        "org": "Apoteksgruppen",
+        "type": "Statligt bolag"
+    },
+    "arbetsdomstolen.se": {
+        "domain": "arbetsdomstolen.se",
+        "org": "Arbetsdomstolen (AD)",
+        "type": "Myndighet"
+    },
+    "arbetsformedlingen.se": {
+        "domain": "arbetsformedlingen.se",
+        "org": "Arbetsf\u00f6rmedlingen",
+        "type": "Myndighet"
+    },
+    "arbetsgivarverket.se": {
+        "domain": "arbetsgivarverket.se",
+        "org": "Arbetsgivarverket",
+        "type": "Myndighet"
+    },
+    "arboga.se": {
+        "domain": "arboga.se",
+        "org": "Arboga kommun",
+        "type": "Kommun"
+    },
+    "are.se": {
+        "domain": "are.se",
+        "org": "\u00c5re kommun",
+        "type": "Kommun"
+    },
+    "arjang.se": {
+        "domain": "arjang.se",
+        "org": "\u00c5rj\u00e4ngs kommun",
+        "type": "Kommun"
+    },
+    "arjeplog.se": {
+        "domain": "arjeplog.se",
+        "org": "Arjeplogs kommun",
+        "type": "Kommun"
+    },
+    "arn.se": {
+        "domain": "arn.se",
+        "org": "Allm\u00e4nna reklamationsn\u00e4mnden (ARN)",
+        "type": "Myndighet"
+    },
+    "arvidsjaur.se": {
+        "domain": "arvidsjaur.se",
+        "org": "Arvidsjaurs kommun",
+        "type": "Kommun"
+    },
+    "arvika.se": {
+        "domain": "arvika.se",
+        "org": "Arvika kommun",
+        "type": "Kommun"
+    },
+    "asele.se": {
+        "domain": "asele.se",
+        "org": "\u00c5sele kommun",
+        "type": "Kommun"
+    },
+    "askersund.se": {
+        "domain": "askersund.se",
+        "org": "Askersunds kommun",
+        "type": "Kommun"
+    },
+    "assured.se": {
+        "domain": "assured.se",
+        "org": "Assured AB",
+        "type": "IT"
+    },
+    "astorp.se": {
+        "domain": "astorp.se",
+        "org": "\u00c5storps kommun",
+        "type": "Kommun"
+    },
+    "atlascopco.com": {
+        "domain": "atlascopco.com",
+        "org": "Atlas Copco AB",
+        "type": "Industri"
+    },
+    "atvidaberg.se": {
+        "domain": "atvidaberg.se",
+        "org": "\u00c5tvidabergs kommun",
+        "type": "Kommun"
+    },
+    "av.se": {
+        "domain": "av.se",
+        "org": "Arbetsmilj\u00f6verket",
+        "type": "Myndighet"
+    },
+    "avanza.se": {
+        "domain": "avanza.se",
+        "org": "Avanza",
+        "type": "Finans"
+    },
+    "avesta.se": {
+        "domain": "avesta.se",
+        "org": "Avesta kommun",
+        "type": "Kommun"
+    },
+    "bahnhof.se": {
+        "domain": "bahnhof.se",
+        "org": "Bahnhof Internet AB",
+        "type": "ISP"
+    },
+    "bankid.com": {
+        "domain": "bankid.com",
+        "org": "Finansiell ID-Teknik BID AB",
+        "type": "IT"
+    },
+    "bankomat.se": {
+        "domain": "bankomat.se",
+        "org": "Bankomat AB",
+        "type": "Finans"
+    },
+    "barnombudsmannen.se": {
+        "domain": "barnombudsmannen.se",
+        "org": "Barnombudsmannen",
+        "type": "Myndighet"
+    },
+    "bastad.se": {
+        "domain": "bastad.se",
+        "org": "B\u00e5stads kommun",
+        "type": "Kommun"
+    },
+    "bengtsfors.se": {
+        "domain": "bengtsfors.se",
+        "org": "Bengtsfors kommun",
+        "type": "Kommun"
+    },
+    "berg.se": {
+        "domain": "berg.se",
+        "org": "Bergs kommun",
+        "type": "Kommun"
+    },
+    "bergslagenssparbank.se": {
+        "domain": "bergslagenssparbank.se",
+        "org": "Bergslagens Sparbank AB",
+        "type": "Finans"
+    },
+    "bfn.se": {
+        "domain": "bfn.se",
+        "org": "Bokf\u00f6ringsn\u00e4mnden",
+        "type": "Myndighet"
+    },
+    "bgc.se": {
+        "domain": "bgc.se",
+        "org": "Bankgirocentralen",
+        "type": "Finans"
+    },
+    "bilprovningen.se": {
+        "domain": "bilprovningen.se",
+        "org": "AB Svensk Bilprovning",
+        "type": "Statligt bolag"
+    },
+    "bitsec.se": {
+        "domain": "bitsec.se",
+        "org": "Bitsec AB",
+        "type": "IT"
+    },
+    "bjurholm.se": {
+        "domain": "bjurholm.se",
+        "org": "Bjurholms kommun",
+        "type": "Kommun"
+    },
+    "bjuv.se": {
+        "domain": "bjuv.se",
+        "org": "Bjuvs kommun",
+        "type": "Kommun"
+    },
+    "blackinternet.se": {
+        "domain": "blackinternet.se",
+        "org": "Black Internet",
+        "type": "ISP"
+    },
+    "boden.se": {
+        "domain": "boden.se",
+        "org": "Bodens kommun",
+        "type": "Kommun"
+    },
+    "bolagsverket.se": {
+        "domain": "bolagsverket.se",
+        "org": "Patentombudsn\u00e4mnden",
+        "type": "Myndighet"
+    },
+    "bollebygd.se": {
+        "domain": "bollebygd.se",
+        "org": "Bollebygds kommun",
+        "type": "Kommun"
+    },
+    "bollnas.se": {
+        "domain": "bollnas.se",
+        "org": "Bolln\u00e4s kommun",
+        "type": "Kommun"
+    },
+    "boras.se": {
+        "domain": "boras.se",
+        "org": "Bor\u00e5s stad",
+        "type": "Kommun"
+    },
+    "borgholm.se": {
+        "domain": "borgholm.se",
+        "org": "Borgholms kommun",
+        "type": "Kommun"
+    },
+    "borlange.se": {
+        "domain": "borlange.se",
+        "org": "Borl\u00e4nge kommun",
+        "type": "Kommun"
+    },
+    "bostadsgaranti.se": {
+        "domain": "bostadsgaranti.se",
+        "org": "AB Bostadsgaranti",
+        "type": "Statligt bolag"
+    },
+    "botkyrka.se": {
+        "domain": "botkyrka.se",
+        "org": "Botkyrka kommun",
+        "type": "Kommun"
+    },
+    "botniabanan.se": {
+        "domain": "botniabanan.se",
+        "org": "Botniabanan",
+        "type": "Statligt bolag"
+    },
+    "boverket.se": {
+        "domain": "boverket.se",
+        "org": "Boverket",
+        "type": "Myndighet"
+    },
+    "boxer.se": {
+        "domain": "boxer.se",
+        "org": "Boxer",
+        "type": "ISP"
+    },
+    "boxholm.se": {
+        "domain": "boxholm.se",
+        "org": "Boxholms kommun",
+        "type": "Kommun"
+    },
+    "bra.se": {
+        "domain": "bra.se",
+        "org": "Brottsf\u00f6rebyggande r\u00e5det (Br\u00e5)",
+        "type": "Myndighet"
+    },
+    "bracke.se": {
+        "domain": "bracke.se",
+        "org": "Br\u00e4cke kommun",
+        "type": "Kommun"
+    },
+    "bredbandsbolaget.se": {
+        "domain": "bredbandsbolaget.se",
+        "org": "Bredbandsbolaget",
+        "type": "ISP"
+    },
+    "bromolla.se": {
+        "domain": "bromolla.se",
+        "org": "Brom\u00f6lla kommun",
+        "type": "Kommun"
+    },
+    "brottsoffermyndigheten.se": {
+        "domain": "brottsoffermyndigheten.se",
+        "org": "Brottsoffermyndigheten (BrOM)",
+        "type": "Myndighet"
+    },
+    "bt.se": {
+        "domain": "bt.se",
+        "org": "Bor\u00e5s Tidning",
+        "type": "Media"
+    },
+    "bth.se": {
+        "domain": "bth.se",
+        "org": "Blekinge tekniska h\u00f6gskola",
+        "type": "Utbildning"
+    },
+    "burlov.se": {
+        "domain": "burlov.se",
+        "org": "Burl\u00f6vs kommun",
+        "type": "Kommun"
+    },
+    "carnegie.se": {
+        "domain": "carnegie.se",
+        "org": "Carnegie Investment Bank",
+        "type": "Finans"
+    },
+    "catella.se": {
+        "domain": "catella.se",
+        "org": "Catella",
+        "type": "Finans"
+    },
+    "cbfonder.se": {
+        "domain": "cbfonder.se",
+        "org": "CB Fonder",
+        "type": "Finans"
+    },
+    "cert.se": {
+        "domain": "cert.se",
+        "org": "Sveriges nationella CSIRT",
+        "type": "Myndighet"
+    },
+    "chalmers.se": {
+        "domain": "chalmers.se",
+        "org": "Chalmers Tekniska H\u00f6gskola",
+        "type": "Utbildning"
+    },
+    "cicerofonder.se": {
+        "domain": "cicerofonder.se",
+        "org": "Cicero",
+        "type": "Finans"
+    },
+    "cim.se": {
+        "domain": "cim.se",
+        "org": "DNB",
+        "type": "Finans"
+    },
+    "comhem.se": {
+        "domain": "comhem.se",
+        "org": "Comhem",
+        "type": "ISP"
+    },
+    "coop.se": {
+        "domain": "coop.se",
+        "org": "MedMera Bank Aktiebolag",
+        "type": "Finans"
+    },
+    "corechange.se": {
+        "domain": "corechange.se",
+        "org": "Corechange AB",
+        "type": "IT"
+    },
+    "coresec.se": {
+        "domain": "coresec.se",
+        "org": "Coresec Systems AB",
+        "type": "IT"
+    },
+    "corren.se": {
+        "domain": "corren.se",
+        "org": "\u00d6stg\u00f6tacorrespondenten",
+        "type": "Media"
+    },
+    "csn.se": {
+        "domain": "csn.se",
+        "org": "Centrala studiest\u00f6dsn\u00e4mnden (CSN)",
+        "type": "Myndighet"
+    },
+    "cybercom.se": {
+        "domain": "cybercom.se",
+        "org": "Cybercom AB",
+        "type": "IT"
+    },
+    "dalsed.se": {
+        "domain": "dalsed.se",
+        "org": "Dals-Eds kommun",
+        "type": "Kommun"
+    },
+    "danderyd.se": {
+        "domain": "danderyd.se",
+        "org": "Danderyds kommun",
+        "type": "Kommun"
+    },
+    "datainspektionen.se": {
+        "domain": "datainspektionen.se",
+        "org": "Datainspektionen",
+        "type": "Myndighet"
+    },
+    "degerfors.se": {
+        "domain": "degerfors.se",
+        "org": "Degerfors kommun",
+        "type": "Kommun"
+    },
+    "detectify.com": {
+        "domain": "detectify.com",
+        "org": "Detectify AB",
+        "type": "IT"
+    },
+    "dfri.se": {
+        "domain": "dfri.se",
+        "org": "F\u00f6reningen f\u00f6r Digitala Fri- och R\u00e4ttigheter",
+        "type": "F\u00f6rening"
+    },
+    "dgc.se": {
+        "domain": "dgc.se",
+        "org": "DGC Access AB",
+        "type": "ISP"
+    },
+    "di.se": {
+        "domain": "di.se",
+        "org": "Dagens Industri",
+        "type": "Media"
+    },
+    "didnergerge.se": {
+        "domain": "didnergerge.se",
+        "org": "Didner & Gerge",
+        "type": "Finans"
+    },
+    "dina.se": {
+        "domain": "dina.se",
+        "org": "Dina f\u00f6rs\u00e4kringar AB",
+        "type": "Finans"
+    },
+    "dn.se": {
+        "domain": "dn.se",
+        "org": "Dagens nyheter",
+        "type": "Media"
+    },
+    "dnb.se": {
+        "domain": "dnb.se",
+        "org": "DNB Bank",
+        "type": "Finans"
+    },
+    "do.se": {
+        "domain": "do.se",
+        "org": "Diskrimineringsombudsmannen",
+        "type": "Myndighet"
+    },
+    "doch.se": {
+        "domain": "doch.se",
+        "org": "Dans- och cirkush\u00f6gskolan",
+        "type": "Utbildning"
+    },
+    "dom.se": {
+        "domain": "dom.se",
+        "org": "Hovr\u00e4tten \u00f6ver Sk\u00e5ne och Blekinge",
+        "type": "Myndighet"
+    },
+    "domarnamnden.se": {
+        "domain": "domarnamnden.se",
+        "org": "Domarn\u00e4mnden",
+        "type": "Myndighet"
+    },
+    "domstol.se": {
+        "domain": "domstol.se",
+        "org": "Sveriges domstolar",
+        "type": "Myndighet"
+    },
+    "dorotea.se": {
+        "domain": "dorotea.se",
+        "org": "Dorotea kommun",
+        "type": "Kommun"
+    },
+    "dramaten.se": {
+        "domain": "dramaten.se",
+        "org": "Dramaten (Kungl. Dramatiska Teatern AB)",
+        "type": "Statligt bolag"
+    },
+    "du.se": {
+        "domain": "du.se",
+        "org": "H\u00f6gskolan Dalarna",
+        "type": "Utbildning"
+    },
+    "eastcapital.se": {
+        "domain": "eastcapital.se",
+        "org": "East Capital",
+        "type": "Finans"
+    },
+    "eda.se": {
+        "domain": "eda.se",
+        "org": "Eda kommun",
+        "type": "Kommun"
+    },
+    "ehalsomyndigheten.se": {
+        "domain": "ehalsomyndigheten.se",
+        "org": "eH\u00e4lsomyndigheten",
+        "type": "Myndighet"
+    },
+    "ekero.se": {
+        "domain": "ekero.se",
+        "org": "Eker\u00f6 kommun",
+        "type": "Kommun"
+    },
+    "ekn.se": {
+        "domain": "ekn.se",
+        "org": "Exportkreditn\u00e4mnden (EKN)",
+        "type": "Myndighet"
+    },
+    "ekobrottsmyndigheten.se": {
+        "domain": "ekobrottsmyndigheten.se",
+        "org": "Ekobrottsmyndigheten (EBM)",
+        "type": "Myndighet"
+    },
+    "eksjo.se": {
+        "domain": "eksjo.se",
+        "org": "Eksj\u00f6 kommun",
+        "type": "Kommun"
+    },
+    "elegnamnden.se": {
+        "domain": "elegnamnden.se",
+        "org": "E-legitimationsn\u00e4mnden",
+        "type": "Myndighet"
+    },
+    "elsakerhetsverket.se": {
+        "domain": "elsakerhetsverket.se",
+        "org": "Els\u00e4kerhetsverket",
+        "type": "Myndighet"
+    },
+    "emmaboda.se": {
+        "domain": "emmaboda.se",
+        "org": "Emmaboda kommun",
+        "type": "Kommun"
+    },
+    "energimarknadsinspektionen.se": {
+        "domain": "energimarknadsinspektionen.se",
+        "org": "Energimarknadsinspektionen",
+        "type": "Myndighet"
+    },
+    "energimyndigheten.se": {
+        "domain": "energimyndigheten.se",
+        "org": "Statens energimyndighet",
+        "type": "Myndighet"
+    },
+    "engelholm.se": {
+        "domain": "engelholm.se",
+        "org": "\u00c4ngelholms kommun",
+        "type": "Kommun"
+    },
+    "enkoping.se": {
+        "domain": "enkoping.se",
+        "org": "Enk\u00f6pings kommun",
+        "type": "Kommun"
+    },
+    "enterfonder.se": {
+        "domain": "enterfonder.se",
+        "org": "Enter Fonder",
+        "type": "Finans"
+    },
+    "epn.se": {
+        "domain": "epn.se",
+        "org": "Regionala etikpr\u00f6vningsn\u00e4mnden i Uppsala",
+        "type": "Myndighet"
+    },
+    "ericsson.com": {
+        "domain": "ericsson.com",
+        "org": "Ericsson AB",
+        "type": "Telekom"
+    },
+    "erv.se": {
+        "domain": "erv.se",
+        "org": "Europeiska F\u00f6rs\u00e4kringsaktiebolag",
+        "type": "Finans"
+    },
+    "esf.se": {
+        "domain": "esf.se",
+        "org": "Svenska ESF-r\u00e5det",
+        "type": "Myndighet"
+    },
+    "eskilstuna.se": {
+        "domain": "eskilstuna.se",
+        "org": "Eskilstuna kommun",
+        "type": "Kommun"
+    },
+    "eslov.se": {
+        "domain": "eslov.se",
+        "org": "Esl\u00f6vs kommun",
+        "type": "Kommun"
+    },
+    "ess-scandinavia.se/": {
+        "domain": "ess-scandinavia.se/",
+        "org": "European Spallation Source ESS AB",
+        "type": "Statligt bolag"
+    },
+    "essunga.se": {
+        "domain": "essunga.se",
+        "org": "Essunga kommun",
+        "type": "Kommun"
+    },
+    "esv.se": {
+        "domain": "esv.se",
+        "org": "Ekonomistyrningsverket",
+        "type": "Myndighet"
+    },
+    "etnografiska.se": {
+        "domain": "etnografiska.se",
+        "org": "Etnografiska Museet",
+        "type": "Myndighet"
+    },
+    "europeiska.se": {
+        "domain": "europeiska.se",
+        "org": "Europeiska F\u00f6rs\u00e4kringsaktiebolag",
+        "type": "Finans"
+    },
+    "expressen.se": {
+        "domain": "expressen.se",
+        "org": "Expressen",
+        "type": "Media"
+    },
+    "fagersta.se": {
+        "domain": "fagersta.se",
+        "org": "Fagersta kommun",
+        "type": "Kommun"
+    },
+    "falkenberg.se": {
+        "domain": "falkenberg.se",
+        "org": "Falkenbergs kommun",
+        "type": "Kommun"
+    },
+    "falkoping.se": {
+        "domain": "falkoping.se",
+        "org": "Falk\u00f6pings kommun",
+        "type": "Kommun"
+    },
+    "falun.se": {
+        "domain": "falun.se",
+        "org": "Falun kommun",
+        "type": "Kommun"
+    },
+    "fargelanda.se": {
+        "domain": "fargelanda.se",
+        "org": "F\u00e4rgelanda kommun",
+        "type": "Kommun"
+    },
+    "fas.se": {
+        "domain": "fas.se",
+        "org": "Forskningsr\u00e5det f\u00f6r arbetsliv och socialvetenskap (FAS)",
+        "type": "Myndighet"
+    },
+    "fastighetsmaklarnamnden.se": {
+        "domain": "fastighetsmaklarnamnden.se",
+        "org": "Fastighetsm\u00e4klarn\u00e4mnden",
+        "type": "Myndighet"
+    },
+    "fhs.se": {
+        "domain": "fhs.se",
+        "org": "F\u00f6rsvarsh\u00f6gskolan",
+        "type": "Utbildning"
+    },
+    "fi.se": {
+        "domain": "fi.se",
+        "org": "Finansinspektionen",
+        "type": "Myndighet"
+    },
+    "filipstad.se": {
+        "domain": "filipstad.se",
+        "org": "Filipstads kommun",
+        "type": "Kommun"
+    },
+    "finanspolitiskaradet.se": {
+        "domain": "finanspolitiskaradet.se",
+        "org": "Finanspolitiska r\u00e5det",
+        "type": "Myndighet"
+    },
+    "finspong.se": {
+        "domain": "finspong.se",
+        "org": "Finsp\u00e5ngs kommun",
+        "type": "Kommun"
+    },
+    "flen.se": {
+        "domain": "flen.se",
+        "org": "Flens kommun",
+        "type": "Kommun"
+    },
+    "fmv.se": {
+        "domain": "fmv.se",
+        "org": "F\u00f6rsvarets materielverk (FMV)",
+        "type": "Myndighet"
+    },
+    "fofspar.se": {
+        "domain": "fofspar.se",
+        "org": "F\u00e4rs & Frosta Sparbank",
+        "type": "Finans"
+    },
+    "foi.se": {
+        "domain": "foi.se",
+        "org": "Totalf\u00f6rsvarets forskningsinstitut (FOI)",
+        "type": "Myndighet"
+    },
+    "folkebernadotteacademy.se": {
+        "domain": "folkebernadotteacademy.se",
+        "org": "Folke Bernadotteakademien",
+        "type": "Myndighet"
+    },
+    "folkhalsomyndigheten.se": {
+        "domain": "folkhalsomyndigheten.se",
+        "org": "Folkh\u00e4lsomyndigheten",
+        "type": "Myndighet"
+    },
+    "folksam.se": {
+        "domain": "folksam.se",
+        "org": "Folksam",
+        "type": "Finans"
+    },
+    "fondfinans.se": {
+        "domain": "fondfinans.se",
+        "org": "Fond & Finans",
+        "type": "Finans"
+    },
+    "forex.se": {
+        "domain": "forex.se",
+        "org": "FOREX Bank",
+        "type": "Finans"
+    },
+    "formas.se": {
+        "domain": "formas.se",
+        "org": "Forskningsr\u00e5det f\u00f6r milj\u00f6, areella n\u00e4ringar och samh\u00e4llsbyggande (Formas)",
+        "type": "Myndighet"
+    },
+    "forsakringskassan.se": {
+        "domain": "forsakringskassan.se",
+        "org": "F\u00f6rs\u00e4kringskassan",
+        "type": "Myndighet"
+    },
+    "forshaga.se": {
+        "domain": "forshaga.se",
+        "org": "Forshaga kommun",
+        "type": "Kommun"
+    },
+    "forskarskattenamnden.se": {
+        "domain": "forskarskattenamnden.se",
+        "org": "Forskarskatten\u00e4mnden",
+        "type": "Myndighet"
+    },
+    "forsvarsmakten.se": {
+        "domain": "forsvarsmakten.se",
+        "org": "F\u00f6rsvarsmakten",
+        "type": "Myndighet"
+    },
+    "fortv.se": {
+        "domain": "fortv.se",
+        "org": "Fortifikationsverket",
+        "type": "Myndighet"
+    },
+    "fouriertransform.se": {
+        "domain": "fouriertransform.se",
+        "org": "Fouriertransform AB",
+        "type": "Statligt bolag"
+    },
+    "fra.se": {
+        "domain": "fra.se",
+        "org": "F\u00f6rsvarets radioanstalt (FRA)",
+        "type": "Myndighet"
+    },
+    "fxm.se": {
+        "domain": "fxm.se",
+        "org": "F\u00f6rsvarsexportmyndigheten",
+        "type": "Myndighet"
+    },
+    "gagnef.se": {
+        "domain": "gagnef.se",
+        "org": "Gagnefs kommun",
+        "type": "Kommun"
+    },
+    "gavle.se": {
+        "domain": "gavle.se",
+        "org": "G\u00e4vle kommun",
+        "type": "Kommun"
+    },
+    "gellivare.se": {
+        "domain": "gellivare.se",
+        "org": "G\u00e4llivare kommun",
+        "type": "Kommun"
+    },
+    "gemoneybank.se": {
+        "domain": "gemoneybank.se",
+        "org": "GE Money Bank",
+        "type": "Finans"
+    },
+    "genteknik.se": {
+        "domain": "genteknik.se",
+        "org": "Genteknikn\u00e4mnden",
+        "type": "Myndighet"
+    },
+    "gih.se": {
+        "domain": "gih.se",
+        "org": "Gymnastik och Idrottsh\u00f6gskolan",
+        "type": "Utbildning"
+    },
+    "gislaved.se": {
+        "domain": "gislaved.se",
+        "org": "Gislaveds kommun",
+        "type": "Kommun"
+    },
+    "gjensidige.se": {
+        "domain": "gjensidige.se",
+        "org": "Gjensidige",
+        "type": "Finans"
+    },
+    "glocalnet.se": {
+        "domain": "glocalnet.se",
+        "org": "Glocalnet",
+        "type": "ISP"
+    },
+    "gnesta.se": {
+        "domain": "gnesta.se",
+        "org": "Gnesta kommun",
+        "type": "Kommun"
+    },
+    "gnosjo.se": {
+        "domain": "gnosjo.se",
+        "org": "Gnosj\u00f6 kommun",
+        "type": "Kommun"
+    },
+    "gotakanal.se": {
+        "domain": "gotakanal.se",
+        "org": "AB G\u00f6ta kanalbolag",
+        "type": "Statligt bolag"
+    },
+    "goteborg.se": {
+        "domain": "goteborg.se",
+        "org": "G\u00f6teborgs Stad",
+        "type": "Kommun"
+    },
+    "gotene.se": {
+        "domain": "gotene.se",
+        "org": "G\u00f6tene kommun",
+        "type": "Kommun"
+    },
+    "gotland.se": {
+        "domain": "gotland.se",
+        "org": "Gotlands kommun",
+        "type": "Kommun"
+    },
+    "gov.se": {
+        "domain": "gov.se",
+        "org": "Milj\u00f6v\u00e5rdsberedningen",
+        "type": "Myndighet"
+    },
+    "gp.se": {
+        "domain": "gp.se",
+        "org": "G\u00f6teborgsposten",
+        "type": "Media"
+    },
+    "grastorp.se": {
+        "domain": "grastorp.se",
+        "org": "Gr\u00e4storps kommun",
+        "type": "Kommun"
+    },
+    "greencargo.com": {
+        "domain": "greencargo.com",
+        "org": "Green Cargo AB",
+        "type": "Statligt bolag"
+    },
+    "grums.se": {
+        "domain": "grums.se",
+        "org": "Grums kommun",
+        "type": "Kommun"
+    },
+    "gu.se": {
+        "domain": "gu.se",
+        "org": "G\u00f6teborgs universitet",
+        "type": "Utbildning"
+    },
+    "gullspang.se": {
+        "domain": "gullspang.se",
+        "org": "Gullsp\u00e5ngs kommun",
+        "type": "Kommun"
+    },
+    "habo.se": {
+        "domain": "habo.se",
+        "org": "H\u00e5bo kommun",
+        "type": "Kommun"
+    },
+    "habokommun.se": {
+        "domain": "habokommun.se",
+        "org": "Habo kommun",
+        "type": "Kommun"
+    },
+    "hagfors.se": {
+        "domain": "hagfors.se",
+        "org": "Hagfors kommun",
+        "type": "Kommun"
+    },
+    "hallsberg.se": {
+        "domain": "hallsberg.se",
+        "org": "Hallsbergs kommun",
+        "type": "Kommun"
+    },
+    "hallstahammar.se": {
+        "domain": "hallstahammar.se",
+        "org": "Hallstahammars kommun",
+        "type": "Kommun"
+    },
+    "halmstad.se": {
+        "domain": "halmstad.se",
+        "org": "Halmstads kommun",
+        "type": "Kommun"
+    },
+    "halon.se": {
+        "domain": "halon.se",
+        "org": "Halon AB",
+        "type": "IT"
+    },
+    "hammaro.se": {
+        "domain": "hammaro.se",
+        "org": "Hammar\u00f6 kommun",
+        "type": "Kommun"
+    },
+    "han.se": {
+        "domain": "han.se",
+        "org": "H\u00f6gskolans avskiljanden\u00e4mnd (HAN)",
+        "type": "Myndighet"
+    },
+    "handelsbanken.se": {
+        "domain": "handelsbanken.se",
+        "org": "Svenska handelsbanken AB",
+        "type": "Finans"
+    },
+    "handisam.se": {
+        "domain": "handisam.se",
+        "org": "Myndigheten f\u00f6r handikappolitisk samordning",
+        "type": "Myndighet"
+    },
+    "haninge.se": {
+        "domain": "haninge.se",
+        "org": "Haninge kommun",
+        "type": "Kommun"
+    },
+    "haparanda.se": {
+        "domain": "haparanda.se",
+        "org": "Haparanda stad",
+        "type": "Kommun"
+    },
+    "harnosand.se": {
+        "domain": "harnosand.se",
+        "org": "H\u00e4rn\u00f6sands kommun",
+        "type": "Kommun"
+    },
+    "harryda.se": {
+        "domain": "harryda.se",
+        "org": "H\u00e4rryda kommun",
+        "type": "Kommun"
+    },
+    "hassleholm.se": {
+        "domain": "hassleholm.se",
+        "org": "H\u00e4ssleholms kommun",
+        "type": "Kommun"
+    },
+    "havkom.se": {
+        "domain": "havkom.se",
+        "org": "Statens haverikommission (SHK)",
+        "type": "Myndighet"
+    },
+    "havochvatten.se": {
+        "domain": "havochvatten.se",
+        "org": "Havs- och vattenmyndigheten",
+        "type": "Myndighet"
+    },
+    "hb.se": {
+        "domain": "hb.se",
+        "org": "H\u00f6gskolan i Bor\u00e5s",
+        "type": "Utbildning"
+    },
+    "hd.se": {
+        "domain": "hd.se",
+        "org": "Helsingborgs Dagblad",
+        "type": "Media"
+    },
+    "heby.se": {
+        "domain": "heby.se",
+        "org": "Heby kommun",
+        "type": "Kommun"
+    },
+    "hedemora.se": {
+        "domain": "hedemora.se",
+        "org": "Hedemora kommun",
+        "type": "Kommun"
+    },
+    "hellefors.se": {
+        "domain": "hellefors.se",
+        "org": "H\u00e4llefors kommun",
+        "type": "Kommun"
+    },
+    "helsingborg.se": {
+        "domain": "helsingborg.se",
+        "org": "Helsingborgs stad",
+        "type": "Kommun"
+    },
+    "herjedalen.se": {
+        "domain": "herjedalen.se",
+        "org": "H\u00e4rjedalens kommun",
+        "type": "Kommun"
+    },
+    "herrljunga.se": {
+        "domain": "herrljunga.se",
+        "org": "Herrljunga kommun",
+        "type": "Kommun"
+    },
+    "hgo.se": {
+        "domain": "hgo.se",
+        "org": "H\u00f6gskolan p\u00e5 Gotland",
+        "type": "Utbildning"
+    },
+    "hh.se": {
+        "domain": "hh.se",
+        "org": "H\u00f6gskolan i Halmstad",
+        "type": "Utbildning"
+    },
+    "hhs.se": {
+        "domain": "hhs.se",
+        "org": "Handelsh\u00f6gskolan i Stockholm",
+        "type": "Utbildning"
+    },
+    "hig.se": {
+        "domain": "hig.se",
+        "org": "H\u00f6gskolan i G\u00e4vle",
+        "type": "Utbildning"
+    },
+    "his.se": {
+        "domain": "his.se",
+        "org": "H\u00f6gskolan i Sk\u00f6vde",
+        "type": "Utbildning"
+    },
+    "historiska.se": {
+        "domain": "historiska.se",
+        "org": "Historiska museet",
+        "type": "Myndighet"
+    },
+    "hj.se": {
+        "domain": "hj.se",
+        "org": "H\u00f6gskolan i J\u00f6nk\u00f6ping",
+        "type": "Utbildning"
+    },
+    "hjo.se": {
+        "domain": "hjo.se",
+        "org": "Hjo kommun",
+        "type": "Kommun"
+    },
+    "hkr.se": {
+        "domain": "hkr.se",
+        "org": "H\u00f6gskolan Kristianstad",
+        "type": "Utbildning"
+    },
+    "hm.com": {
+        "domain": "hm.com",
+        "org": "Hennes & Mauritz",
+        "type": "Detaljhandel"
+    },
+    "hofors.se": {
+        "domain": "hofors.se",
+        "org": "Hofors kommun",
+        "type": "Kommun"
+    },
+    "hoganas.se": {
+        "domain": "hoganas.se",
+        "org": "H\u00f6gan\u00e4s kommun",
+        "type": "Kommun"
+    },
+    "hogsby.se": {
+        "domain": "hogsby.se",
+        "org": "H\u00f6gsby kommun",
+        "type": "Kommun"
+    },
+    "hogstadomstolen.se": {
+        "domain": "hogstadomstolen.se",
+        "org": "H\u00f6gsta domstolen (HD)",
+        "type": "Myndighet"
+    },
+    "hoor.se": {
+        "domain": "hoor.se",
+        "org": "H\u00f6\u00f6rs kommun",
+        "type": "Kommun"
+    },
+    "horby.se": {
+        "domain": "horby.se",
+        "org": "H\u00f6rby kommun",
+        "type": "Kommun"
+    },
+    "hovrattenfornedrenorrland.se": {
+        "domain": "hovrattenfornedrenorrland.se",
+        "org": "Hovr\u00e4tten f\u00f6r Nedre Norrland",
+        "type": "Myndighet"
+    },
+    "hsv.se": {
+        "domain": "hsv.se",
+        "org": "H\u00f6gskoleverket",
+        "type": "Myndighet"
+    },
+    "huddinge.se": {
+        "domain": "huddinge.se",
+        "org": "Huddinge kommun",
+        "type": "Kommun"
+    },
+    "hudiksvall.se": {
+        "domain": "hudiksvall.se",
+        "org": "Hudiksvalls kommun",
+        "type": "Kommun"
+    },
+    "hultsfred.se": {
+        "domain": "hultsfred.se",
+        "org": "Hultsfreds kommun",
+        "type": "Kommun"
+    },
+    "hv.se": {
+        "domain": "hv.se",
+        "org": "H\u00f6gskolan V\u00e4st",
+        "type": "Utbildning"
+    },
+    "hylte.se": {
+        "domain": "hylte.se",
+        "org": "Hylte kommun",
+        "type": "Kommun"
+    },
+    "iaf.se": {
+        "domain": "iaf.se",
+        "org": "Inspektionen f\u00f6r arbetsl\u00f6shetsf\u00f6rs\u00e4kringen (IAF)",
+        "type": "Myndighet"
+    },
+    "ica.se": {
+        "domain": "ica.se",
+        "org": "ICA Banken",
+        "type": "Finans"
+    },
+    "icabanken.se": {
+        "domain": "icabanken.se",
+        "org": "ICA Banken",
+        "type": "Finans"
+    },
+    "if.se": {
+        "domain": "if.se",
+        "org": "If",
+        "type": "Finans"
+    },
+    "ifau.se": {
+        "domain": "ifau.se",
+        "org": "Institutet f\u00f6r arbetsmarknadspolitisk utv\u00e4rdering (IFAU)",
+        "type": "Myndighet"
+    },
+    "iis.se": {
+        "domain": "iis.se",
+        "org": "Internetstiftelsen i Sverige",
+        "type": "IT"
+    },
+    "ikanobank.se": {
+        "domain": "ikanobank.se",
+        "org": "Ikanobanken",
+        "type": "Finans"
+    },
+    "ikanobanken.se": {
+        "domain": "ikanobanken.se",
+        "org": "Ikanobanken",
+        "type": "Finans"
+    },
+    "imego.com": {
+        "domain": "imego.com",
+        "org": "Imego AB, Institutet f\u00f6r mikroelektronik i G\u00f6teborg",
+        "type": "Statligt bolag"
+    },
+    "infranord.se": {
+        "domain": "infranord.se",
+        "org": "Infranord",
+        "type": "Statligt bolag"
+    },
+    "inlandsinnovation.se": {
+        "domain": "inlandsinnovation.se",
+        "org": "Inlandsinnovation",
+        "type": "Statligt bolag"
+    },
+    "innovationsbron.se": {
+        "domain": "innovationsbron.se",
+        "org": "Innovationsbron",
+        "type": "Statligt bolag"
+    },
+    "inspsf.se": {
+        "domain": "inspsf.se",
+        "org": "Inspektionen f\u00f6r socialf\u00f6rs\u00e4kringen",
+        "type": "Myndighet"
+    },
+    "investorab.com": {
+        "domain": "investorab.com",
+        "org": "Investor AB",
+        "type": "Finans"
+    },
+    "investsweden.se": {
+        "domain": "investsweden.se",
+        "org": "Myndigheten f\u00f6r utl\u00e4ndska investeringar i Sverige",
+        "type": "Myndighet"
+    },
+    "ip-only.se": {
+        "domain": "ip-only.se",
+        "org": "IP-Only Telecommunication AB",
+        "type": "ISP"
+    },
+    "irf.se": {
+        "domain": "irf.se",
+        "org": "Institutet f\u00f6r rymdfysik (IRF)",
+        "type": "Myndighet"
+    },
+    "isa.se": {
+        "domain": "isa.se",
+        "org": "Invest in Sweden Agency (ISA)",
+        "type": "Myndighet"
+    },
+    "isp.se": {
+        "domain": "isp.se",
+        "org": "Inspektionen f\u00f6r strategiska produkter (ISP)",
+        "type": "Myndighet"
+    },
+    "jarfalla.se": {
+        "domain": "jarfalla.se",
+        "org": "J\u00e4rf\u00e4lla kommun",
+        "type": "Kommun"
+    },
+    "jernhusen.se": {
+        "domain": "jernhusen.se",
+        "org": "Jernhusen",
+        "type": "Statligt bolag"
+    },
+    "jk.se": {
+        "domain": "jk.se",
+        "org": "Justitiekanslern (JK)",
+        "type": "Myndighet"
+    },
+    "jll.se": {
+        "domain": "jll.se",
+        "org": "J\u00e4mtlands l\u00e4ns landsting",
+        "type": "Landsting"
+    },
+    "jo.se": {
+        "domain": "jo.se",
+        "org": "Riksdagens ombudsm\u00e4n (JO)",
+        "type": "Myndighet"
+    },
+    "jokkmokk.se": {
+        "domain": "jokkmokk.se",
+        "org": "Jokkmokks kommun",
+        "type": "Kommun"
+    },
+    "jonkoping.se": {
+        "domain": "jonkoping.se",
+        "org": "J\u00f6nk\u00f6pings kommun",
+        "type": "Kommun"
+    },
+    "jordbruksverket.se": {
+        "domain": "jordbruksverket.se",
+        "org": "Statens jordbruksverk",
+        "type": "Myndighet"
+    },
+    "justitiekanslern.se": {
+        "domain": "justitiekanslern.se",
+        "org": "Justitiekanslern (JK)",
+        "type": "Myndighet"
+    },
+    "kalix.se": {
+        "domain": "kalix.se",
+        "org": "Kalix kommun",
+        "type": "Kommun"
+    },
+    "kalmar.se": {
+        "domain": "kalmar.se",
+        "org": "Kalmar kommun",
+        "type": "Kommun"
+    },
+    "kammarkollegiet.se": {
+        "domain": "kammarkollegiet.se",
+        "org": "Kammarkollegiet",
+        "type": "Myndighet"
+    },
+    "kammarratten.goteborg.se": {
+        "domain": "kammarratten.goteborg.se",
+        "org": "Kammarr\u00e4tten i G\u00f6teborg",
+        "type": "Myndighet"
+    },
+    "kanal5.se": {
+        "domain": "kanal5.se",
+        "org": "Kanal5",
+        "type": "Media"
+    },
+    "kanal5play.se": {
+        "domain": "kanal5play.se",
+        "org": "Kanal5",
+        "type": "Media"
+    },
+    "kanal9play.se": {
+        "domain": "kanal9play.se",
+        "org": "Kanal9play",
+        "type": "Media"
+    },
+    "kanalnio.se": {
+        "domain": "kanalnio.se",
+        "org": "Kanal9",
+        "type": "Media"
+    },
+    "karlsborg.se": {
+        "domain": "karlsborg.se",
+        "org": "Karlsborgs kommun",
+        "type": "Kommun"
+    },
+    "karlshamn.se": {
+        "domain": "karlshamn.se",
+        "org": "Karlshamns kommun",
+        "type": "Kommun"
+    },
+    "karlskoga.se": {
+        "domain": "karlskoga.se",
+        "org": "Karlskoga kommun",
+        "type": "Kommun"
+    },
+    "karlskrona.se": {
+        "domain": "karlskrona.se",
+        "org": "Karlskrona kommun",
+        "type": "Kommun"
+    },
+    "karlstad.se": {
+        "domain": "karlstad.se",
+        "org": "Karlstads kommun",
+        "type": "Kommun"
+    },
+    "karnavfallsfonden.se": {
+        "domain": "karnavfallsfonden.se",
+        "org": "K\u00e4rnavfallsfonden",
+        "type": "Myndighet"
+    },
+    "katrineholm.se": {
+        "domain": "katrineholm.se",
+        "org": "Katrineholms kommun",
+        "type": "Kommun"
+    },
+    "kau.se": {
+        "domain": "kau.se",
+        "org": "Karlstads universitet",
+        "type": "Utbildning"
+    },
+    "kavlinge.se": {
+        "domain": "kavlinge.se",
+        "org": "K\u00e4vlinge kommun",
+        "type": "Kommun"
+    },
+    "kb.se": {
+        "domain": "kb.se",
+        "org": "Kungl. biblioteket (KB)",
+        "type": "Myndighet"
+    },
+    "kemi.se": {
+        "domain": "kemi.se",
+        "org": "Kemikalieinspektionen",
+        "type": "Myndighet"
+    },
+    "ki.se": {
+        "domain": "ki.se",
+        "org": "Karolinska institutet (KI)",
+        "type": "Myndighet"
+    },
+    "kil.se": {
+        "domain": "kil.se",
+        "org": "Kils kommun",
+        "type": "Kommun"
+    },
+    "kinda.se": {
+        "domain": "kinda.se",
+        "org": "Kinda kommun",
+        "type": "Kommun"
+    },
+    "kirei.se": {
+        "domain": "kirei.se",
+        "org": "Kirei AB",
+        "type": "IT"
+    },
+    "kiruna.se": {
+        "domain": "kiruna.se",
+        "org": "Kiruna kommun",
+        "type": "Kommun"
+    },
+    "kkh.se": {
+        "domain": "kkh.se",
+        "org": "Kungl. Konsth\u00f6gskolan",
+        "type": "Utbildning"
+    },
+    "kkv.se": {
+        "domain": "kkv.se",
+        "org": "Konkurrensverket (KKV)",
+        "type": "Myndighet"
+    },
+    "klippan.se": {
+        "domain": "klippan.se",
+        "org": "Klippans kommun",
+        "type": "Kommun"
+    },
+    "kmh.se": {
+        "domain": "kmh.se",
+        "org": "Kungl. Musikh\u00f6gskolan i Stockholm",
+        "type": "Utbildning"
+    },
+    "knivsta.se": {
+        "domain": "knivsta.se",
+        "org": "Knivsta kommun",
+        "type": "Kommun"
+    },
+    "knowit.se": {
+        "domain": "knowit.se",
+        "org": "KnowIT AB",
+        "type": "IT"
+    },
+    "kommers.se": {
+        "domain": "kommers.se",
+        "org": "Kommerskollegium",
+        "type": "Myndighet"
+    },
+    "konj.se": {
+        "domain": "konj.se",
+        "org": "Konjunkturinstitutet",
+        "type": "Myndighet"
+    },
+    "konkurrensverket.se": {
+        "domain": "konkurrensverket.se",
+        "org": "Konkurrensverket (KKV)",
+        "type": "Myndighet"
+    },
+    "konstfack.se": {
+        "domain": "konstfack.se",
+        "org": "Konstfack",
+        "type": "Utbildning"
+    },
+    "konstnarsnamnden.se": {
+        "domain": "konstnarsnamnden.se",
+        "org": "Konstn\u00e4rsn\u00e4mnden",
+        "type": "Myndighet"
+    },
+    "konsumentverket.se": {
+        "domain": "konsumentverket.se",
+        "org": "Konsumentverket och Konsumentombudsmannen (KO)",
+        "type": "Myndighet"
+    },
+    "koping.se": {
+        "domain": "koping.se",
+        "org": "K\u00f6pings kommun",
+        "type": "Kommun"
+    },
+    "kpa.se": {
+        "domain": "kpa.se",
+        "org": "KPA",
+        "type": "Finans"
+    },
+    "kramfors.se": {
+        "domain": "kramfors.se",
+        "org": "Kramfors kommun",
+        "type": "Kommun"
+    },
+    "kriminalvarden.se": {
+        "domain": "kriminalvarden.se",
+        "org": "Kriminalv\u00e5rden",
+        "type": "Myndighet"
+    },
+    "kristianstad.se": {
+        "domain": "kristianstad.se",
+        "org": "Kristianstads kommun",
+        "type": "Kommun"
+    },
+    "kristinehamn.se": {
+        "domain": "kristinehamn.se",
+        "org": "Kristinehamns kommun",
+        "type": "Kommun"
+    },
+    "krokom.se": {
+        "domain": "krokom.se",
+        "org": "Krokoms kommun",
+        "type": "Kommun"
+    },
+    "kronofogden.se": {
+        "domain": "kronofogden.se",
+        "org": "Kronofogdemyndigheten",
+        "type": "Myndighet"
+    },
+    "kth.se": {
+        "domain": "kth.se",
+        "org": "Kungl. Tekniska h\u00f6gskolan",
+        "type": "Utbildning"
+    },
+    "kulturanalys.se": {
+        "domain": "kulturanalys.se",
+        "org": "Myndigheten f\u00f6r kulturanalys",
+        "type": "Myndighet"
+    },
+    "kulturradet.se": {
+        "domain": "kulturradet.se",
+        "org": "Statens kulturr\u00e5d",
+        "type": "Myndighet"
+    },
+    "kumla.se": {
+        "domain": "kumla.se",
+        "org": "Kumla kommun",
+        "type": "Kommun"
+    },
+    "kungahuset.se": {
+        "domain": "kungahuset.se",
+        "org": "Kungliga hov- och slottsstaten",
+        "type": "Myndighet"
+    },
+    "kungalv.se": {
+        "domain": "kungalv.se",
+        "org": "Kung\u00e4lvs kommun",
+        "type": "Kommun"
+    },
+    "kungsbacka.se": {
+        "domain": "kungsbacka.se",
+        "org": "Kungsbacka kommun",
+        "type": "Kommun"
+    },
+    "kungsor.se": {
+        "domain": "kungsor.se",
+        "org": "Kungs\u00f6rs kommun",
+        "type": "Kommun"
+    },
+    "kustbevakningen.se": {
+        "domain": "kustbevakningen.se",
+        "org": "Kustbevakningen (KBV)",
+        "type": "Myndighet"
+    },
+    "kvv.se": {
+        "domain": "kvv.se",
+        "org": "Kriminalv\u00e5rden",
+        "type": "Myndighet"
+    },
+    "lagradet.se": {
+        "domain": "lagradet.se",
+        "org": "Lagr\u00e5det",
+        "type": "Myndighet"
+    },
+    "laholm.se": {
+        "domain": "laholm.se",
+        "org": "Laholms kommun",
+        "type": "Kommun"
+    },
+    "lakemedelsverket.se": {
+        "domain": "lakemedelsverket.se",
+        "org": "L\u00e4kemedelsverket (LV)",
+        "type": "Myndighet"
+    },
+    "landskrona.se": {
+        "domain": "landskrona.se",
+        "org": "Landskrona kommun",
+        "type": "Kommun"
+    },
+    "lannebofonder.se": {
+        "domain": "lannebofonder.se",
+        "org": "Lannebo",
+        "type": "Finans"
+    },
+    "lansforsakringar.se": {
+        "domain": "lansforsakringar.se",
+        "org": "L\u00e4nsf\u00f6rs\u00e4kringar ",
+        "type": "Finans"
+    },
+    "lansstyrelsen.se": {
+        "domain": "lansstyrelsen.se",
+        "org": "L\u00e4nstyrelsen",
+        "type": "Myndighet"
+    },
+    "lantmateriet.se": {
+        "domain": "lantmateriet.se",
+        "org": "Lantm\u00e4teriet",
+        "type": "Myndighet"
+    },
+    "laxa.se": {
+        "domain": "laxa.se",
+        "org": "Lax\u00e5 kommun",
+        "type": "Kommun"
+    },
+    "leissner.se": {
+        "domain": "leissner.se",
+        "org": "Leissner Data AB",
+        "type": "IT"
+    },
+    "lekeberg.se": {
+        "domain": "lekeberg.se",
+        "org": "Lekebergs kommun",
+        "type": "Kommun"
+    },
+    "leksand.se": {
+        "domain": "leksand.se",
+        "org": "Leksands kommun",
+        "type": "Kommun"
+    },
+    "lernia.se": {
+        "domain": "lernia.se",
+        "org": "Lernia AB",
+        "type": "Statligt bolag"
+    },
+    "lerum.se": {
+        "domain": "lerum.se",
+        "org": "Lerums kommun",
+        "type": "Kommun"
+    },
+    "lessebo.se": {
+        "domain": "lessebo.se",
+        "org": "Lessebo kommun",
+        "type": "Kommun"
+    },
+    "levandehistoria.se": {
+        "domain": "levandehistoria.se",
+        "org": "Forum f\u00f6r levande historia",
+        "type": "Myndighet"
+    },
+    "lfv.se": {
+        "domain": "lfv.se",
+        "org": "Luftfartsverket (LFV)",
+        "type": "Myndighet"
+    },
+    "lg.se": {
+        "domain": "lg.se",
+        "org": "Landstinget G\u00e4vleborg",
+        "type": "Landsting"
+    },
+    "lidendata.se": {
+        "domain": "lidendata.se",
+        "org": "Lidero Network AB",
+        "type": "ISP"
+    },
+    "lidero.net": {
+        "domain": "lidero.net",
+        "org": "Lidero Network AB",
+        "type": "ISP"
+    },
+    "lidingo.se": {
+        "domain": "lidingo.se",
+        "org": "Liding\u00f6 stad",
+        "type": "Kommun"
+    },
+    "lidkoping.se": {
+        "domain": "lidkoping.se",
+        "org": "Lidk\u00f6pings kommun",
+        "type": "Kommun"
+    },
+    "lillaedet.se": {
+        "domain": "lillaedet.se",
+        "org": "Lilla Edets kommun",
+        "type": "Kommun"
+    },
+    "lindesberg.se": {
+        "domain": "lindesberg.se",
+        "org": "Lindesbergs kommun",
+        "type": "Kommun"
+    },
+    "linkoping.se": {
+        "domain": "linkoping.se",
+        "org": "Link\u00f6pings kommun",
+        "type": "Kommun"
+    },
+    "lio.se": {
+        "domain": "lio.se",
+        "org": "Landstinget i \u00d6sterg\u00f6tland",
+        "type": "Landsting"
+    },
+    "liu.se": {
+        "domain": "liu.se",
+        "org": "Link\u00f6pings universitet",
+        "type": "Utbildning"
+    },
+    "liv.se": {
+        "domain": "liv.se",
+        "org": "Landstinget i V\u00e4rmland",
+        "type": "Landsting"
+    },
+    "livsmedelsverket.se": {
+        "domain": "livsmedelsverket.se",
+        "org": "Livsmedelsverket",
+        "type": "Myndighet"
+    },
+    "lj.se": {
+        "domain": "lj.se",
+        "org": "Landstinget i J\u00f6nk\u00f6pings l\u00e4n",
+        "type": "Landsting"
+    },
+    "ljungby.se": {
+        "domain": "ljungby.se",
+        "org": "Ljungby kommun",
+        "type": "Kommun"
+    },
+    "ljusdal.se": {
+        "domain": "ljusdal.se",
+        "org": "Ljusdals kommun",
+        "type": "Kommun"
+    },
+    "ljusnarsberg.se": {
+        "domain": "ljusnarsberg.se",
+        "org": "Ljusnarsbergs kommun",
+        "type": "Kommun"
+    },
+    "lkab.se": {
+        "domain": "lkab.se",
+        "org": "Luossavaara-Kiirunavaara AB (LKAB)",
+        "type": "Statligt bolag"
+    },
+    "lm.se": {
+        "domain": "lm.se",
+        "org": "Lantm\u00e4teriet",
+        "type": "Myndighet"
+    },
+    "lnu.se": {
+        "domain": "lnu.se",
+        "org": "Linn\u00e9universitetet",
+        "type": "Utbildning"
+    },
+    "lomma.se": {
+        "domain": "lomma.se",
+        "org": "Lomma kommun",
+        "type": "Kommun"
+    },
+    "lotteriinspektionen.se": {
+        "domain": "lotteriinspektionen.se",
+        "org": "Lotteriinspektionen",
+        "type": "Myndighet"
+    },
+    "lsh.se": {
+        "domain": "lsh.se",
+        "org": "Livrustkammaren, Skoklosters slott och Hallwylska museet",
+        "type": "Myndighet"
+    },
+    "lst.se": {
+        "domain": "lst.se",
+        "org": "L\u00e4nstyrelsen",
+        "type": "Myndighet"
+    },
+    "ltblekinge.se": {
+        "domain": "ltblekinge.se",
+        "org": "Landstinget Blekinge",
+        "type": "Landsting"
+    },
+    "ltdalarna.se": {
+        "domain": "ltdalarna.se",
+        "org": "Landstinget Dalarna",
+        "type": "Landsting"
+    },
+    "ltkalmar.se": {
+        "domain": "ltkalmar.se",
+        "org": "Landstinget i Kalmar l\u00e4n",
+        "type": "Landsting"
+    },
+    "ltkronoberg.se": {
+        "domain": "ltkronoberg.se",
+        "org": "Landstinget Kronoberg",
+        "type": "Landsting"
+    },
+    "ltu.se": {
+        "domain": "ltu.se",
+        "org": "Lule\u00e5 tekniska universitet",
+        "type": "Utbildning"
+    },
+    "ltv.se": {
+        "domain": "ltv.se",
+        "org": "Landstinget V\u00e4stmanland",
+        "type": "Landsting"
+    },
+    "lu.se": {
+        "domain": "lu.se",
+        "org": "Lunds universitet",
+        "type": "Utbildning"
+    },
+    "ludvika.se": {
+        "domain": "ludvika.se",
+        "org": "Ludvika kommun",
+        "type": "Kommun"
+    },
+    "lul.se": {
+        "domain": "lul.se",
+        "org": "Landstinget i Uppsala l\u00e4n",
+        "type": "Landsting"
+    },
+    "lulea.se": {
+        "domain": "lulea.se",
+        "org": "Lule\u00e5 kommun",
+        "type": "Kommun"
+    },
+    "lund.se": {
+        "domain": "lund.se",
+        "org": "Lunds kommun",
+        "type": "Kommun"
+    },
+    "lvn.se": {
+        "domain": "lvn.se",
+        "org": "Landstinget V\u00e4sternorrland",
+        "type": "Landsting"
+    },
+    "lycksele.se": {
+        "domain": "lycksele.se",
+        "org": "Lycksele kommun",
+        "type": "Kommun"
+    },
+    "lysekil.se": {
+        "domain": "lysekil.se",
+        "org": "Lysekils kommun",
+        "type": "Kommun"
+    },
+    "mah.se": {
+        "domain": "mah.se",
+        "org": "Malm\u00f6 H\u00f6gskola",
+        "type": "Utbildning"
+    },
+    "mala.se": {
+        "domain": "mala.se",
+        "org": "Mal\u00e5 kommun",
+        "type": "Kommun"
+    },
+    "malmo.se": {
+        "domain": "malmo.se",
+        "org": "Malm\u00f6 stad",
+        "type": "Kommun"
+    },
+    "malung-salen.se": {
+        "domain": "malung-salen.se",
+        "org": "Malung-S\u00e4lens kommun",
+        "type": "Kommun"
+    },
+    "marginalen.se": {
+        "domain": "marginalen.se",
+        "org": "Marginalen Bank Bankaktiebolag",
+        "type": "Finans"
+    },
+    "mariestad.se": {
+        "domain": "mariestad.se",
+        "org": "Mariestads kommun",
+        "type": "Kommun"
+    },
+    "marinmuseum.se": {
+        "domain": "marinmuseum.se",
+        "org": "Marinmuseum",
+        "type": "Myndighet"
+    },
+    "maritima.se": {
+        "domain": "maritima.se",
+        "org": "Statens maritima museer",
+        "type": "Myndighet"
+    },
+    "mark.se": {
+        "domain": "mark.se",
+        "org": "Marks kommun",
+        "type": "Kommun"
+    },
+    "markaryd.se": {
+        "domain": "markaryd.se",
+        "org": "Markaryds kommun",
+        "type": "Kommun"
+    },
+    "marknadsdomstolen.se": {
+        "domain": "marknadsdomstolen.se",
+        "org": "Marknadsdomstolen",
+        "type": "Myndighet"
+    },
+    "mdh.se": {
+        "domain": "mdh.se",
+        "org": "M\u00e4lardalens h\u00f6gskola",
+        "type": "Utbildning"
+    },
+    "medelhavsmuseet.se": {
+        "domain": "medelhavsmuseet.se",
+        "org": "Medelhavsmuseet",
+        "type": "Myndighet"
+    },
+    "medlingsinstitutet.se": {
+        "domain": "medlingsinstitutet.se",
+        "org": "Medlingsinstitutet",
+        "type": "Myndighet"
+    },
+    "mellerud.se": {
+        "domain": "mellerud.se",
+        "org": "Melleruds kommun",
+        "type": "Kommun"
+    },
+    "metria.se": {
+        "domain": "metria.se",
+        "org": "Metria",
+        "type": "Statligt bolag"
+    },
+    "metro.se": {
+        "domain": "metro.se",
+        "org": "Metro",
+        "type": "Media"
+    },
+    "mi.se": {
+        "domain": "mi.se",
+        "org": "Medlingsinstitutet",
+        "type": "Myndighet"
+    },
+    "migrationsverket.se": {
+        "domain": "migrationsverket.se",
+        "org": "Migrationsverket",
+        "type": "Myndighet"
+    },
+    "mil.se": {
+        "domain": "mil.se",
+        "org": "F\u00f6rsvarsmakten",
+        "type": "Myndighet"
+    },
+    "miun.se": {
+        "domain": "miun.se",
+        "org": "Mittuniversitetet",
+        "type": "Utbildning"
+    },
+    "mixmegapol.se": {
+        "domain": "mixmegapol.se",
+        "org": "Mixmegapol",
+        "type": "Media"
+    },
+    "mjolby.se": {
+        "domain": "mjolby.se",
+        "org": "Mj\u00f6lby kommun",
+        "type": "Kommun"
+    },
+    "modernafonder.se": {
+        "domain": "modernafonder.se",
+        "org": "Moderna fonder",
+        "type": "Finans"
+    },
+    "modernaforsakringar.se": {
+        "domain": "modernaforsakringar.se",
+        "org": "Moderna f\u00f6rs\u00e4kringar",
+        "type": "Finans"
+    },
+    "modernamuseet.se": {
+        "domain": "modernamuseet.se",
+        "org": "Moderna Museet",
+        "type": "Myndighet"
+    },
+    "molndal.se": {
+        "domain": "molndal.se",
+        "org": "M\u00f6lndals stad",
+        "type": "Kommun"
+    },
+    "monsteras.se": {
+        "domain": "monsteras.se",
+        "org": "M\u00f6nster\u00e5s kommun",
+        "type": "Kommun"
+    },
+    "mora.se": {
+        "domain": "mora.se",
+        "org": "Mora kommun",
+        "type": "Kommun"
+    },
+    "morbylanga.se": {
+        "domain": "morbylanga.se",
+        "org": "M\u00f6rbyl\u00e5nga kommun",
+        "type": "Kommun"
+    },
+    "motala.se": {
+        "domain": "motala.se",
+        "org": "Motala kommun",
+        "type": "Kommun"
+    },
+    "movestic.se": {
+        "domain": "movestic.se",
+        "org": "Movestic",
+        "type": "Finans"
+    },
+    "msb.se": {
+        "domain": "msb.se",
+        "org": "Myndigheten f\u00f6r samh\u00e4llsskydd och beredskap",
+        "type": "Myndighet"
+    },
+    "msr.se": {
+        "domain": "msr.se",
+        "org": "Svenska Milj\u00f6styrningsr\u00e5det AB",
+        "type": "Statligt bolag"
+    },
+    "mullsjo.se": {
+        "domain": "mullsjo.se",
+        "org": "Mullsj\u00f6 kommun",
+        "type": "Kommun"
+    },
+    "mullvad.net": {
+        "domain": "mullvad.net",
+        "org": "Amagicom AB (Mullvad)",
+        "type": "IT"
+    },
+    "munkedal.se": {
+        "domain": "munkedal.se",
+        "org": "Munkedals kommun",
+        "type": "Kommun"
+    },
+    "munkfors.se": {
+        "domain": "munkfors.se",
+        "org": "Munkfors kommun",
+        "type": "Kommun"
+    },
+    "myntkabinettet.se": {
+        "domain": "myntkabinettet.se",
+        "org": "Kungl. Myntkabinettet",
+        "type": "Myndighet"
+    },
+    "na.se": {
+        "domain": "na.se",
+        "org": "Nerikes Allehanda",
+        "type": "Media"
+    },
+    "nacka.se": {
+        "domain": "nacka.se",
+        "org": "Nacka kommun",
+        "type": "Kommun"
+    },
+    "nai.uu.se": {
+        "domain": "nai.uu.se",
+        "org": "Nordiska Afrikainstitutet (NAI)",
+        "type": "Myndighet"
+    },
+    "nassjo.se": {
+        "domain": "nassjo.se",
+        "org": "N\u00e4ssj\u00f6 kommun",
+        "type": "Kommun"
+    },
+    "nationalmuseum.se": {
+        "domain": "nationalmuseum.se",
+        "org": "Nationalmuseum",
+        "type": "Myndighet"
+    },
+    "naturvardsverket.se": {
+        "domain": "naturvardsverket.se",
+        "org": "Naturv\u00e5rdsverket",
+        "type": "Myndighet"
+    },
+    "netclean.se": {
+        "domain": "netclean.se",
+        "org": "Netclean Technologies AB",
+        "type": "IT"
+    },
+    "netnod.se": {
+        "domain": "netnod.se",
+        "org": "Netnod AB",
+        "type": "ISP"
+    },
+    "netresec.com": {
+        "domain": "netresec.com",
+        "org": "Netresec AB",
+        "type": "IT"
+    },
+    "nfc.polisen.se": {
+        "domain": "nfc.polisen.se",
+        "org": "Nationellt forensiskt centrum (NFC)",
+        "type": "Myndighet"
+    },
+    "nll.se": {
+        "domain": "nll.se",
+        "org": "Norrbottens l\u00e4ns landsting",
+        "type": "Landsting"
+    },
+    "nohau.se": {
+        "domain": "nohau.se",
+        "org": "Nohau AB",
+        "type": "IT"
+    },
+    "nora.se": {
+        "domain": "nora.se",
+        "org": "Nora kommun",
+        "type": "Kommun"
+    },
+    "norberg.se": {
+        "domain": "norberg.se",
+        "org": "Norbergs kommun",
+        "type": "Kommun"
+    },
+    "nordanstig.se": {
+        "domain": "nordanstig.se",
+        "org": "Nordanstigs kommun",
+        "type": "Kommun"
+    },
+    "nordea.se": {
+        "domain": "nordea.se",
+        "org": "Nordea Bank AB",
+        "type": "Finans"
+    },
+    "nordmaling.se": {
+        "domain": "nordmaling.se",
+        "org": "Nordmalings kommun",
+        "type": "Kommun"
+    },
+    "nordnet.se": {
+        "domain": "nordnet.se",
+        "org": "Nordnet Bank AB",
+        "type": "Finans"
+    },
+    "norrkoping.se": {
+        "domain": "norrkoping.se",
+        "org": "Norrk\u00f6pings kommun",
+        "type": "Kommun"
+    },
+    "norrlandcenter.se": {
+        "domain": "norrlandcenter.se",
+        "org": "Norrland Center AB",
+        "type": "Statligt bolag"
+    },
+    "norrtalje.se": {
+        "domain": "norrtalje.se",
+        "org": "Norrt\u00e4lje kommun",
+        "type": "Kommun"
+    },
+    "norsjo.se": {
+        "domain": "norsjo.se",
+        "org": "Norsj\u00f6 kommun",
+        "type": "Kommun"
+    },
+    "nrj.se": {
+        "domain": "nrj.se",
+        "org": "NRJ",
+        "type": "Media"
+    },
+    "nrm.se": {
+        "domain": "nrm.se",
+        "org": "Naturhistoriska riksmuseet",
+        "type": "Myndighet"
+    },
+    "nt.se": {
+        "domain": "nt.se",
+        "org": "Norrk\u00f6pings Tidningar",
+        "type": "Media"
+    },
+    "nwt.se": {
+        "domain": "nwt.se",
+        "org": "Nya Wermlands-tidningen",
+        "type": "Media"
+    },
+    "nybro.se": {
+        "domain": "nybro.se",
+        "org": "Nybro kommun",
+        "type": "Kommun"
+    },
+    "nykoping.se": {
+        "domain": "nykoping.se",
+        "org": "Nyk\u00f6pings kommun",
+        "type": "Kommun"
+    },
+    "nykvarn.se": {
+        "domain": "nykvarn.se",
+        "org": "Nykvarns kommun",
+        "type": "Kommun"
+    },
+    "nynashamn.se": {
+        "domain": "nynashamn.se",
+        "org": "Nyn\u00e4shamns kommun",
+        "type": "Kommun"
+    },
+    "ockelbo.se": {
+        "domain": "ockelbo.se",
+        "org": "Ockelbo kommun",
+        "type": "Kommun"
+    },
+    "ockero.se": {
+        "domain": "ockero.se",
+        "org": "\u00d6cker\u00f6 kommun",
+        "type": "Kommun"
+    },
+    "odeshog.se": {
+        "domain": "odeshog.se",
+        "org": "\u00d6desh\u00f6gs kommun",
+        "type": "Kommun"
+    },
+    "odinfonder.se": {
+        "domain": "odinfonder.se",
+        "org": "Odin Fonder",
+        "type": "Finans"
+    },
+    "okq8.se": {
+        "domain": "okq8.se",
+        "org": "OK-Q8 Bank AB",
+        "type": "Finans"
+    },
+    "oks.se": {
+        "domain": "oks.se",
+        "org": "\u00d6verklaganden\u00e4mnden f\u00f6r studiest\u00f6d (\u00d6KS)",
+        "type": "Myndighet"
+    },
+    "olandsbank.se": {
+        "domain": "olandsbank.se",
+        "org": "\u00d6lands Bank AB",
+        "type": "Finans"
+    },
+    "olofstrom.se": {
+        "domain": "olofstrom.se",
+        "org": "Olofstr\u00f6ms kommun",
+        "type": "Kommun"
+    },
+    "omegapoint.se": {
+        "domain": "omegapoint.se",
+        "org": "Omegapoint AB",
+        "type": "IT"
+    },
+    "onh.se": {
+        "domain": "onh.se",
+        "org": "\u00d6verklaganden\u00e4mnden f\u00f6r h\u00f6gskolan (\u00d6NH)",
+        "type": "Myndighet"
+    },
+    "op5.com": {
+        "domain": "op5.com",
+        "org": "op5 AB",
+        "type": "IT"
+    },
+    "operahogskolan.se": {
+        "domain": "operahogskolan.se",
+        "org": "Operah\u00f6gskolan i Stockholm",
+        "type": "Utbildning"
+    },
+    "operan.se": {
+        "domain": "operan.se",
+        "org": "Operan (Kungl. Operan AB)",
+        "type": "Statligt bolag"
+    },
+    "orebro.se": {
+        "domain": "orebro.se",
+        "org": "\u00d6rebro kommun",
+        "type": "Kommun"
+    },
+    "orebroll.se": {
+        "domain": "orebroll.se",
+        "org": "\u00d6rebro l\u00e4ns landsting",
+        "type": "Landsting"
+    },
+    "orkelljunga.se": {
+        "domain": "orkelljunga.se",
+        "org": "\u00d6rkelljunga kommun",
+        "type": "Kommun"
+    },
+    "ornskoldsvik.se": {
+        "domain": "ornskoldsvik.se",
+        "org": "\u00d6rnsk\u00f6ldsviks kommun",
+        "type": "Kommun"
+    },
+    "orsa.se": {
+        "domain": "orsa.se",
+        "org": "Orsa kommun",
+        "type": "Kommun"
+    },
+    "oru.se": {
+        "domain": "oru.se",
+        "org": "\u00d6rebro universitet",
+        "type": "Utbildning"
+    },
+    "orust.se": {
+        "domain": "orust.se",
+        "org": "Orust kommun",
+        "type": "Kommun"
+    },
+    "osby.se": {
+        "domain": "osby.se",
+        "org": "Osby kommun",
+        "type": "Kommun"
+    },
+    "oskarshamn.se": {
+        "domain": "oskarshamn.se",
+        "org": "Oskarshamns kommun",
+        "type": "Kommun"
+    },
+    "ostasiatiska.se": {
+        "domain": "ostasiatiska.se",
+        "org": "\u00d6stasiatiska museet",
+        "type": "Myndighet"
+    },
+    "osteraker.se": {
+        "domain": "osteraker.se",
+        "org": "\u00d6ster\u00e5kers kommun",
+        "type": "Kommun"
+    },
+    "ostersund.se": {
+        "domain": "ostersund.se",
+        "org": "\u00d6stersunds kommun",
+        "type": "Kommun"
+    },
+    "osthammar.se": {
+        "domain": "osthammar.se",
+        "org": "\u00d6sthammars kommun",
+        "type": "Kommun"
+    },
+    "ostragoinge.se": {
+        "domain": "ostragoinge.se",
+        "org": "\u00d6stra G\u00f6inge kommun",
+        "type": "Kommun"
+    },
+    "ovanaker.se": {
+        "domain": "ovanaker.se",
+        "org": "Ovan\u00e5kers kommun",
+        "type": "Kommun"
+    },
+    "overkalix.se": {
+        "domain": "overkalix.se",
+        "org": "\u00d6verkalix kommun",
+        "type": "Kommun"
+    },
+    "overklagandenamnden.se": {
+        "domain": "overklagandenamnden.se",
+        "org": "Skolv\u00e4sendets \u00f6verklaganden\u00e4mnd",
+        "type": "Myndighet"
+    },
+    "overtornea.se": {
+        "domain": "overtornea.se",
+        "org": "\u00d6vertorne\u00e5 kommun",
+        "type": "Kommun"
+    },
+    "ownit.se": {
+        "domain": "ownit.se",
+        "org": "Ownit Broadband AB",
+        "type": "ISP"
+    },
+    "oxelosund.se": {
+        "domain": "oxelosund.se",
+        "org": "Oxel\u00f6sunds kommun",
+        "type": "Kommun"
+    },
+    "pajala.se": {
+        "domain": "pajala.se",
+        "org": "Pajala kommun",
+        "type": "Kommun"
+    },
+    "partille.se": {
+        "domain": "partille.se",
+        "org": "Partille kommun",
+        "type": "Kommun"
+    },
+    "pbr.se": {
+        "domain": "pbr.se",
+        "org": "Patentbesv\u00e4rsr\u00e4tten (PBR)",
+        "type": "Myndighet"
+    },
+    "penser.se": {
+        "domain": "penser.se",
+        "org": "Erik Penser Bankaktiebolag",
+        "type": "Finans"
+    },
+    "penserfonder.se": {
+        "domain": "penserfonder.se",
+        "org": "Evli",
+        "type": "Finans"
+    },
+    "pensionsmyndigheten.se": {
+        "domain": "pensionsmyndigheten.se",
+        "org": "Pensionsmyndigheten",
+        "type": "Myndighet"
+    },
+    "perspektivbredband.se": {
+        "domain": "perspektivbredband.se",
+        "org": "Perspektiv Bredband",
+        "type": "ISP"
+    },
+    "perstorp.se": {
+        "domain": "perstorp.se",
+        "org": "Perstorps kommun",
+        "type": "Kommun"
+    },
+    "phonera.se": {
+        "domain": "phonera.se",
+        "org": "Phonera",
+        "type": "ISP"
+    },
+    "pitea.se": {
+        "domain": "pitea.se",
+        "org": "Pite\u00e5 kommun",
+        "type": "Kommun"
+    },
+    "pliktverket.se": {
+        "domain": "pliktverket.se",
+        "org": "Totalf\u00f6rsvarets rekryteringsmyndighet",
+        "type": "Myndighet"
+    },
+    "polar.se": {
+        "domain": "polar.se",
+        "org": "Polarforskningssekretariatet",
+        "type": "Myndighet"
+    },
+    "polisen.se": {
+        "domain": "polisen.se",
+        "org": "Rikspolisstyrelsen (RPS)",
+        "type": "Myndighet"
+    },
+    "posten.se": {
+        "domain": "posten.se",
+        "org": "Posten AB",
+        "type": "Statligt bolag"
+    },
+    "postnord.se": {
+        "domain": "postnord.se",
+        "org": "Post Norden AB",
+        "type": "Statligt bolag"
+    },
+    "ppm.nu": {
+        "domain": "ppm.nu",
+        "org": "Premiepensionsmyndigheten (PPM)",
+        "type": "Myndighet"
+    },
+    "presstodsnamnden.se": {
+        "domain": "presstodsnamnden.se",
+        "org": "Presst\u00f6dsn\u00e4mnden",
+        "type": "Myndighet"
+    },
+    "privataaffarer.se": {
+        "domain": "privataaffarer.se",
+        "org": "Privata aff\u00e4rer",
+        "type": "Media"
+    },
+    "programkontoret.se": {
+        "domain": "programkontoret.se",
+        "org": "Internationella programkontoret f\u00f6r utbildningsomr\u00e5det",
+        "type": "Myndighet"
+    },
+    "prv.se": {
+        "domain": "prv.se",
+        "org": "Patent- och registreringsverket (PRV)",
+        "type": "Myndighet"
+    },
+    "pts.se": {
+        "domain": "pts.se",
+        "org": "Post- och telestyrelsen (PTS)",
+        "type": "Myndighet"
+    },
+    "qvitoo.com": {
+        "domain": "qvitoo.com",
+        "org": "Logibit AB",
+        "type": "Finans"
+    },
+    "ra.se": {
+        "domain": "ra.se",
+        "org": "Riksarkivet (RA)",
+        "type": "Myndighet"
+    },
+    "raa.se": {
+        "domain": "raa.se",
+        "org": "Riksantikvarie\u00e4mbetet (RA\u00c4)",
+        "type": "Myndighet"
+    },
+    "radioochtv.se": {
+        "domain": "radioochtv.se",
+        "org": "Myndigheten f\u00f6r radio och tv",
+        "type": "Myndighet"
+    },
+    "ragunda.se": {
+        "domain": "ragunda.se",
+        "org": "Ragunda kommun",
+        "type": "Kommun"
+    },
+    "rattvik.se": {
+        "domain": "rattvik.se",
+        "org": "R\u00e4ttviks kommun",
+        "type": "Kommun"
+    },
+    "recordedfuture.com": {
+        "domain": "recordedfuture.com",
+        "org": "Recorded Future AB",
+        "type": "IT"
+    },
+    "regeringen.se": {
+        "domain": "regeringen.se",
+        "org": "Regeringskansliet",
+        "type": "Myndighet"
+    },
+    "regeringskansliet.se": {
+        "domain": "regeringskansliet.se",
+        "org": "Regeringskansliet",
+        "type": "Myndighet"
+    },
+    "regionhalland.se": {
+        "domain": "regionhalland.se",
+        "org": "Landstinget Halland",
+        "type": "Landsting"
+    },
+    "rekryteringsmyndigheten.se": {
+        "domain": "rekryteringsmyndigheten.se",
+        "org": "Rekryteringsmyndigheten",
+        "type": "Myndighet"
+    },
+    "resurs.se": {
+        "domain": "resurs.se",
+        "org": "Resurs Bank Aktiebolag",
+        "type": "Finans"
+    },
+    "revisorsnamnden.se": {
+        "domain": "revisorsnamnden.se",
+        "org": "Revisorsn\u00e4mnden",
+        "type": "Myndighet"
+    },
+    "ri.se": {
+        "domain": "ri.se",
+        "org": "Research Institutes of Sweden Holding AB",
+        "type": "Statligt bolag"
+    },
+    "riksarkivet.se": {
+        "domain": "riksarkivet.se",
+        "org": "Riksarkivet (RA)",
+        "type": "Myndighet"
+    },
+    "riksbank.se": {
+        "domain": "riksbank.se",
+        "org": "Sveriges riksbank",
+        "type": "Myndighet"
+    },
+    "riksdagen.se": {
+        "domain": "riksdagen.se",
+        "org": "Sveriges riksdag",
+        "type": "Myndighet"
+    },
+    "riksgalden.se": {
+        "domain": "riksgalden.se",
+        "org": "Riksg\u00e4ldskontoret",
+        "type": "Myndighet"
+    },
+    "riksrevisionen.se": {
+        "domain": "riksrevisionen.se",
+        "org": "Riksrevisionen",
+        "type": "Myndighet"
+    },
+    "riksutstallningar.se": {
+        "domain": "riksutstallningar.se",
+        "org": "Riksutst\u00e4llningar",
+        "type": "Myndighet"
+    },
+    "rixfm.se": {
+        "domain": "rixfm.se",
+        "org": "RIXFM",
+        "type": "Media"
+    },
+    "rmv.se": {
+        "domain": "rmv.se",
+        "org": "R\u00e4ttsmedicinalverket (RMV)",
+        "type": "Myndighet"
+    },
+    "robertsfors.se": {
+        "domain": "robertsfors.se",
+        "org": "Robertsfors kommun",
+        "type": "Kommun"
+    },
+    "romab.com": {
+        "domain": "romab.com",
+        "org": "Robert Malmgren AB",
+        "type": "IT"
+    },
+    "ronneby.se": {
+        "domain": "ronneby.se",
+        "org": "Ronneby kommun",
+        "type": "Kommun"
+    },
+    "royalcourt.se": {
+        "domain": "royalcourt.se",
+        "org": "Kungliga hov- och slottsstaten",
+        "type": "Myndighet"
+    },
+    "rymdstyrelsen.se": {
+        "domain": "rymdstyrelsen.se",
+        "org": "Rymdstyrelsen",
+        "type": "Myndighet"
+    },
+    "sadev.se": {
+        "domain": "sadev.se",
+        "org": "Institutet f\u00f6r utv\u00e4rdering av internationellt utvecklingsamarbete (Sadev)",
+        "type": "Myndighet"
+    },
+    "saffle.se": {
+        "domain": "saffle.se",
+        "org": "S\u00e4ffle kommun",
+        "type": "Kommun"
+    },
+    "sakerhetspolisen.se": {
+        "domain": "sakerhetspolisen.se",
+        "org": "S\u00e4kerhetspolisen (S\u00c4PO)",
+        "type": "Myndighet"
+    },
+    "sakint.se": {
+        "domain": "sakint.se",
+        "org": "S\u00e4kerhets- och integritetsskyddsn\u00e4mnden",
+        "type": "Myndighet"
+    },
+    "sala.se": {
+        "domain": "sala.se",
+        "org": "Sala kommun",
+        "type": "Kommun"
+    },
+    "salem.se": {
+        "domain": "salem.se",
+        "org": "Salems kommun",
+        "type": "Kommun"
+    },
+    "salusansvar.se": {
+        "domain": "salusansvar.se",
+        "org": "Salus Ansvar",
+        "type": "Finans"
+    },
+    "sameskolstyrelsen.se": {
+        "domain": "sameskolstyrelsen.se",
+        "org": "Sameskolstyrelsen",
+        "type": "Myndighet"
+    },
+    "sametinget.se": {
+        "domain": "sametinget.se",
+        "org": "Sametinget",
+        "type": "Myndighet"
+    },
+    "samhall.se": {
+        "domain": "samhall.se",
+        "org": "Samhall AB",
+        "type": "Statligt bolag"
+    },
+    "sandvik.com": {
+        "domain": "sandvik.com",
+        "org": "Sandvik AB",
+        "type": "Industri"
+    },
+    "sandviken.se": {
+        "domain": "sandviken.se",
+        "org": "Sandvikens kommun",
+        "type": "Kommun"
+    },
+    "sas.se": {
+        "domain": "sas.se",
+        "org": "SAS",
+        "type": "Statligt bolag"
+    },
+    "sater.se": {
+        "domain": "sater.se",
+        "org": "S\u00e4ters kommun",
+        "type": "Kommun"
+    },
+    "savsjo.se": {
+        "domain": "savsjo.se",
+        "org": "S\u00e4vsj\u00f6 kommun",
+        "type": "Kommun"
+    },
+    "saxoprivatbank.se": {
+        "domain": "saxoprivatbank.se",
+        "org": "Saxo Privatbank",
+        "type": "Finans"
+    },
+    "sbab.se": {
+        "domain": "sbab.se",
+        "org": "Sveriges Bostadsfinansieringsaktiebolag (SBAB)",
+        "type": "Statligt bolag"
+    },
+    "sbo.se": {
+        "domain": "sbo.se",
+        "org": "Statens Bostadsomvandling AB (Sbo)",
+        "type": "Statligt bolag"
+    },
+    "sbu.se": {
+        "domain": "sbu.se",
+        "org": "Statens beredning f\u00f6r medicinsk utv\u00e4rdering (SBU)",
+        "type": "Myndighet"
+    },
+    "scb.se": {
+        "domain": "scb.se",
+        "org": "Statistiska centralbyr\u00e5n (SCB)",
+        "type": "Myndighet"
+    },
+    "seb.se": {
+        "domain": "seb.se",
+        "org": "SEB kort AB",
+        "type": "Finans"
+    },
+    "secode.se": {
+        "domain": "secode.se",
+        "org": "Secode AB",
+        "type": "IT"
+    },
+    "sectra.com": {
+        "domain": "sectra.com",
+        "org": "Sectra AB",
+        "type": "IT"
+    },
+    "sek.se": {
+        "domain": "sek.se",
+        "org": "AB Svensk Exportkredit (SEK)",
+        "type": "Statligt bolag"
+    },
+    "sentor.se": {
+        "domain": "sentor.se",
+        "org": "Sentor Managed Security Services AB",
+        "type": "IT"
+    },
+    "sesec.se": {
+        "domain": "sesec.se",
+        "org": "Sesec AB",
+        "type": "Fysisk s\u00e4kerhet"
+    },
+    "sfhm.se": {
+        "domain": "sfhm.se",
+        "org": "Statens f\u00f6rsvarhistoriska museer",
+        "type": "Myndighet"
+    },
+    "sfv.se": {
+        "domain": "sfv.se",
+        "org": "Statens fastighetsverk (SFV)",
+        "type": "Myndighet"
+    },
+    "sgu.se": {
+        "domain": "sgu.se",
+        "org": "Sveriges geologiska unders\u00f6kning (SGU)",
+        "type": "Myndighet"
+    },
+    "sh.se": {
+        "domain": "sh.se",
+        "org": "S\u00f6dert\u00f6rns h\u00f6gskola",
+        "type": "Utbildning"
+    },
+    "shmm.se": {
+        "domain": "shmm.se",
+        "org": "Statens historiska museer (SHMM)",
+        "type": "Myndighet"
+    },
+    "si.se": {
+        "domain": "si.se",
+        "org": "Svenska institutet (SI)",
+        "type": "Myndighet"
+    },
+    "sida.se": {
+        "domain": "sida.se",
+        "org": "Styrelsen f\u00f6r internationellt utvecklingssamarbete (SIDA)",
+        "type": "Myndighet"
+    },
+    "sieps.se": {
+        "domain": "sieps.se",
+        "org": "Svenska institutet f\u00f6r europapolitiska studier",
+        "type": "Myndighet"
+    },
+    "sigtuna.se": {
+        "domain": "sigtuna.se",
+        "org": "Sigtuna kommun",
+        "type": "Kommun"
+    },
+    "simplicity.se": {
+        "domain": "simplicity.se",
+        "org": "Simplicity ",
+        "type": "Finans"
+    },
+    "simrishamn.se": {
+        "domain": "simrishamn.se",
+        "org": "Simrishamns kommun",
+        "type": "Kommun"
+    },
+    "sis.se": {
+        "domain": "sis.se",
+        "org": "SIS, Swedish Standards Institute",
+        "type": "F\u00f6rening"
+    },
+    "siun.se": {
+        "domain": "siun.se",
+        "org": "Statens inspektion f\u00f6r f\u00f6rsvarsunderr\u00e4ttelseverksamheten",
+        "type": "Myndighet"
+    },
+    "sj.se": {
+        "domain": "sj.se",
+        "org": "SJ AB",
+        "type": "Statligt bolag"
+    },
+    "sjobo.se": {
+        "domain": "sjobo.se",
+        "org": "Sj\u00f6bo kommun",
+        "type": "Kommun"
+    },
+    "sjofartsverket.se": {
+        "domain": "sjofartsverket.se",
+        "org": "Sj\u00f6fartsverket (Sj\u00f6V)",
+        "type": "Myndighet"
+    },
+    "sjohistoriska.se": {
+        "domain": "sjohistoriska.se",
+        "org": "Sj\u00f6historiska museet",
+        "type": "Myndighet"
+    },
+    "sjuan.se": {
+        "domain": "sjuan.se",
+        "org": "Sjuan",
+        "type": "Media"
+    },
+    "sjv.se": {
+        "domain": "sjv.se",
+        "org": "Statens jordbruksverk",
+        "type": "Myndighet"
+    },
+    "skandia.se": {
+        "domain": "skandia.se",
+        "org": "Skandia ",
+        "type": "Finans"
+    },
+    "skandiabanken.se": {
+        "domain": "skandiabanken.se",
+        "org": "Skandiabanken",
+        "type": "Finans"
+    },
+    "skane.se": {
+        "domain": "skane.se",
+        "org": "Region Sk\u00e5ne",
+        "type": "Landsting"
+    },
+    "skara.se": {
+        "domain": "skara.se",
+        "org": "Skara kommun",
+        "type": "Kommun"
+    },
+    "skatteverket.se": {
+        "domain": "skatteverket.se",
+        "org": "Skatteverket",
+        "type": "Myndighet"
+    },
+    "skelleftea.se": {
+        "domain": "skelleftea.se",
+        "org": "Skellefte\u00e5 kommun",
+        "type": "Kommun"
+    },
+    "skeppshypotek.se": {
+        "domain": "skeppshypotek.se",
+        "org": "Svenska skeppshypotekskassan",
+        "type": "Statligt bolag"
+    },
+    "skinnskatteberg.se": {
+        "domain": "skinnskatteberg.se",
+        "org": "Skinnskattebergs kommun",
+        "type": "Kommun"
+    },
+    "skogsstyrelsen.se": {
+        "domain": "skogsstyrelsen.se",
+        "org": "Skogsstyrelsen",
+        "type": "Myndighet"
+    },
+    "skolinspektionen.se": {
+        "domain": "skolinspektionen.se",
+        "org": "Statens skolinspektion",
+        "type": "Myndighet"
+    },
+    "skolverket.se": {
+        "domain": "skolverket.se",
+        "org": "Statens skolverk",
+        "type": "Myndighet"
+    },
+    "skovde.se": {
+        "domain": "skovde.se",
+        "org": "Sk\u00f6vde kommun",
+        "type": "Kommun"
+    },
+    "skurup.se": {
+        "domain": "skurup.se",
+        "org": "Skurups kommun",
+        "type": "Kommun"
+    },
+    "sll.se": {
+        "domain": "sll.se",
+        "org": "Stockholms l\u00e4ns landsting",
+        "type": "Landsting"
+    },
+    "slu.se": {
+        "domain": "slu.se",
+        "org": "Sveriges lantbruksuniversitet",
+        "type": "Utbildning"
+    },
+    "slv.se": {
+        "domain": "slv.se",
+        "org": "Livsmedelsverket",
+        "type": "Myndighet"
+    },
+    "smedjebacken.se": {
+        "domain": "smedjebacken.se",
+        "org": "Smedjebackens kommun",
+        "type": "Kommun"
+    },
+    "smer.se": {
+        "domain": "smer.se",
+        "org": "Statens medicinsk-etiska r\u00e5d (SMER)",
+        "type": "Myndighet"
+    },
+    "smhi.se": {
+        "domain": "smhi.se",
+        "org": "Sveriges meteorologiska och hydrologiska institut (SMHI)",
+        "type": "Myndighet"
+    },
+    "smittskyddsinstitutet.se": {
+        "domain": "smittskyddsinstitutet.se",
+        "org": "Smittskyddsinstitutet (SMI)",
+        "type": "Myndighet"
+    },
+    "smvk.se": {
+        "domain": "smvk.se",
+        "org": "Statens museer f\u00f6r v\u00e4rldskultur",
+        "type": "Myndighet"
+    },
+    "snsb.se": {
+        "domain": "snsb.se",
+        "org": "Rymdstyrelsen",
+        "type": "Myndighet"
+    },
+    "socialstyrelsen.se": {
+        "domain": "socialstyrelsen.se",
+        "org": "Socialstyrelsen",
+        "type": "Myndighet"
+    },
+    "soderhamn.se": {
+        "domain": "soderhamn.se",
+        "org": "S\u00f6derhamns kommun",
+        "type": "Kommun"
+    },
+    "soderkoping.se": {
+        "domain": "soderkoping.se",
+        "org": "S\u00f6derk\u00f6pings kommun",
+        "type": "Kommun"
+    },
+    "sodertalje.se": {
+        "domain": "sodertalje.se",
+        "org": "S\u00f6dert\u00e4lje kommun",
+        "type": "Kommun"
+    },
+    "sofi.se": {
+        "domain": "sofi.se",
+        "org": "Institutet f\u00f6r spr\u00e5k och folkminnen",
+        "type": "Myndighet"
+    },
+    "solidab.se": {
+        "domain": "solidab.se",
+        "org": "Solid F\u00f6rs\u00e4krings AB",
+        "type": "Finans"
+    },
+    "solleftea.se": {
+        "domain": "solleftea.se",
+        "org": "Sollefte\u00e5 kommun",
+        "type": "Kommun"
+    },
+    "sollentuna.se": {
+        "domain": "sollentuna.se",
+        "org": "Sollentuna kommun",
+        "type": "Kommun"
+    },
+    "solna.se": {
+        "domain": "solna.se",
+        "org": "Solna stad",
+        "type": "Kommun"
+    },
+    "solvesborg.se": {
+        "domain": "solvesborg.se",
+        "org": "S\u00f6lvesborgs kommun",
+        "type": "Kommun"
+    },
+    "sormland.se": {
+        "domain": "sormland.se",
+        "org": "Landstinget S\u00f6rmland",
+        "type": "Landsting"
+    },
+    "sorsele.se": {
+        "domain": "sorsele.se",
+        "org": "Sorsele kommun",
+        "type": "Kommun"
+    },
+    "sosalarm.se": {
+        "domain": "sosalarm.se",
+        "org": "SOS Alarm Sverige AB",
+        "type": "Statligt bolag"
+    },
+    "sotenas.se": {
+        "domain": "sotenas.se",
+        "org": "Soten\u00e4s kommun",
+        "type": "Kommun"
+    },
+    "sp.se": {
+        "domain": "sp.se",
+        "org": "SP Sveriges Provnings- och Forskningsinstitut AB",
+        "type": "Statligt bolag"
+    },
+    "sparbankenalingsas.se": {
+        "domain": "sparbankenalingsas.se",
+        "org": "Sparbanken Alings\u00e5s AB",
+        "type": "Finans"
+    },
+    "sparbankeneken.se": {
+        "domain": "sparbankeneken.se",
+        "org": "Sparbanken Eken AB",
+        "type": "Finans"
+    },
+    "sparbankengoinge.se": {
+        "domain": "sparbankengoinge.se",
+        "org": "Sparbanken G\u00f6inge AB",
+        "type": "Finans"
+    },
+    "sparbankenlidkoping.se": {
+        "domain": "sparbankenlidkoping.se",
+        "org": "Sparbanken Lidk\u00f6ping AB",
+        "type": "Finans"
+    },
+    "sparbankenoresund.se": {
+        "domain": "sparbankenoresund.se",
+        "org": "Sparbanken \u00d6resund AB",
+        "type": "Finans"
+    },
+    "sparbankenrekarne.se": {
+        "domain": "sparbankenrekarne.se",
+        "org": "Sparbanken Rekarne AB",
+        "type": "Finans"
+    },
+    "sparbankenskaraborg.se": {
+        "domain": "sparbankenskaraborg.se",
+        "org": "Sparbanken Skaraborg AB",
+        "type": "Finans"
+    },
+    "specialfastigheter.se": {
+        "domain": "specialfastigheter.se",
+        "org": "Specialfastigheter Sverige AB",
+        "type": "Statligt bolag"
+    },
+    "spiltan.se": {
+        "domain": "spiltan.se",
+        "org": "Spiltan",
+        "type": "Finans"
+    },
+    "spp.se": {
+        "domain": "spp.se",
+        "org": "SPP",
+        "type": "Finans"
+    },
+    "spsm.se": {
+        "domain": "spsm.se",
+        "org": "Specialpedagogiska skolmyndigheten (SPM)",
+        "type": "Myndighet"
+    },
+    "spv.se": {
+        "domain": "spv.se",
+        "org": "Statens pensionsverk (SPV)",
+        "type": "Myndighet"
+    },
+    "sr.se": {
+        "domain": "sr.se",
+        "org": "Sveriges Radio",
+        "type": "Media"
+    },
+    "ssc.se": {
+        "domain": "ssc.se",
+        "org": "Svenska rymdaktiebolaget",
+        "type": "Statligt bolag"
+    },
+    "sst.a.se": {
+        "domain": "sst.a.se",
+        "org": "N\u00e4mnden f\u00f6r statligt st\u00f6d till trossamfund",
+        "type": "Myndighet"
+    },
+    "stadshypotekbank.se": {
+        "domain": "stadshypotekbank.se",
+        "org": "Stadshypotek Bank",
+        "type": "Finans"
+    },
+    "staffanstorp.se": {
+        "domain": "staffanstorp.se",
+        "org": "Staffanstorps kommun",
+        "type": "Kommun"
+    },
+    "stat-inst.se": {
+        "domain": "stat-inst.se",
+        "org": "Statens institutionsstyrelse (SiS)",
+        "type": "Myndighet"
+    },
+    "statensansvarsnamnd.se": {
+        "domain": "statensansvarsnamnd.se",
+        "org": "Statens ansvarsn\u00e4mnd",
+        "type": "Myndighet"
+    },
+    "statensbiografbyra.se": {
+        "domain": "statensbiografbyra.se",
+        "org": "Statens biografbyr\u00e5",
+        "type": "Myndighet"
+    },
+    "statenskonstrad.se": {
+        "domain": "statenskonstrad.se",
+        "org": "Statens konstr\u00e5d",
+        "type": "Myndighet"
+    },
+    "statensmedierad.se": {
+        "domain": "statensmedierad.se",
+        "org": "Statens medier\u00e5d",
+        "type": "Myndighet"
+    },
+    "statensmusikverk.se": {
+        "domain": "statensmusikverk.se",
+        "org": "Statens musikverk",
+        "type": "Myndighet"
+    },
+    "statenssc.se": {
+        "domain": "statenssc.se",
+        "org": "Statens servicecentrum",
+        "type": "Myndighet"
+    },
+    "statskontoret.se": {
+        "domain": "statskontoret.se",
+        "org": "Statskontoret",
+        "type": "Myndighet"
+    },
+    "stdh.se": {
+        "domain": "stdh.se",
+        "org": "Stockholms dramatiska h\u00f6gskola",
+        "type": "Utbildning"
+    },
+    "stenungsund.se": {
+        "domain": "stenungsund.se",
+        "org": "Stenungsunds kommun",
+        "type": "Kommun"
+    },
+    "stockholm.se": {
+        "domain": "stockholm.se",
+        "org": "Stockholms stad",
+        "type": "Kommun"
+    },
+    "storedsafe.com": {
+        "domain": "storedsafe.com",
+        "org": "AB StoredSafe",
+        "type": "IT"
+    },
+    "storfors.se": {
+        "domain": "storfors.se",
+        "org": "Storfors kommun",
+        "type": "Kommun"
+    },
+    "storuman.se": {
+        "domain": "storuman.se",
+        "org": "Storumans kommun",
+        "type": "Kommun"
+    },
+    "stralsakerhetsmyndigheten.se": {
+        "domain": "stralsakerhetsmyndigheten.se",
+        "org": "Str\u00e5ls\u00e4kerhetsmyndigheten",
+        "type": "Myndighet"
+    },
+    "strangnas.se": {
+        "domain": "strangnas.se",
+        "org": "Str\u00e4ngn\u00e4s kommun",
+        "type": "Kommun"
+    },
+    "stromstad.se": {
+        "domain": "stromstad.se",
+        "org": "Str\u00f6mstads kommun",
+        "type": "Kommun"
+    },
+    "stromsund.se": {
+        "domain": "stromsund.se",
+        "org": "Str\u00f6msunds kommun",
+        "type": "Kommun"
+    },
+    "su.se": {
+        "domain": "su.se",
+        "org": "Stockholms universitet",
+        "type": "Utbildning"
+    },
+    "sundbyberg.se": {
+        "domain": "sundbyberg.se",
+        "org": "Sundbybergs stad",
+        "type": "Kommun"
+    },
+    "sundsvall.se": {
+        "domain": "sundsvall.se",
+        "org": "Sundsvalls kommun",
+        "type": "Kommun"
+    },
+    "sunet.se": {
+        "domain": "sunet.se",
+        "org": "SUNET",
+        "type": "ISP"
+    },
+    "sunne.se": {
+        "domain": "sunne.se",
+        "org": "Sunne kommun",
+        "type": "Kommun"
+    },
+    "surahammar.se": {
+        "domain": "surahammar.se",
+        "org": "Surahammars kommun",
+        "type": "Kommun"
+    },
+    "sva.se": {
+        "domain": "sva.se",
+        "org": "Statens Veterin\u00e4rmedicinska Anstalt",
+        "type": "Myndighet"
+    },
+    "svalov.se": {
+        "domain": "svalov.se",
+        "org": "Sval\u00f6vs kommun",
+        "type": "Kommun"
+    },
+    "svanen.se": {
+        "domain": "svanen.se",
+        "org": "Milj\u00f6m\u00e4rkning Sverige AB",
+        "type": "Statligt bolag"
+    },
+    "svd.se": {
+        "domain": "svd.se",
+        "org": "Svenska Dagbladet",
+        "type": "Media"
+    },
+    "svea.se": {
+        "domain": "svea.se",
+        "org": "Svea hovr\u00e4tt med Milj\u00f6\u00f6verdomstolen",
+        "type": "Myndighet"
+    },
+    "sveaskog.se": {
+        "domain": "sveaskog.se",
+        "org": "Sveaskog F\u00f6rvaltnings AB",
+        "type": "Statligt bolag"
+    },
+    "svedab.se": {
+        "domain": "svedab.se",
+        "org": "Svensk-Danska Brof\u00f6rbindelsen AB (SVEDAB)",
+        "type": "Statligt bolag"
+    },
+    "svedala.se": {
+        "domain": "svedala.se",
+        "org": "Svedala kommun",
+        "type": "Kommun"
+    },
+    "svenljunga.se": {
+        "domain": "svenljunga.se",
+        "org": "Svenljunga kommun",
+        "type": "Kommun"
+    },
+    "svenskaspel.se": {
+        "domain": "svenskaspel.se",
+        "org": "Svenska Spel",
+        "type": "Statligt bolag"
+    },
+    "sverigesradio.se": {
+        "domain": "sverigesradio.se",
+        "org": "Sveriges Radio",
+        "type": "Media"
+    },
+    "svevia.se": {
+        "domain": "svevia.se",
+        "org": "Svevia",
+        "type": "Statligt bolag"
+    },
+    "svk.se": {
+        "domain": "svk.se",
+        "org": "Svenska kraftn\u00e4t",
+        "type": "Myndighet"
+    },
+    "svo.se": {
+        "domain": "svo.se",
+        "org": "Skogsstyrelsen",
+        "type": "Myndighet"
+    },
+    "svt.se": {
+        "domain": "svt.se",
+        "org": "SVT",
+        "type": "Media"
+    },
+    "svtplay.se": {
+        "domain": "svtplay.se",
+        "org": "SVT Play",
+        "type": "Media"
+    },
+    "swedac.se": {
+        "domain": "swedac.se",
+        "org": "Styrelsen f\u00f6r ackreditering och teknisk kontroll (SWEDAC)",
+        "type": "Myndighet"
+    },
+    "swedavia.se": {
+        "domain": "swedavia.se",
+        "org": "Swedavia",
+        "type": "Statligt bolag"
+    },
+    "swedbank.se": {
+        "domain": "swedbank.se",
+        "org": "Swedbank AB",
+        "type": "Finans"
+    },
+    "swedbankrobur.se": {
+        "domain": "swedbankrobur.se",
+        "org": "Swedbank Robur",
+        "type": "Finans"
+    },
+    "swedbanksjuharad.se": {
+        "domain": "swedbanksjuharad.se",
+        "org": "Swedbank Sjuh\u00e4rad AB",
+        "type": "Finans"
+    },
+    "swedesurvey.se": {
+        "domain": "swedesurvey.se",
+        "org": "Swedesurvey AB",
+        "type": "Statligt bolag"
+    },
+    "swedfund.se": {
+        "domain": "swedfund.se",
+        "org": "Swedfund International AB",
+        "type": "Statligt bolag"
+    },
+    "swedgeo.se": {
+        "domain": "swedgeo.se",
+        "org": "Geotekniska institut, Statens (SGI)",
+        "type": "Myndighet"
+    },
+    "swerea.se": {
+        "domain": "swerea.se",
+        "org": "Swedish Research AB",
+        "type": "Statligt bolag"
+    },
+    "sweroad.se": {
+        "domain": "sweroad.se",
+        "org": "Swedish National Road Consulting AB (SweRoad)",
+        "type": "Statligt bolag"
+    },
+    "sydsvenskan.se": {
+        "domain": "sydsvenskan.se",
+        "org": "Sydsvenskan",
+        "type": "Media"
+    },
+    "systembolaget.se": {
+        "domain": "systembolaget.se",
+        "org": "Systembolaget AB",
+        "type": "Statligt bolag"
+    },
+    "t3.se": {
+        "domain": "t3.se",
+        "org": "T3",
+        "type": "ISP"
+    },
+    "taby.se": {
+        "domain": "taby.se",
+        "org": "T\u00e4by kommun",
+        "type": "Kommun"
+    },
+    "tanum.se": {
+        "domain": "tanum.se",
+        "org": "Tanums kommun",
+        "type": "Kommun"
+    },
+    "tdc.se": {
+        "domain": "tdc.se",
+        "org": "TDC",
+        "type": "ISP"
+    },
+    "teaterhogskolan.se": {
+        "domain": "teaterhogskolan.se",
+        "org": "Teaterh\u00f6gskolan i Stockholm",
+        "type": "Utbildning"
+    },
+    "tele2.se": {
+        "domain": "tele2.se",
+        "org": "Tele2 AB",
+        "type": "ISP"
+    },
+    "telenor.se": {
+        "domain": "telenor.se",
+        "org": "Telenor",
+        "type": "ISP"
+    },
+    "telia.se": {
+        "domain": "telia.se",
+        "org": "TeliaNet",
+        "type": "ISP"
+    },
+    "teliasonera.com": {
+        "domain": "teliasonera.com",
+        "org": "Teliasonera",
+        "type": "Statligt bolag"
+    },
+    "teracom.se": {
+        "domain": "teracom.se",
+        "org": "Teracom AB",
+        "type": "Statligt bolag"
+    },
+    "tibro.se": {
+        "domain": "tibro.se",
+        "org": "Tibro kommun",
+        "type": "Kommun"
+    },
+    "tidaholm.se": {
+        "domain": "tidaholm.se",
+        "org": "Tidaholms kommun",
+        "type": "Kommun"
+    },
+    "tierp.se": {
+        "domain": "tierp.se",
+        "org": "Tierps kommun",
+        "type": "Kommun"
+    },
+    "tillvaxtanalys.se": {
+        "domain": "tillvaxtanalys.se",
+        "org": "Myndigheten f\u00f6r tillv\u00e4xtpolitiska utv\u00e4rderingar och analyser",
+        "type": "Myndighet"
+    },
+    "tillvaxtverket.se": {
+        "domain": "tillvaxtverket.se",
+        "org": "Tillv\u00e4xtverket",
+        "type": "Myndighet"
+    },
+    "timra.se": {
+        "domain": "timra.se",
+        "org": "Timr\u00e5 kommun",
+        "type": "Kommun"
+    },
+    "tingsryd.se": {
+        "domain": "tingsryd.se",
+        "org": "Tingsryds kommun",
+        "type": "Kommun"
+    },
+    "tjorn.se": {
+        "domain": "tjorn.se",
+        "org": "Tj\u00f6rns kommun",
+        "type": "Kommun"
+    },
+    "tjustbanken.se": {
+        "domain": "tjustbanken.se",
+        "org": "Tjusbygdens Sparbank",
+        "type": "Finans"
+    },
+    "tlv.se": {
+        "domain": "tlv.se",
+        "org": "Tandv\u00e5rds- och l\u00e4kemedelsf\u00f6rm\u00e5nsverket",
+        "type": "Myndighet"
+    },
+    "tomelilla.se": {
+        "domain": "tomelilla.se",
+        "org": "Tomelilla kommun",
+        "type": "Kommun"
+    },
+    "toreboda.se": {
+        "domain": "toreboda.se",
+        "org": "T\u00f6reboda kommun",
+        "type": "Kommun"
+    },
+    "torsas.se": {
+        "domain": "torsas.se",
+        "org": "Tors\u00e5s kommun",
+        "type": "Kommun"
+    },
+    "torsby.se": {
+        "domain": "torsby.se",
+        "org": "Torsby kommun",
+        "type": "Kommun"
+    },
+    "trafa.se": {
+        "domain": "trafa.se",
+        "org": "Trafikanalys",
+        "type": "Myndighet"
+    },
+    "trafikverket.se": {
+        "domain": "trafikverket.se",
+        "org": "Trafikverket",
+        "type": "Myndighet"
+    },
+    "tranas.se": {
+        "domain": "tranas.se",
+        "org": "Tran\u00e5s kommun",
+        "type": "Kommun"
+    },
+    "tranemo.se": {
+        "domain": "tranemo.se",
+        "org": "Tranemo kommun",
+        "type": "Kommun"
+    },
+    "transportstyrelsen.se": {
+        "domain": "transportstyrelsen.se",
+        "org": "Transportstyrelsen",
+        "type": "Myndighet"
+    },
+    "tre.se": {
+        "domain": "tre.se",
+        "org": "Tre ",
+        "type": "ISP"
+    },
+    "trelleborg.se": {
+        "domain": "trelleborg.se",
+        "org": "Trelleborgs kommun",
+        "type": "Kommun"
+    },
+    "triop.se": {
+        "domain": "triop.se",
+        "org": "Triop AB",
+        "type": "IT"
+    },
+    "trollhattan.se": {
+        "domain": "trollhattan.se",
+        "org": "Trollh\u00e4ttans stad",
+        "type": "Kommun"
+    },
+    "trosa.se": {
+        "domain": "trosa.se",
+        "org": "Trosa kommun",
+        "type": "Kommun"
+    },
+    "truesec.se": {
+        "domain": "truesec.se",
+        "org": "Truesec AB",
+        "type": "IT"
+    },
+    "trygghansa.se": {
+        "domain": "trygghansa.se",
+        "org": "Trygghansa",
+        "type": "Finans"
+    },
+    "tt.se": {
+        "domain": "tt.se",
+        "org": "TT",
+        "type": "Media"
+    },
+    "tullverket.se": {
+        "domain": "tullverket.se",
+        "org": "Tullverket",
+        "type": "Myndighet"
+    },
+    "tutus.se": {
+        "domain": "tutus.se",
+        "org": "Tutus Data AB",
+        "type": "IT"
+    },
+    "tv3.se": {
+        "domain": "tv3.se",
+        "org": "TV3",
+        "type": "Media"
+    },
+    "tv4.se": {
+        "domain": "tv4.se",
+        "org": "TV4",
+        "type": "Media"
+    },
+    "tv4play.se": {
+        "domain": "tv4play.se",
+        "org": "TV4 Play",
+        "type": "Media"
+    },
+    "tv6.se": {
+        "domain": "tv6.se",
+        "org": "TV6",
+        "type": "Media"
+    },
+    "tv8.se": {
+        "domain": "tv8.se",
+        "org": "TV8",
+        "type": "Media"
+    },
+    "tyreso.se": {
+        "domain": "tyreso.se",
+        "org": "Tyres\u00f6 kommun",
+        "type": "Kommun"
+    },
+    "uddevalla.se": {
+        "domain": "uddevalla.se",
+        "org": "Uddevalla kommun",
+        "type": "Kommun"
+    },
+    "uhr.se": {
+        "domain": "uhr.se",
+        "org": "Universitets- och h\u00f6gskoler\u00e5det",
+        "type": "Myndighet"
+    },
+    "ulricehamn.se": {
+        "domain": "ulricehamn.se",
+        "org": "Ulricehamns kommun",
+        "type": "Kommun"
+    },
+    "umea.se": {
+        "domain": "umea.se",
+        "org": "Ume\u00e5 kommun",
+        "type": "Kommun"
+    },
+    "umu.se": {
+        "domain": "umu.se",
+        "org": "Ume\u00e5 universitet",
+        "type": "Utbildning"
+    },
+    "undom.se": {
+        "domain": "undom.se",
+        "org": "F\u00f6rsvarsunderr\u00e4ttelsedomstolen",
+        "type": "Myndighet"
+    },
+    "ungdomsstyrelsen.se": {
+        "domain": "ungdomsstyrelsen.se",
+        "org": "Ungdomsstyrelsen",
+        "type": "Myndighet"
+    },
+    "unt.se": {
+        "domain": "unt.se",
+        "org": "Uppsala Nya Tidning",
+        "type": "Media"
+    },
+    "upplands-bro.se": {
+        "domain": "upplands-bro.se",
+        "org": "Upplands-Bro kommun",
+        "type": "Kommun"
+    },
+    "upplandsvasby.se": {
+        "domain": "upplandsvasby.se",
+        "org": "Upplands V\u00e4sby kommun",
+        "type": "Kommun"
+    },
+    "uppsala.se": {
+        "domain": "uppsala.se",
+        "org": "Uppsala kommun",
+        "type": "Kommun"
+    },
+    "uppvidinge.se": {
+        "domain": "uppvidinge.se",
+        "org": "Uppvidinge kommun",
+        "type": "Kommun"
+    },
+    "uu.se": {
+        "domain": "uu.se",
+        "org": "Uppsala universitet",
+        "type": "Utbildning"
+    },
+    "uvtc.com": {
+        "domain": "uvtc.com",
+        "org": "Universal Telecom",
+        "type": "ISP"
+    },
+    "va-namnden.se": {
+        "domain": "va-namnden.se",
+        "org": "Statens va-n\u00e4mnd (Va-n\u00e4mnden)",
+        "type": "Myndighet"
+    },
+    "vadstena.se": {
+        "domain": "vadstena.se",
+        "org": "Vadstena kommun",
+        "type": "Kommun"
+    },
+    "vaggeryd.se": {
+        "domain": "vaggeryd.se",
+        "org": "Vaggeryds kommun",
+        "type": "Kommun"
+    },
+    "val.se": {
+        "domain": "val.se",
+        "org": "Valmyndigheten",
+        "type": "Myndighet"
+    },
+    "valdemarsvik.se": {
+        "domain": "valdemarsvik.se",
+        "org": "Valdemarsviks kommun",
+        "type": "Kommun"
+    },
+    "vallentuna.se": {
+        "domain": "vallentuna.se",
+        "org": "Vallentuna kommun",
+        "type": "Kommun"
+    },
+    "vanersborg.se": {
+        "domain": "vanersborg.se",
+        "org": "V\u00e4nersborgs kommun",
+        "type": "Kommun"
+    },
+    "vannas.se": {
+        "domain": "vannas.se",
+        "org": "V\u00e4nn\u00e4s kommun",
+        "type": "Kommun"
+    },
+    "vansbro.se": {
+        "domain": "vansbro.se",
+        "org": "Vansbro kommun",
+        "type": "Kommun"
+    },
+    "vara.se": {
+        "domain": "vara.se",
+        "org": "Vara kommun",
+        "type": "Kommun"
+    },
+    "varberg.se": {
+        "domain": "varberg.se",
+        "org": "Varbergs kommun",
+        "type": "Kommun"
+    },
+    "varbergssparbank.se": {
+        "domain": "varbergssparbank.se",
+        "org": "Varbergs Sparbank",
+        "type": "Finans"
+    },
+    "vardanalys.se": {
+        "domain": "vardanalys.se",
+        "org": "Myndigheten f\u00f6r v\u00e5rdanalys",
+        "type": "Myndighet"
+    },
+    "vargarda.se": {
+        "domain": "vargarda.se",
+        "org": "V\u00e5rg\u00e5rda kommun",
+        "type": "Kommun"
+    },
+    "varmdo.se": {
+        "domain": "varmdo.se",
+        "org": "V\u00e4rmd\u00f6 kommun",
+        "type": "Kommun"
+    },
+    "varnamo.se": {
+        "domain": "varnamo.se",
+        "org": "V\u00e4rnamo kommun",
+        "type": "Kommun"
+    },
+    "vasakronan.se": {
+        "domain": "vasakronan.se",
+        "org": "Vasakronan AB",
+        "type": "Statligt bolag"
+    },
+    "vasallen.se": {
+        "domain": "vasallen.se",
+        "org": "Vasallen AB",
+        "type": "Statligt bolag"
+    },
+    "vasamuseet.se": {
+        "domain": "vasamuseet.se",
+        "org": "Vasamuseet",
+        "type": "Myndighet"
+    },
+    "vasteras.se": {
+        "domain": "vasteras.se",
+        "org": "V\u00e4ster\u00e5s stad",
+        "type": "Kommun"
+    },
+    "vastervik.se": {
+        "domain": "vastervik.se",
+        "org": "V\u00e4sterviks kommun",
+        "type": "Kommun"
+    },
+    "vattenfall.se": {
+        "domain": "vattenfall.se",
+        "org": "Vattenfall AB",
+        "type": "Statligt bolag"
+    },
+    "vaxholm.se": {
+        "domain": "vaxholm.se",
+        "org": "Vaxholms stad",
+        "type": "Kommun"
+    },
+    "vaxjo.se": {
+        "domain": "vaxjo.se",
+        "org": "V\u00e4xj\u00f6 kommun",
+        "type": "Kommun"
+    },
+    "vectura.se": {
+        "domain": "vectura.se",
+        "org": "Vectura Consulting AB",
+        "type": "Statligt bolag"
+    },
+    "vellinge.se": {
+        "domain": "vellinge.se",
+        "org": "Vellinge kommun",
+        "type": "Kommun"
+    },
+    "venantius.se": {
+        "domain": "venantius.se",
+        "org": "Venantius AB",
+        "type": "Statligt bolag"
+    },
+    "vetansvar.se": {
+        "domain": "vetansvar.se",
+        "org": "Ansvarsn\u00e4mnden f\u00f6r djurens h\u00e4lso- och sjukv\u00e5rd",
+        "type": "Myndighet"
+    },
+    "vetlanda.se": {
+        "domain": "vetlanda.se",
+        "org": "Vetlanda kommun",
+        "type": "Kommun"
+    },
+    "vgregion.se": {
+        "domain": "vgregion.se",
+        "org": "V\u00e4stra G\u00f6talandsregionen",
+        "type": "Landsting"
+    },
+    "viasat.se": {
+        "domain": "viasat.se",
+        "org": "TV1000",
+        "type": "Media"
+    },
+    "vilhelmina.se": {
+        "domain": "vilhelmina.se",
+        "org": "Vilhelmina kommun",
+        "type": "Kommun"
+    },
+    "vimmerby.se": {
+        "domain": "vimmerby.se",
+        "org": "Vimmerby kommun",
+        "type": "Kommun"
+    },
+    "vimmerbysparbank.se": {
+        "domain": "vimmerbysparbank.se",
+        "org": "Vimmerby Sparbank",
+        "type": "Finans"
+    },
+    "vindeln.se": {
+        "domain": "vindeln.se",
+        "org": "Vindelns kommun",
+        "type": "Kommun"
+    },
+    "vingaker.se": {
+        "domain": "vingaker.se",
+        "org": "Ving\u00e5kers kommun",
+        "type": "Kommun"
+    },
+    "vinnova.se": {
+        "domain": "vinnova.se",
+        "org": "Verket f\u00f6r innovationssystem (VINNOVA)",
+        "type": "Myndighet"
+    },
+    "visitsweden.com": {
+        "domain": "visitsweden.com",
+        "org": "V.S. Visit Sweden AB",
+        "type": "Statligt bolag"
+    },
+    "vll.se": {
+        "domain": "vll.se",
+        "org": "V\u00e4sterbottens l\u00e4ns landsting",
+        "type": "Landsting"
+    },
+    "volvofinans.se": {
+        "domain": "volvofinans.se",
+        "org": "Volvofinans Bank AB",
+        "type": "Finans"
+    },
+    "volvogroup.com": {
+        "domain": "volvogroup.com",
+        "org": "Volvo Group AB",
+        "type": "Industri"
+    },
+    "vr.se": {
+        "domain": "vr.se",
+        "org": "Vetenskapsr\u00e5det",
+        "type": "Myndighet"
+    },
+    "vti.se": {
+        "domain": "vti.se",
+        "org": "Statens v\u00e4g- och transportforskningsinstitut (VTI)",
+        "type": "Myndighet"
+    },
+    "vxu.se": {
+        "domain": "vxu.se",
+        "org": "V\u00e4xj\u00f6 universitet",
+        "type": "Utbildning"
+    },
+    "waldemarsudde.se": {
+        "domain": "waldemarsudde.se",
+        "org": "Prins Eugens Waldemarsudde",
+        "type": "Myndighet"
+    },
+    "xact.se": {
+        "domain": "xact.se",
+        "org": "XACT Fonder",
+        "type": "Finans"
+    },
+    "xpd.se": {
+        "domain": "xpd.se",
+        "org": "XPD AB",
+        "type": "IT"
+    },
+    "ydre.se": {
+        "domain": "ydre.se",
+        "org": "Ydre kommun",
+        "type": "Kommun"
+    },
+    "yhmyndigheten.se": {
+        "domain": "yhmyndigheten.se",
+        "org": "Myndigheten f\u00f6r yrkesh\u00f6gskolan",
+        "type": "Myndighet"
+    },
+    "ystad.se": {
+        "domain": "ystad.se",
+        "org": "Ystads kommun",
+        "type": "Kommun"
+    },
+    "zorn.se": {
+        "domain": "zorn.se",
+        "org": "Zornsamlingarna",
+        "type": "Myndighet"
+    }
+}
