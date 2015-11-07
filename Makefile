@@ -33,6 +33,8 @@ all:
 refresh:
 	date +%Y%m%d > $(VERSION_FILE)
 
+check: $(LIST)
+
 scan: $(REPORT)
 
 redirect: $(REDIRECT)
