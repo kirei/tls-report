@@ -3,6 +3,6 @@ addons:
   apt:
     packages:
     - make
-    - libjson-pp-perl
+    - libjson-perl
 install: true
 script: make check
