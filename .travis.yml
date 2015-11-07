@@ -4,5 +4,5 @@ addons:
     packages:
     - make
     - libjson-perl
-install:
+install: true
 script: make check
