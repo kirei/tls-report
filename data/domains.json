@@ -1176,8 +1176,8 @@
     },
     "hemkop.se": {
         "domain": "hemkop.se",
-        "org":  "Hemkopskjedjan AB,
-        "type": "Detaljhandel"
+        "org": "Hemk\u00f6pskjedjan AB",
+        "type:": "Detaljhandel"
     },
     "herjedalen.se": {
         "domain": "herjedalen.se",
