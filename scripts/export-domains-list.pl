@@ -27,7 +27,7 @@
 
 use strict;
 use warnings;
-use JSON -support_by_pp;
+use JSON;
 
 my $json = "";
 while (<>) {
