@@ -1,6 +1,2 @@
 language: perl
-addons:
-  apt:
-    packages:
-    - make
 script: make check
