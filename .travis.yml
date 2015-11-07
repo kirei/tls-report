@@ -1,5 +1,7 @@
 language: perl
-before_install:
-  - sudo apt-get update -qq
-  - sudo apt-get install make libjson-perl
+addons:
+  apt:
+    packages:
+    - make
+    - libjson-perl
 script: make check
