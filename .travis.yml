@@ -1,2 +1,3 @@
 language: perl
+install: cpanm JSON
 script: make check
