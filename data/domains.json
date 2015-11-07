@@ -189,6 +189,11 @@
         "org": "Apotek Produktion & Laboratorier AB",
         "type": "Statligt bolag"
     },
+    "apotea.se": {
+        "domain": "apotea.se",
+        "org": "Apotea AB",
+        "type": "Detaljhandel"
+    },
     "apoteket.se": {
         "domain": "apoteket.se",
         "org": "Apoteket",
@@ -343,6 +348,11 @@
         "domain": "bgc.se",
         "org": "Bankgirocentralen",
         "type": "Finans"
+    },
+    "bibliotekuppsala.se": {
+        "domain": "bibliotekuppsala.se",
+        "org": "Uppsala Kommun",
+        "type": "Kommun"
     },
     "bilprovningen.se": {
         "domain": "bilprovningen.se",
@@ -553,6 +563,11 @@
         "domain": "danderyd.se",
         "org": "Danderyds kommun",
         "type": "Kommun"
+    },
+    "danskebank.se": {
+        "domain": "danskebank.se",
+        "org": "Danskebank",
+        "type": "Bank"
     },
     "datainspektionen.se": {
         "domain": "datainspektionen.se",
@@ -1159,6 +1174,11 @@
         "org": "Helsingborgs stad",
         "type": "Kommun"
     },
+    "hemkop.se": {
+        "domain": "hemkop.se",
+        "org":  "Hemkopskjedjan AB,
+        "type": "Detaljhandel"
+    },
     "herjedalen.se": {
         "domain": "herjedalen.se",
         "org": "H\u00e4rjedalens kommun",
@@ -1298,6 +1318,11 @@
         "domain": "icabanken.se",
         "org": "ICA Banken",
         "type": "Finans"
+    },
+    "idg.se": {
+        "domain": "idg.se",
+        "org": "IDG International Data Group",
+        "type": "Media"
     },
     "if.se": {
         "domain": "if.se",
@@ -3709,6 +3734,11 @@
         "org": "Ulricehamns kommun",
         "type": "Kommun"
     },
+    "ulug.se": {
+        "domain": "ulug.se",
+        "org": "Uppsala Linux User Group",
+        "type": "F\u00f6rening"
+    },
     "umea.se": {
         "domain": "umea.se",
         "org": "Ume\u00e5 kommun",
@@ -3747,6 +3777,11 @@
     "uppsala.se": {
         "domain": "uppsala.se",
         "org": "Uppsala kommun",
+        "type": "Kommun"
+    },
+    "uppsalahem.se": {
+        "domain": "uppsalahem.se",
+        "org": "Uppsalahem AB",
         "type": "Kommun"
     },
     "uppvidinge.se": {
