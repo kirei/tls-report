@@ -2104,11 +2104,6 @@
         "org": "Mj\u00f6lby kommun",
         "type": "Kommun"
     },
-    "modernafonder.se": {
-        "domain": "modernafonder.se",
-        "org": "Moderna fonder",
-        "type": "Finans"
-    },
     "modernaforsakringar.se": {
         "domain": "modernaforsakringar.se",
         "org": "Moderna f\u00f6rs\u00e4kringar",
@@ -2278,11 +2273,6 @@
         "domain": "norrkoping.se",
         "org": "Norrk\u00f6pings kommun",
         "type": "Kommun"
-    },
-    "norrlandcenter.se": {
-        "domain": "norrlandcenter.se",
-        "org": "Norrland Center AB",
-        "type": "Statligt bolag"
     },
     "norrtalje.se": {
         "domain": "norrtalje.se",
@@ -3059,11 +3049,6 @@
         "org": "Sveriges meteorologiska och hydrologiska institut (SMHI)",
         "type": "Myndighet"
     },
-    "smittskyddsinstitutet.se": {
-        "domain": "smittskyddsinstitutet.se",
-        "org": "Smittskyddsinstitutet (SMI)",
-        "type": "Myndighet"
-    },
     "smvk.se": {
         "domain": "smvk.se",
         "org": "Statens museer f\u00f6r v\u00e4rldskultur",
@@ -3242,11 +3227,6 @@
     "statensansvarsnamnd.se": {
         "domain": "statensansvarsnamnd.se",
         "org": "Statens ansvarsn\u00e4mnd",
-        "type": "Myndighet"
-    },
-    "statensbiografbyra.se": {
-        "domain": "statensbiografbyra.se",
-        "org": "Statens biografbyr\u00e5",
         "type": "Myndighet"
     },
     "statenskonstrad.se": {
