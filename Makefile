@@ -94,7 +94,7 @@ $(HTML_EN): $(SUMMARY) $(TEMPLATE_EN) $(SCRIPT_WEB) $(I18N)
 		> $@
 
 $(LIST): $(DOMAINS)
-	perl scripts/export-domains-list.pl $(DOMAINS) > $@
+	jq -r '.[].domain' $(DOMAINS) > $@
 	
 clean:
 	rm -f $(TMPFILES)
