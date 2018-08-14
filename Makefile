@@ -26,6 +26,7 @@ HTML_EN=	web/report.en.html
 HTML_SV=	web/report.sv.html
 
 API=		https://api.ssllabs.com/api/v2/
+SCANNER=	ssllabs-scan --api="$(API)"
 
 
 all:
@@ -59,8 +60,7 @@ $(DNS): $(LIST)
 	perl scripts/check-dns.pl $(LIST) > $@
 
 $(REPORT): $(LIST)
-	ssllabs-scan \
-		--api="$(API)" \
+	$(SCANNER) \
 		--usecache=true --maxage=24 \
 		--hostfile=$(LIST) \
 		--verbosity=debug \
