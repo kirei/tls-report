@@ -1,0 +1,4844 @@
+{
+   "haninge.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "motala.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "lund.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "strangnas.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "addpro.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "solna.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "iaf.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "ap2.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "kanal5play.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "lessebo.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "ornskoldsvik.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "riksrevisionen.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "sollentuna.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "agria.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "kemi.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "stat-inst.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "riksarkivet.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "klippan.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "lulea.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "yhmyndigheten.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "vallentuna.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "statensmedierad.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "nacka.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "postnord.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "kalmar.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "tillvaxtverket.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "sva.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "bengtsfors.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "skara.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "herjedalen.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "vaggeryd.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "ltkalmar.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "afconsult.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "danderyd.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "kkv.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "tomelilla.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "dorotea.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "avanza.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "bitsec.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "sverigesradio.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "svedab.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "kanalnio.se" : {
+      "ipv4" : 0,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "ki.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "sater.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "boxer.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "inspsf.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "sameskolstyrelsen.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "skogsstyrelsen.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "perspektivbredband.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "skurup.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "fas.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "olofstrom.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "oru.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "mah.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "stromstad.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "kalix.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "jordbruksverket.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "bra.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "ri.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "greencargo.com" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "vaxjo.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 0,
+      "dnssec" : 0
+   },
+   "fxm.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "kmh.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "telia.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "sparbankenskaraborg.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "handisam.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "tv6.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "tyreso.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "landskrona.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "kustbevakningen.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "vimmerby.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "ap7.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "sametinget.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "havkom.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "soderhamn.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "bth.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "nai.uu.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "marginalen.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "vindeln.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "kungahuset.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "stralsakerhetsmyndigheten.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "svk.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 0,
+      "dnssec" : 0
+   },
+   "staffanstorp.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 0
+   },
+   "soderkoping.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "varbergssparbank.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "rekryteringsmyndigheten.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "expressen.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "netnod.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "sparbankenoresund.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "gislaved.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "kriminalvarden.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "sjohistoriska.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "sydsvenskan.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 0,
+      "dnssec" : 0
+   },
+   "nynashamn.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "lidingo.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "vetlanda.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "hogsby.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "kronofogden.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "ronneby.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "vll.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "borlange.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "xpd.se" : {
+      "ipv6" : 1,
+      "tlsa" : 1,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "seb.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "modernamuseet.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "fondfinans.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "svenljunga.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "irf.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "fi.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "modernaforsakringar.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "bilprovningen.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "uppvidinge.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "hig.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "viasat.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "omegapoint.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "statenssc.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "halmstad.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "assured.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "historiska.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "chalmers.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "teliasonera.com" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "tv8.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "operahogskolan.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "sbo.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "burlov.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "stromsund.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "vargarda.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "enkoping.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "krokom.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "barnombudsmannen.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "kulturanalys.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "alvsbyn.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "upplands-bro.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "his.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "oks.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "lerum.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "lotteriinspektionen.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "dalsed.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "norsjo.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "boras.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "lul.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "skandiabanken.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "snsb.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "hallstahammar.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "bollebygd.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "vinnova.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "skovde.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "elsakerhetsverket.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "presstodsnamnden.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 0,
+      "dnssec" : 0
+   },
+   "aneby.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "movestic.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "bjuv.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "gemoneybank.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "corechange.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "arbetsformedlingen.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "bollnas.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "brottsoffermyndigheten.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "imego.com" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "hh.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "vaxholm.se" : {
+      "dnssec" : 0,
+      "ipv4" : 0,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "astorp.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "sjuan.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "haparanda.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "upplandsvasby.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "sr.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "bredbandsbolaget.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "bgc.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "gnesta.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "polar.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "nykvarn.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "arjang.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "ltu.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "torsby.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "specialfastigheter.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "simplicity.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "gagnef.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "skelleftea.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "eda.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "detectify.com" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "kinda.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "pitea.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "vxu.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "samhall.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "metria.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "riksdagen.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "alfredberg.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "eslov.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "hedemora.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "skolverket.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "pliktverket.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "bahnhof.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "sweroad.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "sorsele.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "stockholm.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "investorab.com" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "marknadsdomstolen.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "investsweden.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "sbu.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "arbetsgivarverket.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "bfn.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "nrj.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "askersund.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "tjustbanken.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "kammarratten.goteborg.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "overklagandenamnden.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "vimmerbysparbank.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 0
+   },
+   "levandehistoria.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "handelsbanken.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "apoteket.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "jo.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "medlingsinstitutet.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "sunet.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "revisorsnamnden.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "sesec.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "falkoping.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "vilhelmina.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "apfond6.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "ystad.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "ockero.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "varnamo.se" : {
+      "ipv4" : 0,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "sosalarm.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "kth.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "vanersborg.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "fortv.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "zorn.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "lernia.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "mellerud.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "hovrattenfornedrenorrland.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "hemkop.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "solvesborg.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "comhem.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "swedavia.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "lillaedet.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "filipstad.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "oxelosund.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "secode.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "ekero.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "liv.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "odeshog.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "hagfors.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "visitsweden.com" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "volvogroup.com" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "mil.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 1
+   },
+   "coresec.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "gnosjo.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "amf.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "riksbank.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "lomma.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "vetansvar.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 0,
+      "dnssec" : 0
+   },
+   "falkenberg.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "sofi.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "habo.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "socialstyrelsen.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "huddinge.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "vellinge.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "vingaker.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "orkelljunga.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "konstfack.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "skolinspektionen.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "swedac.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "boverket.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "helsingborg.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "gih.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "ltv.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "gavle.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "lvn.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "norberg.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "goteborg.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "trafikverket.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "karlskrona.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "su.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "pensionsmyndigheten.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "fastighetsmaklarnamnden.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "rixfm.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "statenskonstrad.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "sh.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "onh.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "svedala.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "accept.se" : {
+      "ipv6" : 0,
+      "tlsa" : 1,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "foi.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "nordanstig.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "kungsor.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "tidaholm.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "dn.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "botkyrka.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "cim.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "alecta.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "coop.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "ap3.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "lantmateriet.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "lj.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "sundsvall.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "ikanobanken.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "lysekil.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "nfc.polisen.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "swedbankrobur.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 0
+   },
+   "karlsborg.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "xact.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "swedesurvey.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "mi.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "lidkoping.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "infranord.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "gp.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "ludvika.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "arvika.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "sp.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "datainspektionen.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "do.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "tlv.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "kungalv.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "raa.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "esf.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "blackinternet.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 0,
+      "dnssec" : 0
+   },
+   "miun.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "idg.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "tranemo.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "radioochtv.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "if.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "bjurholm.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "spsm.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "sieps.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "arvidsjaur.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "kanal9play.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "vara.se" : {
+      "dnssec" : 0,
+      "ipv4" : 0,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "botniabanan.se" : {
+      "ipv4" : 0,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "regionhalland.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "toreboda.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "mala.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "lindesberg.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "tv4.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "forshaga.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "lagradet.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "vti.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "privataaffarer.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "grastorp.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "sjofartsverket.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "nrm.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "sandvik.com" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "netclean.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "bostadsgaranti.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "sadev.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "si.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "osthammar.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "lfv.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "sj.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "arn.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "ragunda.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "konstnarsnamnden.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "varberg.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "storuman.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "etnografiska.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "unt.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "lsh.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "transportstyrelsen.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "danskebank.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "ljusdal.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "tdc.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "hassleholm.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "pajala.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "kau.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "ltblekinge.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "tv3.se" : {
+      "ipv4" : 0,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "cicerofonder.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "isp.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "ra.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "glocalnet.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "emmaboda.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "prv.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "svevia.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "nwt.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "kanal5.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "smvk.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "fhs.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "jokkmokk.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "regeringen.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "riksgalden.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "kkh.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "karlshamn.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "advenica.com" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "systembolaget.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "ericsson.com" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "mora.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "nt.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "swedbank.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "operan.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "tre.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 0,
+      "dnssec" : 0
+   },
+   "ydre.se" : {
+      "dnssec" : 0,
+      "ipv4" : 0,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "alvesta.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "oskarshamn.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "uvtc.com" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "slu.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "grums.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "justitiekanslern.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "svt.se" : {
+      "ipv4" : 0,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "kristinehamn.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "sparbankenalingsas.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "falun.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "telenor.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "knowit.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "svea.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 0
+   },
+   "simrishamn.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "rmv.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "laholm.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "apotea.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "vasakronan.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "kavlinge.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "malmo.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "ulricehamn.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "kungsbacka.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "fmv.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "ifau.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "are.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "arbetsdomstolen.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "leksand.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "undom.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 0
+   },
+   "energimarknadsinspektionen.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "varmdo.se" : {
+      "dnssec" : 0,
+      "ipv4" : 0,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "nll.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "epn.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "ap1.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "hoganas.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "rattvik.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "lst.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "kirei.se" : {
+      "tlsa" : 1,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "statskontoret.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 0,
+      "dnssec" : 0
+   },
+   "phonera.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "du.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "olandsbank.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "formas.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "forskarskattenamnden.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "csn.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "vasamuseet.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "solidab.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "didnergerge.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "sparbankengoinge.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "vr.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "fra.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "ownit.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "kiruna.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "hj.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "swedgeo.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "gu.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "eksjo.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "sotenas.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "nykoping.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "alvkarleby.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "metro.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "orebro.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "smhi.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "jernhusen.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "gullspang.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "boden.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "flen.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "migrationsverket.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "sjobo.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "konkurrensverket.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "lu.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "norrkoping.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "carnegie.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "eskilstuna.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "perstorp.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "karlskoga.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "orsa.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "mdh.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "uddevalla.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "dom.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "volvofinans.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "spiltan.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "triop.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "afaforsakring.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "eastcapital.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "affarsvarlden.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "kramfors.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "forsvarsmakten.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 1
+   },
+   "linkoping.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "sas.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "bolagsverket.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "nybro.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "alltele.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "mullsjo.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "laxa.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "lycksele.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "surahammar.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "sundbyberg.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "genteknik.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "dramaten.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "hm.com" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "kil.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "venantius.se" : {
+      "dnssec" : 0,
+      "ipv4" : 0,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "osby.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "bt.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "ssc.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "swedbanksjuharad.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "vasallen.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "torsas.se" : {
+      "dnssec" : 0,
+      "ipv4" : 0,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "skeppshypotek.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "kristianstad.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "hhs.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "borgholm.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "teracom.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "sala.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "karlstad.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "nordmaling.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "statensmusikverk.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "erv.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "sparbankenrekarne.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "sgu.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "valdemarsvik.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "tt.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "bracke.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "svenskaspel.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "bibliotekuppsala.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "karnavfallsfonden.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "arboga.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "heby.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "leissner.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "mark.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "icabanken.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "nohau.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "spp.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "vardanalys.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "robertsfors.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "hb.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "overtornea.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "kpa.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "jll.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "ostragoinge.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "siun.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "domarnamnden.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "statensansvarsnamnd.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "lnu.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "trollhattan.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "sparbankenlidkoping.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "sectra.com" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "sveaskog.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "monsteras.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "ess-scandinavia.se/" : {
+      "ipv4" : 0,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "sunne.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "apl.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "smedjebacken.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "esv.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "lansforsakringar.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "munkfors.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "bastad.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "akelius.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "lg.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "molndal.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "hammaro.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "sbab.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "hsv.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "han.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "ekn.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "taby.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "iis.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 1,
+      "ipv6" : 1
+   },
+   "lansstyrelsen.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "nora.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "umea.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "saxoprivatbank.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "penserfonder.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "cert.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "lidendata.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "fouriertransform.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "jonkoping.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "ostersund.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "overkalix.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "sll.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "ehalsomyndigheten.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "kulturradet.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "orebroll.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "doch.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "stenungsund.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "hudiksvall.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "liu.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "alandsbanken.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "fargelanda.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "trelleborg.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "lm.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "shmm.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "enterfonder.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "swerea.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "uppsalahem.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "truesec.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "norrtalje.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "ovanaker.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "savsjo.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "skandia.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "bankomat.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 1
+   },
+   "svanen.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "saffle.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "ale.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "regeringskansliet.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "jk.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "ostasiatiska.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "gjensidige.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "salusansvar.se" : {
+      "ipv4" : 0,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "boxholm.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "msr.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "storedsafe.com" : {
+      "ipv6" : 1,
+      "tlsa" : 1,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "herrljunga.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "apoteksgruppen.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "nationalmuseum.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "malung-salen.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "domstol.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "morbylanga.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "konsumentverket.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "tingsryd.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "smer.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "tullverket.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "havochvatten.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "svalov.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "ica.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "amfpension.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "orust.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "sek.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "uu.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "nassjo.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "bankid.com" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "sandviken.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "qvitoo.com" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "uppsala.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "ltdalarna.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "dina.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "kumla.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "odinfonder.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "nordnet.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "hogstadomstolen.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "msb.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "vannas.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "arjeplog.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "knivsta.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "energimyndigheten.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "fofspar.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "munkedal.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "skane.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "hallsberg.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "umu.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "av.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "skinnskatteberg.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "hofors.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "folksam.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "solleftea.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "katrineholm.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "teaterhogskolan.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "alvdalen.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "amal.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "programkontoret.se" : {
+      "ipv4" : 0,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "bromolla.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "ppm.nu" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "mixmegapol.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "mjolby.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "hkr.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "gotland.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "inlandsinnovation.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "ekobrottsmyndigheten.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "engelholm.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "ulug.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "fagersta.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "almi.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "cbfonder.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "myntkabinettet.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "lkab.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "scb.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "hv.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "spv.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "europeiska.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "koping.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "vansbro.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "gov.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "tanum.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "habokommun.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "tillvaxtanalys.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "tierp.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "forex.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "sakerhetspolisen.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "hultsfred.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "slv.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "recordedfuture.com" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "ungdomsstyrelsen.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "sodertalje.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "medelhavsmuseet.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "salem.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "lakemedelsverket.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "vgregion.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "waldemarsudde.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "ikanobank.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "gellivare.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "berg.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "almhult.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "sis.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "svo.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "sakint.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "penser.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "cybercom.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "vastervik.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "royalcourt.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "sparbankeneken.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "ltkronoberg.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "storfors.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "hylte.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "sfhm.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "halon.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "nordea.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "akademiskahus.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "va-namnden.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 0
+   },
+   "dgc.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "atlascopco.com" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "rymdstyrelsen.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "trygghansa.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "vectura.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "hellefors.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "finanspolitiskaradet.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "trafa.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "harnosand.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "posten.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "gotakanal.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "partille.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "jarfalla.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "ljungby.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "pbr.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "aktsam.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "tutus.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "vattenfall.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "op5.com" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "maritima.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "stdh.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "osteraker.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "lio.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "asele.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "sormland.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "gotene.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "ockelbo.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "avesta.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "naturvardsverket.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "ange.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "folkhalsomyndigheten.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "polisen.se" : {
+      "ipv6" : 1,
+      "tlsa" : 1,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "hgo.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "t3.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "essunga.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "sst.a.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "val.se" : {
+      "dnssec" : 0,
+      "ipv4" : 0,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "sjv.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "vasteras.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "trosa.se" : {
+      "dnssec" : 0,
+      "ipv4" : 0,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "catella.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "aklagare.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "lannebofonder.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "konj.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "finspong.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "stadshypotekbank.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "aftonbladet.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "lekeberg.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "svtplay.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "vadstena.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "hoor.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "sigtuna.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "corren.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "ip-only.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "ap4.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "isa.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "svd.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "marinmuseum.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "okq8.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "kvv.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "skatteverket.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "ljusnarsberg.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "amfafinans.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "mullvad.net" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "dnb.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "sida.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "livsmedelsverket.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "romab.com" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "alingsas.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "abanan.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "mariestad.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "tjorn.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "di.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "kb.se" : {
+      "ipv6" : 1,
+      "tlsa" : 0,
+      "dnssec" : 1,
+      "ipv4" : 1
+   },
+   "swedfund.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "harryda.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "atvidaberg.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "dfri.se" : {
+      "ipv4" : 1,
+      "dnssec" : 1,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "resurs.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "hjo.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "na.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "tele2.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "uhr.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "markaryd.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "sentor.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "tv4play.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "netresec.com" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "tranas.se" : {
+      "ipv4" : 0,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "kammarkollegiet.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "lidero.net" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "tibro.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "innovationsbron.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "sfv.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "riksutstallningar.se" : {
+      "tlsa" : 0,
+      "ipv6" : 0,
+      "ipv4" : 0,
+      "dnssec" : 0
+   },
+   "hd.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 0
+   },
+   "folkebernadotteacademy.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   },
+   "forsakringskassan.se" : {
+      "dnssec" : 1,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "timra.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 1
+   },
+   "pts.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "elegnamnden.se" : {
+      "tlsa" : 0,
+      "ipv6" : 1,
+      "ipv4" : 1,
+      "dnssec" : 1
+   },
+   "degerfors.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 0,
+      "tlsa" : 0
+   },
+   "bergslagenssparbank.se" : {
+      "ipv4" : 1,
+      "dnssec" : 0,
+      "tlsa" : 0,
+      "ipv6" : 0
+   },
+   "kommers.se" : {
+      "dnssec" : 0,
+      "ipv4" : 1,
+      "ipv6" : 1,
+      "tlsa" : 0
+   },
+   "horby.se" : {
+      "ipv6" : 0,
+      "tlsa" : 0,
+      "dnssec" : 0,
+      "ipv4" : 1
+   }
+}
